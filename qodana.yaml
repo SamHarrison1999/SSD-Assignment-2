@@ -9,8 +9,8 @@ profile:
   name: qodana.starter
 
 #Enable inspections
-#include:
-#  - name: <SomeEnabledInspectionId>
+include:
+ - name: PyVulnerableApiCode
 
 #Disable inspections
 #exclude:
@@ -29,6 +29,8 @@ profile:
 linter: jetbrains/qodana-python:latest
 
 bootstrap: pip install -r requirements.txt
+
+fixesStrategy: cleanup/apply
 
 failureConditions:
   severityThresholds:
