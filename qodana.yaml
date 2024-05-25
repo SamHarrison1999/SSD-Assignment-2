@@ -35,5 +35,5 @@ failureConditions:
     critical: 0 # Critical and other severities
     high: 0
   testCoverageThresholds:
-    fresh: 80 # Fresh code coverage
-    total: 80 # Total code coverage
+    fresh: 100 # Fresh code coverage
+    total: 100 # Total code coverage
