@@ -29,3 +29,11 @@ profile:
 linter: jetbrains/qodana-python:latest
 
 bootstrap: pip install -r requirements.txt
+
+failureConditions:
+  severityThresholds:
+    critical: 0 # Critical and other severities
+    high: 0
+  testCoverageThresholds:
+    fresh: 80 # Fresh code coverage
+    total: 80 # Total code coverage
