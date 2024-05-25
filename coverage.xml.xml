@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <file>C:\Users\samh9\Downloads\SSD_Assignment_2\main\__init__.py</file>
+	<statements>16</statements>
+	<missing>0</missing>
+	<excluded>0</excluded>
+	<coverage>100%</coverage>
+	<file>C:\Users\samh9\Downloads\SSD_Assignment_2\main\forms.py</file>
+	<statements>45</statements>
+	<missing>0</missing>
+	<excluded>0</excluded>
+	<coverage>100%</coverage>
+	<file>C:\Users\samh9\Downloads\SSD_Assignment_2\main\models.py</file>
+	<statements>48</statements>
+	<missing>0</missing>
+	<excluded>0</excluded>
+	<coverage>100%</coverage>
+	<file>C:\Users\samh9\Downloads\SSD_Assignment_2\main\routes.py</file>
+	<statements>308</statements>
+	<missing>0</missing>
+	<excluded>0</excluded>
+	<coverage>100%</coverage>
+	<file>C:\Users\samh9\Downloads\SSD_Assignment_2\test\test.py</file>
+	<statements>354</statements>
+	<missing>0</missing>
+	<excluded>0</excluded>
+	<coverage>100%</coverage>
+	<file>Total</file>
+	<statements>771</statements>
+	<missing>0</missing>
+	<excluded>0</excluded>
+	<coverage>100%</coverage>
+</root>
