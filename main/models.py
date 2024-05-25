@@ -1,7 +1,7 @@
+import datetime
+from flask_login import UserMixin
 from main import db, login_manager
 from main import bcrypt
-from flask_login import UserMixin
-import datetime
 
 
 @login_manager.user_loader

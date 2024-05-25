@@ -10143,3 +10143,7 @@ Q.idea/sonarlint/securityhotspotstore/9/f/9fdf2a36ec40c35d7ec9b0a1b6c574b5c2d223
 ,.idea/inspectionProfiles/Project_Default.xml,4\9\496a238a6afa168dbaf6efd37bb459331589579c
 ^
 ..idea/inspectionProfiles/profiles_settings.xml,1\e\1e9075f5bf079c01ef2c910709e91a497d262080
+4
+.env,3\c\3c84dcdc6bbe3d7817c49dcdc327b926fea1808a
+@
+requirements.txt,1\9\19359a61ae2446b51b549167b014da2fcf265768

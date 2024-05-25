@@ -12,18 +12,25 @@ class RegisterForm(FlaskForm):
     def validate_username(self, username_to_check):
         user = Customer.query.filter_by(username=username_to_check.data).first()
         if user:
-            raise ValidationError(f"Username '{self.username}' already exists! Please try a different username")
+            raise ValidationError(
+                f"Username '{self.username}' already exists! Please try a different username"
+            )
 
-    @staticmethod
     def validate_email(self, email_to_check):
-        email = Customer.query.filter_by(email=email_to_check.data).first()
+        email = (Customer.
+                 query.
+                 filter_by(email=email_to_check.data).first())
         if email:
-            raise ValidationError(f"Email '{self.email}' already exists! Please try a different email")
+            raise ValidationError(
+                f"Email '{self.email}' already exists! Please try a different email"
+            )
 
     username = StringField(label='User Name:', validators=[Length(min=2, max=30), DataRequired()])
     email = EmailField(label='Email Address:', validators=[Email(), DataRequired()])
     password = PasswordField(label='Password', validators=[Length(min=6), DataRequired()])
-    confirm_password = PasswordField(label='Confirm Password:', validators=[EqualTo('password'), DataRequired()])
+    confirm_password = PasswordField(
+        label='Confirm Password:',
+        validators=[EqualTo('password'), DataRequired()])
     submit = SubmitField(label='Create Account')
 
 
@@ -42,9 +49,15 @@ class SellItemForm(FlaskForm):
 
 
 class ChangePasswordForm(FlaskForm):
-    current_password = PasswordField(label='Current Password', validators=[Length(min=6), DataRequired()])
-    new_password = PasswordField(label='New Password', validators=[Length(min=6), DataRequired()])
-    confirm_password = PasswordField(label='Confirm Password', validators=[Length(min=6), DataRequired()])
+    current_password = PasswordField(
+        label='Current Password',
+        validators=[Length(min=6), DataRequired()])
+    new_password = PasswordField(
+        label='New Password',
+        validators=[Length(min=6), DataRequired()])
+    confirm_password = PasswordField(
+        label='Confirm Password',
+        validators=[Length(min=6), DataRequired()])
     submit = SubmitField(label='Update Password')
 
 

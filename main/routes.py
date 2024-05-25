@@ -7,6 +7,11 @@ from main import app, db
 from main.forms import RegisterForm, LoginForm, ChangePasswordForm, ShopItemsForm, OrderForm
 from main.models import Product, Customer, Cart, Order
 
+
+class CustomException(Exception):
+    pass
+
+
 ACCESS_DENIED_HTML = 'access-denied.html'
 ADMIN_EMAIL = 'admin@admin.com'
 API_PUBLISHABLE_KEY = 'ISPubKey_test_e26cdffa-f89c-41dd-a0d6-d16d1803ff34'
@@ -47,7 +52,10 @@ def register_page():
             db.session.add(customer)
             db.session.commit()
             login_user(customer)
-            flash(f'Account created successfully! You are now logged in as {customer.username}', category='success')
+            flash(
+                f'Account created successfully! You are now logged in as {customer.username}',
+                category='success'
+            )
         return redirect(url_for('home_page'))
     if form.errors != {}:  # If there are errors from the validations
         for err_msg in form.errors.values():
@@ -64,8 +72,7 @@ def login_page():
             login_user(attempted_user)
             flash(f'You are now logged in as: {attempted_user.username}', category='success')
             return redirect(url_for('home_page'))
-        else:
-            flash("Email and password don't match a valid user", category='danger')
+        flash("Email and password don't match a valid user", category='danger')
     return render_template('login.html', form=form)
 
 
@@ -83,8 +90,7 @@ def profile_page(customer_id):
     customer = Customer.query.get(customer_id)
     if current_user.id == customer_id:
         return render_template('profile.html', customer=customer)
-    else:
-        return render_template(ACCESS_DENIED_HTML)
+    return render_template(ACCESS_DENIED_HTML)
 
 
 @app.route('/change_password/<int:customer_id>', methods=["GET", "POST"])
@@ -102,14 +108,12 @@ def change_password_page(customer_id):
                 db.session.commit()
                 flash('Password updated', category='success')
                 return redirect(url_for('profile_page', customer_id=customer_id))
-            else:
-                flash('New passwords do not match', category='danger')
+            flash('New passwords do not match', category='danger')
         else:
             flash('Current password is incorrect', category='danger')
     if current_user.id == customer_id:
         return render_template('change-password.html', form=form)
-    else:
-        return render_template(ACCESS_DENIED_HTML)
+    return render_template(ACCESS_DENIED_HTML)
 
 
 @app.route('/create_product', methods=['GET', 'POST'])
@@ -126,8 +130,13 @@ def create_product():
             file_name = secure_filename(file.filename)
             product_image = f'./media/{file_name}'
             file.save(product_image)
-            new_product = Product(name=product_name, price=price, quantity=quantity, description=description,
-                                  product_image=product_image)
+            new_product = Product(
+                name=product_name,
+                price=price,
+                quantity=quantity,
+                description=description,
+                product_image=product_image
+            )
             db.session.add(new_product)
             db.session.commit()
             flash(f'{product_name} Added Successfully', category='success')
@@ -136,8 +145,7 @@ def create_product():
             for err_msg in form.errors.values():
                 flash(f'There was an error with adding a product: {err_msg}', category='danger')
         return render_template('create-product.html', form=form)
-    else:
-        return render_template(ACCESS_DENIED_HTML)
+    return render_template(ACCESS_DENIED_HTML)
 
 
 @app.route('/view-shop-items', methods=['GET', 'POST'])
@@ -146,8 +154,7 @@ def shop_items():
     if current_user.email == ADMIN_EMAIL:
         items = Product.query.order_by(Product.date_added).all()
         return render_template('shop_items.html', items=items)
-    else:
-        return render_template(ACCESS_DENIED_HTML)
+    return render_template(ACCESS_DENIED_HTML)
 
 
 @app.route('/update-item/<int:product_id>', methods=['GET', 'POST'])
@@ -169,11 +176,13 @@ def update_item(product_id):
             file_name = secure_filename(file.filename)
             file_path = f'./media/{file_name}'
             file.save(file_path)
-            Product.query.filter_by(id=product_id).update(dict(name=product_name,
-                                                               price=price,
-                                                               quantity=quantity,
-                                                               description=description,
-                                                               product_image=file_path))
+            Product.query.filter_by(id=product_id).update({
+                "name": product_name,
+                "price": price,
+                "quantity": quantity,
+                "description": description,
+                "product_image": file_path
+            })
             db.session.commit()
             flash(f'{product_name} Updated Successfully', category='success')
             return redirect(url_for('shop_items'))
@@ -181,8 +190,7 @@ def update_item(product_id):
             for err_msg in form.errors.values():
                 flash(f'There was an error with updating a product: {err_msg}', category='danger')
         return render_template('update_item.html', form=form)
-    else:
-        return render_template(ACCESS_DENIED_HTML)
+    return render_template(ACCESS_DENIED_HTML)
 
 
 @app.route('/delete-item/<int:product_id>', methods=['GET', 'DELETE'])
@@ -194,8 +202,7 @@ def delete_item(product_id):
         db.session.commit()
         flash('Item Deleted Successfully', category='success')
         return redirect(url_for('shop_items'))
-    else:
-        return render_template(ACCESS_DENIED_HTML)
+    return render_template(ACCESS_DENIED_HTML)
 
 
 @app.route('/add-to-cart/<int:product_id>', methods=['GET', 'POST'])
@@ -218,61 +225,58 @@ def add_to_cart(product_id):
     return redirect(request.referrer)
 
 
-@app.route('/increase-quantity')
+@app.route('/increase-quantity', methods=['GET'])
 @login_required
 def increase_quantity():
-    if request.method == 'GET':
-        cart_id = request.args.get('cart_id')
-        cart_item = Cart.query.get(cart_id)
-        cart_item.quantity += 1
-        db.session.commit()
-        cart = Cart.query.filter_by(customer_id=current_user.id).all()
-        amount = 0
-        for item in cart:
-            amount += item.product.price * item.quantity
-        data = {
-            'quantity': cart_item.quantity,
-            'amount': amount,
-        }
-        return jsonify(data)
+    cart_id = request.args.get('cart_id')
+    cart_item = Cart.query.get(cart_id)
+    cart_item.quantity += 1
+    db.session.commit()
+    cart = Cart.query.filter_by(customer_id=current_user.id).all()
+    amount = 0
+    for item in cart:
+        amount += item.product.price * item.quantity
+    data = {
+        'quantity': cart_item.quantity,
+        'amount': amount,
+    }
+    return jsonify(data)
 
 
-@app.route('/decrease-quantity')
+@app.route('/decrease-quantity', methods=['GET'])
 @login_required
 def decrease_quantity():
-    if request.method == 'GET':
-        cart_id = request.args.get('cart_id')
-        cart_item = Cart.query.get(cart_id)
-        cart_item.quantity -= 1
-        db.session.commit()
-        cart = Cart.query.filter_by(customer_id=current_user.id).all()
-        amount = 0
-        for item in cart:
-            amount += item.product.price * item.quantity
-        data = {
-            'quantity': cart_item.quantity,
-            'amount': amount,
-        }
-        return jsonify(data)
+    cart_id = request.args.get('cart_id')
+    cart_item = Cart.query.get(cart_id)
+    cart_item.quantity -= 1
+    db.session.commit()
+    cart = Cart.query.filter_by(customer_id=current_user.id).all()
+    amount = 0
+    for item in cart:
+        amount += item.product.price * item.quantity
+    data = {
+        'quantity': cart_item.quantity,
+        'amount': amount,
+    }
+    return jsonify(data)
 
 
-@app.route('/remove-from-cart')
+@app.route('/remove-from-cart', methods=['GET'])
 @login_required
 def remove_from_cart():
-    if request.method == 'GET':
-        cart_id = request.args.get('cart_id')
-        cart_item = Cart.query.get(cart_id)
-        db.session.delete(cart_item)
-        db.session.commit()
-        cart = Cart.query.filter_by(customer_id=current_user.id).all()
-        amount = 0
-        for item in cart:
-            amount += item.product.price * item.quantity
-        data = {
-            'quantity': cart_item.quantity,
-            'amount': amount,
-        }
-        return jsonify(data)
+    cart_id = request.args.get('cart_id')
+    cart_item = Cart.query.get(cart_id)
+    db.session.delete(cart_item)
+    db.session.commit()
+    cart = Cart.query.filter_by(customer_id=current_user.id).all()
+    amount = 0
+    for item in cart:
+        amount += item.product.price * item.quantity
+    data = {
+        'quantity': cart_item.quantity,
+        'amount': amount,
+    }
+    return jsonify(data)
 
 
 @app.route('/cart')
@@ -316,11 +320,10 @@ def place_order():
                     db.session.delete(item)
                     db.session.commit()
                 else:
-                    raise Exception('Item is not available')
+                    raise CustomException('Item is not available')
             flash('Order Placed Successfully', category='success')
             return redirect(url_for('my_orders'))
-        except Exception as e:
-            print(e)
+        except CustomException:
             flash('Order not placed', category='danger')
             return redirect(url_for('home_page'))
 
@@ -368,8 +371,7 @@ def update_order(order_id):
             db.session.commit()
             flash(f'Order {order_id} Updated successfully', category='success')
             return redirect(url_for('order_view'))
-        else:
-            flash(f'Order {order_id} not updated', category='danger')
+        flash(f'Order {order_id} not updated', category='danger')
         return render_template('order_update.html', form=form)
     return render_template(ACCESS_DENIED_HTML)
 
@@ -391,8 +393,8 @@ def delete_customer(customer_id):
         print(account_to_delete)
         db.session.delete(account_to_delete)
         db.session.commit()
-        flash(f"The customer with the email '{account_to_delete.email}' account has been deleted successfully",
-              category='success')
+        flash(
+            f"The account with the email '{account_to_delete.email}' has been deleted",
+            category='success')
         return redirect(url_for('display_customers'))
-    else:
-        return render_template(ACCESS_DENIED_HTML)
+    return render_template(ACCESS_DENIED_HTML)
