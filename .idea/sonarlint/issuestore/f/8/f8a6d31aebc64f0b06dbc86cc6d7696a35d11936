@@ -1,0 +1,8 @@
+
+npython:S1172`"+Remove the unused function parameter "ctx".(‹ÎŠ³ıÿÿÿÿJ$9a23eeeb-8cd6-42d8-85e8-c62893ef50d0
+ppython:S1172`"-Remove the unused function parameter "param".(‹ÎŠ³ıÿÿÿÿJ$1387443d-65ce-43c2-b6d3-80f83b530784
+qpython:S1172‹"-Remove the unused function parameter "param".(ã¿­ØıÿÿÿÿJ$8b168113-97ff-462d-be89-9758b163aca2
+opython:S1172‹"+Remove the unused function parameter "ctx".(ã¿­ØıÿÿÿÿJ$d42d7775-dc75-4eb5-a6ef-3202e06f54f1
+˜python:S3776Õ"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(’ßùµÿÿÿÿÿJ$ee8ef304-9034-4a3a-981c-52199c5900b6
+opython:S5806±"+Rename this variable; it shadows a builtin.(ÜÌŒÒÿÿÿÿÿJ$7ff03905-02b9-41b9-a000-73452e47c657
+˜python:S3776ç"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(Î¦ëøÿÿÿÿJ$021a1111-b7fa-492f-b560-be038f114218

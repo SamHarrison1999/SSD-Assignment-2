@@ -1,0 +1,13 @@
+
+”python:S1192ô"PDefine a constant instead of duplicating this literal "pygments.number" 4 times.(›ˆ¹éøÿÿÿÿJ$a711b0df-8d06-4a87-a903-2f3d566dce86
+python:S1192ñ"NDefine a constant instead of duplicating this literal "pygments.text" 8 times.(ÙÛJ$add95312-0b1d-4427-9368-65c828d67586
+—python:S1192 "SDefine a constant instead of duplicating this literal "traceback.exc_type" 3 times.(¤§úÿÿÿÿJ$6ce80784-c949-42b4-be31-3745fa01d4c1
+–python:S1192ó"RDefine a constant instead of duplicating this literal "pygments.function" 3 times.(ÓŠŠÈùÿÿÿÿJ$7ad83cfd-fb8f-4bc8-b953-d6304178c1ef
+python:S1192ò"PDefine a constant instead of duplicating this literal "pygments.string" 3 times.(¤ ş„J$d24144f1-f8c2-4fdb-ba5c-b3ea6a02d732
+—python:S37760"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(¦óøÎøÿÿÿÿJ$c93dba78-537f-4ccf-b55b-37852b2be101
+–python:S107¦"SMethod "from_exception" has 15 parameters, which is greater than the 13 authorized.(ÎÉ½ĞÿÿÿÿÿJ$6acf856e-d850-4f7d-bfa8-88897d5fe926
+“python:S3776ë"TRefactor this function to reduce its Cognitive Complexity from 51 to the 15 allowed.(©–·J$066aa2c7-a901-469c-8c8e-db9aef6cffc1
+˜python:S3776İ"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(•è²ËúÿÿÿÿJ$98e4790c-b4b9-464c-b06f-85f05ed47598
+fpython:S1481İ"'Remove the unused local variable "zed".(˜Î‘ÏJ$8ac06884-5248-4dc2-a028-46e6a14e2ef6
+{python:S5754î"<Specify an exception class to catch or reraise the exception(ˆÊÉ·J$6987e999-6b97-4bfa-aa4a-6fd9b2f0c555
+{python:S5754ì"<Specify an exception class to catch or reraise the exception(ˆÊÉ·J$26028386-8c01-418e-b0dc-f16ca114154d

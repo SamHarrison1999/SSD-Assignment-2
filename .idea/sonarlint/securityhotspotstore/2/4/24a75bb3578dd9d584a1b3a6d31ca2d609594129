@@ -1,0 +1,2 @@
+
+Âpython:S5852 "Make sure the regex used here, which is vulnerable to polynomial runtime due to backtracking, cannot lead to denial of service.(ıéÑşÿÿÿÿJ$d9afd8f8-2582-451e-b9c9-d6bfea2ff79f

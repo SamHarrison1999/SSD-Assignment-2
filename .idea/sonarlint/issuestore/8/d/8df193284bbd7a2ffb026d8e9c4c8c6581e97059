@@ -1,0 +1,39 @@
+
+jpython:S1172+",Remove the unused function parameter "item".(•û¿J$a2fd4362-de78-463a-b0a1-a879c5aeb934
+opython:S1172.",Remove the unused function parameter "item".(¿¼®äûÿÿÿÿJ$cb04807b-def6-4e65-9cfb-813638ad5448
+spython:S11721"0Remove the unused function parameter "iterable".(òÊ­ãúÿÿÿÿJ$3e5ec08c-985d-4fd9-9a3b-a0fce4889e38
+ipython:S11724"+Remove the unused function parameter "pos".(£”ÒÊJ$792e7d87-504d-4471-b411-1266a5a37956
+kpython:S11724"-Remove the unused function parameter "value".(£”ÒÊJ$a81cab72-31a2-416f-a246-f89f600d370e
+jpython:S11727"-Remove the unused function parameter "index".(¹›ŠJ$6d8dd993-67f5-4789-be4f-8e687f25fdf8
+lpython:S1172="/Remove the unused function parameter "reverse".(ƒ±9J$585e5d8e-30e9-48ae-b953-8e315352f92c
+hpython:S1172="+Remove the unused function parameter "key".(ƒ±9J$83e75aef-b1a7-4019-a4a2-1df7412aefdf
+mpython:S1172]"/Remove the unused function parameter "default".(µûÅˆJ$8f6c79ed-baad-41ed-998b-260e1e920743
+ipython:S1172]"+Remove the unused function parameter "key".(µûÅˆJ$b01270f7-f271-4d96-be94-91826ce5edf8
+qpython:S1172`".Remove the unused function parameter "kwargs".(ìÔÎ€üÿÿÿÿJ$ce13306b-9b6e-4c3d-8cd3-69f6baf19e6a
+opython:S1172`",Remove the unused function parameter "args".(ìÔÎ€üÿÿÿÿJ$c11af417-d4bf-419d-ae8c-467869088f3f
+npython:S1172c"+Remove the unused function parameter "key".(áØ»°üÿÿÿÿJ$a7c1f8df-464b-4e95-9d52-531424cec473
+rpython:S1172c"/Remove the unused function parameter "default".(áØ»°üÿÿÿÿJ$e0997b2e-5189-4920-9de7-74e4fe77b1c7
+opython:S1172"+Remove the unused function parameter "key".(ÓîûÂşÿÿÿÿJ$3ce01483-b9ee-4726-9ec1-289a8edd5d49
+qpython:S1172"-Remove the unused function parameter "value".(ÓîûÂşÿÿÿÿJ$19e0a4e2-8442-4f0a-8229-be8454ce6487
+jpython:S1172‡"+Remove the unused function parameter "key".(óı÷”J$afb67565-bc31-46a8-8677-697cbbf877e1
+jpython:S1172Š"+Remove the unused function parameter "key".(„ŞèÆJ$7a6a93fa-30e8-4ad2-a443-eb2421e17210
+opython:S1172Š"0Remove the unused function parameter "new_list".(„ŞèÆJ$bbc36ea5-07f3-4747-8d41-3fab8b7174a3
+spython:S1172"4Remove the unused function parameter "default_list".(’ç¯İJ$746caf5a-f86d-4cd8-a47c-0fb1ca819b37
+jpython:S1172"+Remove the unused function parameter "key".(’ç¯İJ$df1086e9-522b-4b8b-939c-7e42b0e6cc4d
+rpython:S1172¡".Remove the unused function parameter "kwargs".(ƒÜÍ„ÿÿÿÿÿJ$de340058-4871-46f1-a296-3fedbeb7e216
+jpython:S1172¤"+Remove the unused function parameter "key".(ƒ¨ä×J$536ebc52-dd7a-44c9-b18b-5d31245c1e58
+mpython:S1172¤".Remove the unused function parameter "values".(ƒ¨ä×J$1cf04acf-3517-4602-8069-6465a72b1e43
+rpython:S1172§".Remove the unused function parameter "kwargs".(Ïå‹›úÿÿÿÿJ$bb2cf01c-35bb-4d8b-9223-754f8ee8c931
+jpython:S1172­"+Remove the unused function parameter "key".(š£ÖıJ$361c0357-b929-4873-b612-afe2a54e770f
+kpython:S1172°",Remove the unused function parameter "args".(í¶£²J$8d54fbba-373b-4359-a2eb-5032eebf3445
+mpython:S1172°".Remove the unused function parameter "kwargs".(í¶£²J$105ff728-5d73-4537-91a6-76031e6d4b3e
+rpython:S1172³".Remove the unused function parameter "kwargs".(ìÔÎ€üÿÿÿÿJ$ccf062f2-9166-4694-a793-547999f2044f
+ppython:S1172³",Remove the unused function parameter "args".(ìÔÎ€üÿÿÿÿJ$c86cf453-004a-4165-a2ad-3c6d0b3216cb
+jpython:S1172¶"+Remove the unused function parameter "pos".(£”ÒÊJ$07ad9242-75c6-4f94-be07-88093a787e21
+lpython:S1172¶"-Remove the unused function parameter "value".(£”ÒÊJ$632137f8-5f46-4b5e-b14d-a53acf733f07
+jpython:S1172¹"+Remove the unused function parameter "key".(†¨–šJ$e84b47f2-76e9-4675-970e-5665e51d17bd
+npython:S1172¹"/Remove the unused function parameter "default".(†¨–šJ$89e21caa-818f-4630-a1a0-d3cbd69d1e2f
+npython:S1172¿"/Remove the unused function parameter "default".(Üªİ×J$022de778-16cc-4ccc-b22d-7e1a3a773cb0
+jpython:S1172¿"+Remove the unused function parameter "key".(Üªİ×J$620a0007-024d-4764-a7cc-f68981a4e15c
+opython:S1172Â"+Remove the unused function parameter "key".(¸½ï×øÿÿÿÿJ$02bcbd3f-cf93-4ac9-a4d6-291622d99ca0
+spython:S1172Â"/Remove the unused function parameter "default".(¸½ï×øÿÿÿÿJ$4df567ad-7690-4c10-9a5c-6bd11e61e1f8

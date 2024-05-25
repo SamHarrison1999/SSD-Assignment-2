@@ -1,0 +1,35 @@
+
+spython:S1066"/Merge this if statement with the enclosing one.(éüˆÇùÿÿÿÿJ$046fb624-f37a-475d-8b63-512d326de618
+—python:S3776l"TRefactor this function to reduce its Cognitive Complexity from 42 to the 15 allowed.(àÉ¯ÃıÿÿÿÿJ$b49d88c7-66cb-4698-a152-237440576e13
+rpython:S1172Ş".Remove the unused function parameter "states".(ĞèìáùÿÿÿÿJ$8a839135-bbf9-495c-aa42-0a49cfb608bd
+upython:S1172Ş"1Remove the unused function parameter "uowcommit".(ĞèìáùÿÿÿÿJ$6c028345-3dc6-402d-ba6c-c451e8363977
+mpython:S1172á".Remove the unused function parameter "states".(´ÇÛ€J$d984db43-9ab0-44d7-b7ea-50a14ebd2a10
+ppython:S1172á"1Remove the unused function parameter "uowcommit".(´ÇÛ€J$487bf1c2-b6e9-4181-879d-013f0812bc97
+˜python:S1186ä"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ˆÙı¿J$62aa1d10-75a5-4f0c-b757-49cc1c54310f
+python:S1186ç"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ÊÓµŠúÿÿÿÿJ$de5444b3-d0e3-43f7-9c7d-2da49603bed7
+ypython:S2836ƒ"5Add a "break" statement or remove this "else" clause.(³£œ‰øÿÿÿÿJ$8a55959d-4ba7-4acf-8740-f15dc85db7e6
+xpython:S1135ı"4Complete the task associated to this "TODO" comment.(âÂ²ŒøÿÿÿÿJ$c7c661aa-f7ff-4371-912a-aafe37087ad6
+§python:S1871¦"cEither merge this branch with the identical one on line "415" or change one of the implementations.(ÑÉü‰şÿÿÿÿJ$b2a9faee-1b11-422a-b9cc-446ee0b8c0d4
+xpython:S1135‹"4Complete the task associated to this "TODO" comment.(¦õÔúÿÿÿÿJ$277ff96b-a6ea-4d21-bf29-58ba5397c2a0
+–python:S3923"RRemove this if statement or edit its code blocks so that they're not all the same.(İ°ìªÿÿÿÿÿJ$9edc1b42-6ffe-4b68-a6fd-69816ff8da2b
+˜python:S3776¹"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(ĞèìáùÿÿÿÿJ$9dc91b4d-c584-4106-bdaa-dad772ac71fd
+hpython:S1940¾")Use the opposite operator ("!=") instead.(ŠãùJ$fb8fd240-902f-4178-b89f-b31f372dd8c2
+“python:S3776Ô"TRefactor this function to reduce its Cognitive Complexity from 47 to the 15 allowed.(´ÇÛ€J$ade89bb9-92e1-43f1-95ba-47b9576ab7e7
+hpython:S1940Ù")Use the opposite operator ("!=") instead.(ˆéšˆJ$2e7c604f-18b1-4a90-9965-2143e2f7eecf
+“python:S3776˜"TRefactor this function to reduce its Cognitive Complexity from 48 to the 15 allowed.(ˆÙı¿J$33146a29-9b31-4dc1-8194-b6ad6db1470b
+mpython:S1940Ÿ")Use the opposite operator ("!=") instead.(Øõ¡¨şÿÿÿÿJ$b28ff29f-b84d-45a8-9201-a77c0162b5e3
+˜python:S3776Ä"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(ÊÓµŠúÿÿÿÿJ$917de9b0-e08b-4c69-bd63-8025cf3670e7
+hpython:S1940Ç")Use the opposite operator ("!=") instead.(ˆéšˆJ$2fca623d-c462-460a-9465-2a2bdd86af64
+zpython:S2638ç"6Remove parameter pks_changed or provide default value.(ÇÅµàûÿÿÿÿJ$ef4b1537-0e2c-462c-81c5-d999d84bbc1d
+˜python:S3776è"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(ĞèìáùÿÿÿÿJ$baa8af02-6ef7-4b52-9bd0-a42489e91f34
+“python:S3776€"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(´ÇÛ€J$38eafdd7-d109-4223-bdac-b663fc715e91
+hpython:S1940™")Use the opposite operator ("!=") instead.(ˆéšˆJ$8ecfd5bc-ab42-4760-acca-8241a9a3557b
+python:S1186‚"YAdd a nested comment explaining why this method is empty, or complete the implementation.(àÉ¯ÃıÿÿÿÿJ$f44da7a0-7e19-4ef1-8043-67b9eff44461
+python:S1186…"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ĞèìáùÿÿÿÿJ$e0340eff-c0ab-4423-b92f-e4736b82e680
+“python:S3776®"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(„©²ÀJ$550094b7-37e0-47ee-9adf-fe60beb3ad62
+spython:S1135"4Complete the task associated to this "TODO" comment.(åí„ˆJ$b512aafe-cc18-4aec-977b-29d0e1bdc6c1
+‹python:S1854¡"LRemove this assignment to local variable 'history'; the value is never used.(ŸÀÆ›J$a544b6ab-1407-4b14-9d82-9948258bb568
+“python:S3776š"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(´ÇÛ€J$bf80864f-b908-419d-8719-1ac7b187777e
+“python:S3776¼"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ˆÙı¿J$5da7af7b-de02-4ee9-9bd2-21b1f27aebb5
+˜python:S3776ä"TRefactor this function to reduce its Cognitive Complexity from 39 to the 15 allowed.(ÊÓµŠúÿÿÿÿJ$b45faa01-4588-41a2-8130-8bea25abed6d
+rpython:S2638ï	"4Remove parameter operation or provide default value.(À›Á-J$68e9e188-aa65-4104-ab04-dd0bdafd3498

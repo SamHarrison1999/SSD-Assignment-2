@@ -1,0 +1,11 @@
+
+—python:S1186"YAdd a nested comment explaining why this method is empty, or complete the implementation.(éá‚¼J$4e32e05b-4dba-4fa1-82b6-c96a4f0dbf94
+jpython:S1172d",Remove the unused function parameter "name".( ö®¹J$e7b70bc7-831f-447f-b5d6-61954356b8c0
+npython:S1172d"0Remove the unused function parameter "filename".( ö®¹J$fcfcb6fc-db83-47b9-bfc9-fd89392760f0
+xpython:S1135û"4Complete the task associated to this "TODO" comment.(°šÖ÷ùÿÿÿÿJ$68c68424-917c-445e-bc40-505b4bbdc0a2
+hpython:S1172ª")Remove the unused function parameter "c".(íñèêJ$f4cdd5b3-fa40-4f59-9aa4-d706ae2e38b9
+hpython:S1172±")Remove the unused function parameter "c".(“§›J$7e6a67f3-2e46-46d1-8a85-1697c2502785
+˜python:S3776ã"TRefactor this function to reduce its Cognitive Complexity from 41 to the 15 allowed.(•ˆäùÿÿÿÿJ$d25098ae-5726-413f-a984-0ceb7ce8c0a2
+“python:S3776à"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.( ô°J$90260301-52d1-4888-b576-97c0326d9f05
+˜python:S3776"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(…Âæ…üÿÿÿÿJ$d5b0bdc4-8edf-4f93-b028-4d1e0077c355
+“python:S3776"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(Á¼Ì‰J$cd51c41a-e8cb-417b-b830-1de6256ee9f8

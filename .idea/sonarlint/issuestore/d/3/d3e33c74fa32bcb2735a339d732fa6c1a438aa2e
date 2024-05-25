@@ -1,0 +1,7 @@
+
+python:S107{"MMethod "__init__" has 17 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$2c3cab5c-167b-4f80-abf4-cc7dd45c13b6
+—python:S3776z"TRefactor this function to reduce its Cognitive Complexity from 47 to the 15 allowed.(ú„ÚüùÿÿÿÿJ$a0332f54-be1e-4a41-9d7e-856965502d87
+~python:S930‡"@Add 1 missing arguments; 'items' expects 1 positional arguments.(ÙÒÚJ$8dba877d-a6fe-456a-ba36-61c91584f082
+™python:S3776"URefactor this function to reduce its Cognitive Complexity from 105 to the 15 allowed.(‚¸İÆıÿÿÿÿJ$a2527501-cc9c-4289-96f7-47ff8364704a
+˜python:S3776Ï"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(˜óÑ§ıÿÿÿÿJ$44e5db77-c18f-42d0-a699-5525611f1c6e
+˜python:S3776ò"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(øİÒıÿÿÿÿJ$281de1eb-7a71-4378-86b7-ef7561767f44

@@ -1,0 +1,13 @@
+
+¶python:S1018"tRename class "CONSOLE_SCREEN_BUFFER_INFO" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(âê„üşÿÿÿÿJ$4b9f2db5-9038-4b2e-b158-96edb1c4e902
+¯python:S101B"mRename class "CONSOLE_CURSOR_INFO" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ıâäîÿÿÿÿÿJ$09f1ab80-e67e-484f-86bd-598059cb9c9e
+•python:S1542M"RRename function "GetStdHandle" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÂıïµùÿÿÿÿJ$d0a7bf5e-5d2e-4b4e-bc0e-6fc2f11b4959
+—python:S1542^"TRename function "GetConsoleMode" to match the regular expression ^[a-z_][a-z0-9_]*$.(óÛÌşüÿÿÿÿJ$3f9b6b84-6ab2-432a-9544-2d7764a3534a
+python:S1542"`Rename function "FillConsoleOutputCharacter" to match the regular expression ^[a-z_][a-z0-9_]*$.(˜Ô¸J$63459917-e66e-4d90-b28e-bb2098fa01d9
+¤python:S1542¨"`Rename function "FillConsoleOutputAttribute" to match the regular expression ^[a-z_][a-z0-9_]*$.(Å™íùüÿÿÿÿJ$885863ad-0084-474f-b9a8-0b50b7a5855d
+¡python:S1542Ë"]Rename function "SetConsoleTextAttribute" to match the regular expression ^[a-z_][a-z0-9_]*$.(É·¯«ıÿÿÿÿJ$b493f647-a502-405f-a36e-c91c0b645a87
+¤python:S1542ã"`Rename function "GetConsoleScreenBufferInfo" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÛÈĞÈûÿÿÿÿJ$6b721ee1-3831-41a5-8444-472dc4806627
+¢python:S1542û"^Rename function "SetConsoleCursorPosition" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ÿ„×ºÿÿÿÿÿJ$85c16497-5203-459a-8e5a-463a643b542f
+™python:S1542’"ZRename function "GetConsoleCursorInfo" to match the regular expression ^[a-z_][a-z0-9_]*$.(¢İÀªJ$b94fba15-32f3-480a-9e56-0741a7f063c5
+python:S1542ª"ZRename function "SetConsoleCursorInfo" to match the regular expression ^[a-z_][a-z0-9_]*$.(öøØÿÿÿÿÿÿJ$a16ce848-2c2f-4f42-8933-b18885c070eb
+™python:S1542¾"URename function "SetConsoleTitle" to match the regular expression ^[a-z_][a-z0-9_]*$.(´€æşÿÿÿÿJ$87e38a34-b97b-4bd8-bf58-6f1d75cf38a4

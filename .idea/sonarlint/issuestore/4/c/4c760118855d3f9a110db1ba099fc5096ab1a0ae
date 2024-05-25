@@ -1,0 +1,24 @@
+
+’python:S37760"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÌßšÂJ$3e0e98d1-6938-4875-b7bf-7d2fc88bf75d
+–python:S117a"YRename this parameter "titleOrRegExp" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿÈßíJ$83d605f3-39b8-47aa-a8f4-b076dff0e045
+–python:S117o"YRename this parameter "titleOrRegExp" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÿÈßíJ$3b93a80b-ec80-455f-b347-0676592c3fd4
+“python:S117x"VRename this parameter "ignoreCase" to match the regular expression ^[_a-z][a-z0-9_]*$.(Éÿ™§J$0142e0f7-d67b-4260-8ca7-fb9ff31614ae
+”python:S117v"WRename this parameter "urlOrRegExp" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÂŒ°ÈJ$52fd7952-e5e7-4818-9e2d-53adf89ad0ec
+”python:S117Š"VRename this parameter "ignoreCase" to match the regular expression ^[_a-z][a-z0-9_]*$.(Éÿ™§J$5eb46f03-a84f-464e-8dbf-067aa029bd09
+•python:S117ˆ"WRename this parameter "urlOrRegExp" to match the regular expression ^[_a-z][a-z0-9_]*$.(ù¾ÔùJ$2030f2ec-52fd-4602-8b7b-3a44b8d9d53f
+”python:S117¬"VRename this parameter "ignoreCase" to match the regular expression ^[_a-z][a-z0-9_]*$.(Éÿ™§J$b2f2d41b-6300-4d81-ba5e-2cddd3258c47
+›python:S117ª"XRename this parameter "useInnerText" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÍÒÀÿûÿÿÿÿJ$9bcaa6b5-1f8d-49b2-8525-796ed54cbb8d
+”python:S117ß"VRename this parameter "ignoreCase" to match the regular expression ^[_a-z][a-z0-9_]*$.(Éÿ™§J$9d4610ae-1e8c-418f-8ea5-92f966749585
+›python:S117Ý"XRename this parameter "useInnerText" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÍÒÀÿûÿÿÿÿJ$9855a861-961e-45cf-b758-2a5bcb18618e
+”python:S117è"VRename this parameter "ignoreCase" to match the regular expression ^[_a-z][a-z0-9_]*$.(Éÿ™§J$5ea5da70-ed34-476c-a4cd-f25ab0cc8219
+”python:S117ú"VRename this parameter "ignoreCase" to match the regular expression ^[_a-z][a-z0-9_]*$.(Éÿ™§J$ba081e39-deb8-4561-9a61-dee486e6f3af
+”python:S117È"VRename this parameter "ignoreCase" to match the regular expression ^[_a-z][a-z0-9_]*$.(Éÿ™§J$6a570d64-df60-4706-a1fb-c755cb71e15f
+›python:S117Æ"XRename this parameter "useInnerText" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÍÒÀÿûÿÿÿÿJ$0b7a50cf-48df-48a1-867a-8282ec30b17e
+”python:S117÷"VRename this parameter "ignoreCase" to match the regular expression ^[_a-z][a-z0-9_]*$.(Éÿ™§J$0722c650-d39d-49a3-801e-14810af2807e
+›python:S117õ"XRename this parameter "useInnerText" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÍÒÀÿûÿÿÿÿJ$360511c3-c794-4918-a5c7-27494c3a3c08
+”python:S117Ð"VRename this parameter "ignoreCase" to match the regular expression ^[_a-z][a-z0-9_]*$.(Éÿ™§J$70c8636a-e19e-4d6c-98c9-45d38756eb98
+”python:S117ß"VRename this parameter "ignoreCase" to match the regular expression ^[_a-z][a-z0-9_]*$.(Éÿ™§J$b0bc556a-2847-4fe2-a7a6-0e8206008d6c
+”python:S117è"VRename this parameter "ignoreCase" to match the regular expression ^[_a-z][a-z0-9_]*$.(Éÿ™§J$006e2333-8eff-4d77-b658-ead4be8972ff
+”python:S117÷"VRename this parameter "ignoreCase" to match the regular expression ^[_a-z][a-z0-9_]*$.(Éÿ™§J$81f70f67-b2bf-4cff-91a1-aa3ea0bb6415
+”python:S117À"VRename this parameter "ignoreCase" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ô€öûJ$2f27ea53-7653-454d-843e-e3ddb379f800
+”python:S117Ô"VRename this parameter "ignoreCase" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ô€öûJ$78420ee0-e617-4872-8230-9cc1553250fb

@@ -1,0 +1,13 @@
+
+ˆpython:S1192£"IDefine a constant instead of duplicating this literal "NOT NULL" 3 times.(‘Ã‰J$5dc326f3-6e87-4fdc-9a40-246c71abc1ae
+npython:S1066½"/Merge this if statement with the enclosing one.(µÔñ£J$62b47fb0-fa80-4073-9ff1-6f2ef255ee62
+spython:S1066"/Merge this if statement with the enclosing one.(Ø¨´ĞıÿÿÿÿJ$a7233888-7390-4ed0-87b0-1c6a7f01a3ac
+‘python:S3776+"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(¢µƒJJ$bd21aa72-994b-45ee-be0a-5ec25db0957e
+fpython:S1086")Either remove or fill this block of code.(ã‘Û¾J$1eb4ab7d-4f74-4378-b0c9-06629c6d509b
+fpython:S108>")Either remove or fill this block of code.(ã‘Û¾J$267e650b-f0ad-466e-9449-c31b69afe621
+fpython:S108J")Either remove or fill this block of code.(ã‘Û¾J$b2b2f832-6fdb-426d-9d4b-c876682f8d42
+“python:S3776§"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(ÇğĞšJ$984ee2f2-ae10-4703-b8f6-d7561cb63474
+˜python:S3776ß"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(ø™”ùÿÿÿÿJ$9390ec0c-d18b-4e94-985c-a7a852fc60b2
+¢python:S1871é"cEither merge this branch with the identical one on line "358" or change one of the implementations.(©äÇøJ$5ed2cc60-b6cd-4fd0-b41a-b45956badd00
+gpython:S108â")Either remove or fill this block of code.(ã‘Û¾J$16d8150e-824f-4729-8409-2f122ca45eda
+†python:S5799ò"GMerge these implicitly concatenated strings; or did you forget a comma?(ªÅúıJ$c544521b-6cbf-4d52-a435-07bca117828c

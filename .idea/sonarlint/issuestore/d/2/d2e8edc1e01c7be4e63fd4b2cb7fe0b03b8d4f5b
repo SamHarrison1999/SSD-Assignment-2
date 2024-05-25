@@ -1,0 +1,62 @@
+
+npython:S1066Ï"/Merge this if statement with the enclosing one.(œÔàëJ$92ff8813-5938-4745-b8b4-49f942925a37
+’python:S3776y"TRefactor this function to reduce its Cognitive Complexity from 65 to the 15 allowed.(‰ëJ$1b6c44b6-6ad7-4246-8428-d9d5f3f357f9
+–python:S5713"WRemove this redundant Exception class; it derives from another which is already caught.(ú£‚ğJ$159fc935-3123-4cc2-8d6e-047bb5905ee0
+˜python:S3776Ú"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(îÎ®ÿÿÿÿÿJ$a429982b-9a7c-4311-bf6d-35954a14d56a
+kpython:S1481¹",Remove the unused local variable "byte_num".(Çç˜J$5fc04c17-db51-48b4-9e8f-7f7d6538de1c
+“python:S3776§"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÆšŞ»J$96fb825a-903f-48c7-a015-870ecf119fd9
+lpython:S1172Š"-Remove the unused function parameter "exits".(ÆÕèÊJ$ad621792-af26-44e4-b83a-1f454e50335e
+npython:S1172Š"/Remove the unused function parameter "add_arc".(ÆÕèÊJ$881fb922-1584-4818-a462-f4685ea4067d
+kpython:S1172"-Remove the unused function parameter "exits".(»órJ$b429213a-858c-4ecb-94f8-3e390de64b25
+mpython:S1172"/Remove the unused function parameter "add_arc".(»órJ$afd26692-908a-4435-98bc-8538fa64e800
+xpython:S1135"4Complete the task associated to this "TODO" comment.(ÅïùµùÿÿÿÿJ$94acd764-ec71-433f-adf6-c13172cf1028
+xpython:S1135Ÿ"4Complete the task associated to this "TODO" comment.(œ˜¦øÿÿÿÿJ$660dbafe-1c97-4889-bb07-22e27d2b7584
+spython:S1135 "4Complete the task associated to this "TODO" comment.(©ŠıJ$d43bb7a0-0937-43eb-a679-a1dccd706903
+›python:S116Ø
+"]Rename this field "_code_object__SetComp" to match the regular expression ^[_a-z][_a-z0-9]*$.(¬¶ÅÎJ$e89a4ecc-933a-4271-8fc1-e4c2bbf10851
+Ÿpython:S116Õ
+"bRename this field "_code_object__GeneratorExp" to match the regular expression ^[_a-z][_a-z0-9]*$.(Úı•J$6ee87893-44ba-4a3a-92fc-a13dd59dfae2
+˜python:S116œ"ZRename this field "_line__FunctionDef" to match the regular expression ^[_a-z][_a-z0-9]*$.(¬¦¯J$d80b16a2-9c20-4f3a-b52d-88a4052bac5b
+špython:S116Á"\Rename this field "_handle__FunctionDef" to match the regular expression ^[_a-z][_a-z0-9]*$.(™Å°J$af26f221-1517-45f3-8a65-4852dfc03781
+˜python:S116¯
+"ZRename this field "_handle__AsyncWith" to match the regular expression ^[_a-z][_a-z0-9]*$.(äñıãJ$06704d07-e96c-47c9-8f83-ccc923caae51
+Ÿpython:S116Â"aRename this field "_handle__AsyncFunctionDef" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ëü·âJ$6f49efd7-11c3-43f6-ba6c-5695a5580b2f
+Ÿpython:S116Ô
+"\Rename this field "_code_object__Lambda" to match the regular expression ^[_a-z][_a-z0-9]*$.(ğ©÷¿ÿÿÿÿÿJ$dfaf10ca-0128-49da-ab93-e7192096215e
+—python:S116¿"YRename this field "_handle__AsyncFor" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÎĞúJ$3db3d7b5-1636-4b8f-8244-31fe53bd7cee
+¢python:S116"_Rename this field "_line__AsyncFunctionDef" to match the regular expression ^[_a-z][_a-z0-9]*$.(²â‚©úÿÿÿÿJ$de1ce935-1e1f-42c6-b0cb-bfb0ff6b8c32
+•python:S116"WRename this field "_line__ClassDef" to match the regular expression ^[_a-z][_a-z0-9]*$.(˜ß­€J$5f4c12fb-d81c-48d0-a5c7-342236d58ca4
+¡python:S116Ù
+"^Rename this field "_code_object__ListComp" to match the regular expression ^[_a-z][_a-z0-9]*$.(ßóî«üÿÿÿÿJ$e41eccc3-0696-47c6-8cf4-06518fd5b01c
+¡python:S116×
+"^Rename this field "_code_object__DictComp" to match the regular expression ^[_a-z][_a-z0-9]*$.(¥ÃåèüÿÿÿÿJ$ca96915f-9ee9-4c5b-9fd3-df3c5127b408
+œpython:S116£"YRename this field "_handle__ClassDef" to match the regular expression ^[_a-z][_a-z0-9]*$.(ó«ğşÿÿÿÿJ$a80543e0-72f4-4c13-918d-fc8be9da841e
+©python:S116È
+"fRename this field "_code_object__AsyncFunctionDef" to match the regular expression ^[_a-z][_a-z0-9]*$.(»×ƒõıÿÿÿÿJ$02953447-f3fd-43d8-ae63-a3444fcd3291
+xpython:S1135µ"4Complete the task associated to this "TODO" comment.(ûµÈÚÿÿÿÿÿJ$bec2a9b8-0b6f-4570-b0e8-d9e1bf95ab98
+”python:S100Œ"QRename method "_line__Assign" to match the regular expression ^[a-z_][a-z0-9_]*$.(ª ’™ıÿÿÿÿJ$0decd019-ab98-4800-bc0d-e181ff960c89
+python:S100‘"ORename method "_line__Dict" to match the regular expression ^[a-z_][a-z0-9_]*$.(´óÖJ$3e18dd0a-c246-4ff0-b764-b9f705d9bfcb
+Œpython:S100Ÿ"ORename method "_line__List" to match the regular expression ^[a-z_][a-z0-9_]*$.(»»Ş>J$eb128747-5858-4b90-87aa-4f1214a37ffa
+”python:S100¥"QRename method "_line__Module" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ä¦Ú¢üÿÿÿÿJ$af9a2ca1-0be0-4381-a723-ac9a2af612e4
+python:S100˜"PRename method "_missing__If" to match the regular expression ^[a-z_][a-z0-9_]*$.(ˆ—ÍèJ$4f703198-7cad-468e-96e6-dd3b78bd9e3a
+“python:S100£"VRename method "_missing__NodeList" to match the regular expression ^[a-z_][a-z0-9_]*$.(Õ•‰J$48bbf1ab-8df8-4b38-82ad-8d4077ea81eb
+‘python:S100³"SRename method "_missing__While" to match the regular expression ^[a-z_][a-z0-9_]*$.(–ÚÈJ$b866dd2d-cabf-4ec6-892d-9fccc6185036
+python:S100ş"RRename method "_handle__Break" to match the regular expression ^[a-z_][a-z0-9_]*$.(ö¿¼ÇJ$b3a41cd4-671e-470a-bbb1-9244d28ad65a
+“python:S100¥"URename method "_handle__Continue" to match the regular expression ^[a-z_][a-z0-9_]*$.(Çº»J$4b06c815-25d4-41c8-91c6-0c7f3f87f39a
+“python:S100«"PRename method "_handle__For" to match the regular expression ^[a-z_][a-z0-9_]*$.(Îï‘²øÿÿÿÿJ$41312883-621e-4a29-9aef-5c9fbeb4aa8b
+’python:S100Ä"ORename method "_handle__If" to match the regular expression ^[a-z_][a-z0-9_]*$.(á¦²¥ÿÿÿÿÿJ$e6f05b37-b4f3-4254-8548-46add328a3ed
+python:S100Í"RRename method "_handle__Match" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ş‘³èJ$b8df6360-7ed6-4156-aac3-e9d03d48ae5d
+“python:S100æ"URename method "_handle__NodeList" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÄÑ’™J$1814de86-bcbf-4fb3-bf78-f5bcd37e9c90
+python:S100ë"RRename method "_handle__Raise" to match the regular expression ^[a-z_][a-z0-9_]*$.(™ˆ’ÖJ$d8dd4410-aa4a-4099-88a5-855b247681aa
+‘python:S100ò"SRename method "_handle__Return" to match the regular expression ^[a-z_][a-z0-9_]*$.(ĞäÄøJ$f37f8033-8177-4c12-b76b-c92afa5e33f4
+python:S100ù"PRename method "_handle__Try" to match the regular expression ^[a-z_][a-z0-9_]*$.(»¦³©J$e63120c4-694b-4591-ba07-12913391cc41
+“python:S3776ù"TRefactor this function to reduce its Cognitive Complexity from 66 to the 15 allowed.(»¦³©J$a2896b97-073d-4197-bab6-3ddb7135020c
+python:S100÷	"RRename method "_handle__While" to match the regular expression ^[a-z_][a-z0-9_]*$.(Šñ“©J$0bf67877-3e32-4500-9e17-44ec57b2161c
+python:S100”
+"QRename method "_handle__With" to match the regular expression ^[a-z_][a-z0-9_]*$.(ß´øJ$8f060790-d911-43f4-b1d4-cce730c78f1c
+–python:S100¶
+"XRename method "_code_object__Module" to match the regular expression ^[a-z_][a-z0-9_]*$.(áşÃµJ$eb418f50-3af8-452a-a37c-441ec90e26ad
+ python:S100Á
+"]Rename method "_code_object__FunctionDef" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÔÙÒŞûÿÿÿÿJ$bd0aac86-de39-4bc9-a221-748a06f69189
+˜python:S100Ê
+"ZRename method "_code_object__ClassDef" to match the regular expression ^[a-z_][a-z0-9_]*$.(îàÃJ$9cc1c558-0510-4e1b-9826-625c214513fc

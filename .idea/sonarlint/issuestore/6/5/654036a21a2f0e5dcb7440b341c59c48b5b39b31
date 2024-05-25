@@ -1,0 +1,5 @@
+
+Špython:S1192^"LDefine a constant instead of duplicating this literal "Latin Based" 3 times.(ÈœÿïJ$66bb550e-d609-42aa-900d-84d357606e35
+¬python:S117¸"iRename this local variable "FREQUENCIES_language_set" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ð¨¦±þÿÿÿÿJ$a3f56855-e297-4ab8-ac34-d826949af2f3
+^python:S3626÷"Remove this redundant continue.(À–¬ˆJ$9ceccba7-14f3-490d-ae77-5e5de3239d85
+“python:S3776¬"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(šã«ÄJ$748950c0-01ab-46cc-98d0-b437142d301f

@@ -1,0 +1,9 @@
+
+ˆpython:S1192‚"IDefine a constant instead of duplicating this literal ":memory:" 3 times.(Ìş»˜J$74388dcb-cac8-42e6-b026-8d82893d5a9f
+¶python:S101Í"sRename class "_SQLite_pysqliteTimeStamp" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(£ë¡´ùÿÿÿÿJ$a8805c22-aa54-430b-8f63-d0f9b601ec20
+¬python:S101Û"nRename class "_SQLite_pysqliteDate" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ÿİç“J$e5f551b2-cd6b-4574-b239-d0104e1ceb7d
+³python:S101é"pRename class "SQLiteDialect_pysqlite" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(¬˜ùôùÿÿÿÿJ$692563f3-8fd9-461c-b985-722dcae23185
+qpython:S1172"2Remove the unused function parameter "connection".(Ğø…ÔJ$5be0b36e-a4c7-4e12-b785-17951db18e91
+¼python:S101Œ"yRename class "_SQLiteDialect_pysqlite_numeric" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(¿Ê—†ıÿÿÿÿJ$856dbaff-fd82-4c58-a318-f901d4b9b3aa
+špython:S1186±"[Add a nested comment explaining why this function is empty, or complete the implementation.(ãÃöJ$478c5e2b-0f4a-42bb-8458-7d8dcd54055f
+»python:S101ã"xRename class "_SQLiteDialect_pysqlite_dollar" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(×¥ğûÿÿÿÿJ$ba82c2ef-2387-49c3-b735-b6ea58d8d48d

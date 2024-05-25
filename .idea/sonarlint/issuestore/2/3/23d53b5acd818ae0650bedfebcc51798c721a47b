@@ -1,0 +1,10 @@
+
+‡python:S1192õ"HDefine a constant instead of duplicating this literal "name:if" 3 times.(ÔºßÎJ$39d84379-44bd-4c96-9660-81046415b862
+python:S1192®"IDefine a constant instead of duplicating this literal "name:not" 3 times.(¹ƒı¯ûÿÿÿÿJ$eeabcd3a-49a3-4179-b880-eb7600631cbe
+‡python:S1192ï"HDefine a constant instead of duplicating this literal "name:in" 4 times.(å±’†J$9cbf9af9-9174-4781-a3a0-148e298fb9d8
+ˆpython:S1192ø"JDefine a constant instead of duplicating this literal "name:else" 5 times.(ôÖ?J$72057ed0-0426-4dd4-8c5f-f581726db519
+opython:S5806ñ"+Rename this variable; it shadows a builtin.(¨ñ§ÜûÿÿÿÿJ$5576c8f5-8c53-45d7-bde5-6f248e1b1bbb
+“python:S3776ì"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(ÓÎÊÑJ$cdb89c10-d72a-4e13-9c1c-b603b8a1603a
+“python:S3776¨"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(¬úë–J$7f9f670f-1e29-4f1b-b9a1-6bddb7dbd3a9
+˜python:S3776à"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÕÖŞƒûÿÿÿÿJ$834e4113-9c55-442b-a1da-666d5330627a
+“python:S3776Ü"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(îì¯ÆJ$4704632b-2386-480c-a732-5dffeb0739ea

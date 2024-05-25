@@ -1,0 +1,11 @@
+
+’python:S117­"URename this parameter "errorCode" to match the regular expression ^[_a-z][a-z0-9_]*$.(­Á®J$449d6312-116d-44e4-a33f-da3be8ed1870
+špython:S117Á"WRename this parameter "contentType" to match the regular expression ^[_a-z][a-z0-9_]*$.(õÀœÓýÿÿÿÿJ$bb0c3357-fb67-4199-aa32-da5a8943b709
+špython:S117Ñ"WRename this parameter "contentType" to match the regular expression ^[_a-z][a-z0-9_]*$.(õÀœÓýÿÿÿÿJ$18290301-58b4-467f-bcac-bf721e68630a
+“python:S3776Ê"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(Ü¬Ô‰J$125d5228-c4d6-4b03-addd-b3d6c86a8f6f
+Žpython:S1226Í"OIntroduce a new variable or use its initial value before reassigning 'headers'.(êðÙçJ$dd8291a8-033a-45fb-89c0-1a6358110485
+–python:S117š"XRename this parameter "maxRedirects" to match the regular expression ^[_a-z][a-z0-9_]*$.(¿¢í›J$bcb88b75-c37a-44e0-8e6b-739b4109ab08
+—python:S117™"TRename this parameter "postData" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚íê—úÿÿÿÿJ$d65accfe-9eed-4b15-86a9-c438090b2b1b
+—python:S117®"TRename this parameter "postData" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚íê—úÿÿÿÿJ$085d4b97-35bd-4fba-8d2b-2c5956871324
+—python:S117º"TRename this parameter "postData" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚íê—úÿÿÿÿJ$b945aff8-5145-417d-9191-ab027fd86ae1
+gpython:S108®")Either remove or fill this block of code.(ã‘Û¾J$528dd4c1-1885-4e1c-a91e-591c414f255c

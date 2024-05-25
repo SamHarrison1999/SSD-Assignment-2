@@ -1,0 +1,16 @@
+
+~python:S6353$";Use concise character class syntax '\d' instead of '[0-9]'.(ë™ÕüÿÿÿÿJ$ef1145bd-a009-4dda-8dc5-d226951d0441
+~python:S6353$";Use concise character class syntax '\d' instead of '[0-9]'.(ë™ÕüÿÿÿÿJ$f6b4a805-ae32-4f94-9854-f6511b24c6a5
+python:S107µ"MMethod "__init__" has 16 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$bba3b36a-f54e-4f9e-8569-e33c953b68b3
+python:S5886‹"YReturn a value of type "bytes" instead of "NoneType" or update function "data" type hint.(§¿şÿÿÿÿJ$01c0445f-9f9d-437a-8f4c-1084b6867709
+“python:S3776Õ"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(° ˆJ$34e39f8b-f704-4f36-a6d7-28a32b9e3000
+‹python:S1134ä"LTake the required action to fix the issue indicated by this "FIXME" comment.(‡İ–¢J$e5856a27-6405-4ac7-a567-4ba877183606
+python:S1134é"LTake the required action to fix the issue indicated by this "FIXME" comment.(ãéæÉûÿÿÿÿJ$22227066-d4b8-49f8-ab45-3288b49032d3
+“python:S3776–"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(øò³ŒJ$e7829540-33d7-4ead-8c26-917a5fa1c90e
+¢python:S5886Ù"^Return a value of type "bytes" instead of "NoneType" or update function "_raw_read" type hint.(§¿şÿÿÿÿJ$d18ff81c-ce1f-4930-aac3-779473de5fbc
+˜python:S3776ƒ"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÊéíøùÿÿÿÿJ$110f8cc1-bf65-443b-8490-580ad89ae533
+xpython:S1135À"4Complete the task associated to this "TODO" comment.(’ë£”ıÿÿÿÿJ$9cabbfd5-43ff-4859-b58e-80ef55c6ff6b
+’python:S3776Ê"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(®Ã˜:J$84eb6891-ac76-4687-84b8-1cdff7a2b1b4
+python:S1134ë"LTake the required action to fix the issue indicated by this "FIXME" comment.(Ç¸äıÿÿÿÿJ$0959da4f-954d-4aee-ab57-cd32da8a3c99
+˜python:S3776÷"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÔµÅ¿şÿÿÿÿJ$b8a58433-4b48-4f01-9783-e31c8342e160
+python:S1134ˆ	"LTake the required action to fix the issue indicated by this "FIXME" comment.(ñ÷ÏûÿÿÿÿJ$fe3a02f8-5617-444b-bb89-91af7f97f3aa

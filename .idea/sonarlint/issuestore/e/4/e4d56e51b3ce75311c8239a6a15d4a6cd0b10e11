@@ -1,0 +1,27 @@
+
+‹python:S1542ü"LRename function "IntVar" to match the regular expression ^[a-z_][a-z0-9_]*$.(ê”ö§J$e9cb23be-5248-4ed7-8422-c6827822e7e0
+python:S2710ı"QRename "mcls" to a valid class parameter name or add the missing class parameter.(Ê°¹J$683a502a-4c6a-428f-a568-23f17963cabd
+gpython:S108ÿ")Either remove or fill this block of code.(ã‘Û¾J$59f9f83f-f788-4529-8c2a-38d11a7f6a47
+˜python:S3776Û"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(’¿¡ÍşÿÿÿÿJ$c2e8e16c-c2be-491b-8933-8eb7b1f900b4
+“python:S3776É"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(Ó‘ı“J$7beac1a0-3df1-4bdd-b0d5-ffd940371362
+python:S1542¾"ORename function "TypedDict" to match the regular expression ^[a-z_][a-z0-9_]*$.(…íóİJ$06ec75a0-b91f-4acf-adba-8aed4bf5b665
+jpython:S1172°"+Remove the unused function parameter "typ".(”şJ$4e4e8803-8395-449e-a488-79d6c5c11341
+“python:S1542¸
+"ORename function "TypeAlias" to match the regular expression ^[a-z_][a-z0-9_]*$.(œƒÒ·üÿÿÿÿJ$018f23f2-7888-46a3-861c-879b7bee4c42
+•python:S1542‘"QRename function "Concatenate" to match the regular expression ^[a-z_][a-z0-9_]*$.(âİß“øÿÿÿÿJ$dec12421-21e5-467c-96c4-253f11c0d8de
+“python:S1542¶"ORename function "TypeGuard" to match the regular expression ^[a-z_][a-z0-9_]*$.(İ€Ô„ıÿÿÿÿJ$26653d30-f8e3-48e2-912d-51be98659a34
+‹python:S1542"LRename function "TypeIs" to match the regular expression ^[a-z_][a-z0-9_]*$.(úÛîÌJ$5cb7973a-6f0e-4d50-a47a-55da00b04bbf
+—python:S1542¥"SRename function "LiteralString" to match the regular expression ^[a-z_][a-z0-9_]*$.(Üï¬üıÿÿÿÿJ$b0ced334-de99-4f00-90a8-c95f5a50cc54
+python:S1542¼"JRename function "Self" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ãì‚ğÿÿÿÿÿJ$3ec7ebcd-e41e-427e-83ac-1d4cea1cda9b
+python:S1542Ñ"KRename function "Never" to match the regular expression ^[a-z_][a-z0-9_]*$.(˜€·úÿÿÿÿJ$de5e506c-65f4-47f7-bcfc-7e7150cede21
+’python:S1542ğ"NRename function "Required" to match the regular expression ^[a-z_][a-z0-9_]*$.(×©ËŠıÿÿÿÿJ$550e30cf-9450-44c9-a506-ec4dfc29c195
+python:S1542„"QRename function "NotRequired" to match the regular expression ^[a-z_][a-z0-9_]*$.(òà­!J$fb283354-4879-41a3-a743-8fc0d3beddce
+’python:S1542À"NRename function "ReadOnly" to match the regular expression ^[a-z_][a-z0-9_]*$.(µúßïşÿÿÿÿJ$b533eb57-e345-4552-bd01-21f04e996d7e
+python:S1542¥"LRename function "Unpack" to match the regular expression ^[a-z_][a-z0-9_]*$.(«áğúúÿÿÿÿJ$7e237d4d-1314-4bbe-9789-438b690ff0c0
+•python:S2710Ê"QRename "self" to a valid class parameter name or add the missing class parameter.(”¸®šıÿÿÿÿJ$b2afe6b7-6d47-4211-8806-0f144c78385b
+•python:S2710—"QRename "self" to a valid class parameter name or add the missing class parameter.(”¸®šıÿÿÿÿJ$213735a3-097a-460d-a07a-87f2b3250763
+“python:S3776"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(´çŒJ$cb54ddfe-2237-49af-9dc0-679f93f607d6
+˜python:S3776ß"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(†¢¿°üÿÿÿÿJ$fa3c321e-4b30-47db-8b1d-4d4727c4e86d
+˜python:S3776É"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(ß‚ƒäøÿÿÿÿJ$f9c837e6-c5b1-4d5a-a147-bfb58217cc02
+“python:S3776Š"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(•€êÂJ$fa89f03e-5c74-4b8d-9aec-641629040913
+”python:S1542Ğ"PRename function "NamedTuple" to match the regular expression ^[a-z_][a-z0-9_]*$.(¯Ç»ÉûÿÿÿÿJ$269a79df-f769-487c-a503-f18186373159

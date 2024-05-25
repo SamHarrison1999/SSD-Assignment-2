@@ -1,0 +1,7 @@
+
+python:S1192§"YDefine a constant instead of duplicating this literal "Cannot overwrite a value" 5 times.(³ΘΊύÿÿÿÿJ$68b51036-3798-4206-9e05-0d7c0d8bc748
+npython:S1066ΰ"/Merge this if statement with the enclosing one.(ΰ‹χτJ$7d1a08bb-5a5f-4cad-9554-aba256e29fee
+npython:S1066γ"/Merge this if statement with the enclosing one.(Μτ‰‰J$a2b1dec7-f390-445a-89eb-cae5f32ba7e4
+‘python:S3776E"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(ΐΔ£2J$23ee589c-b3b6-4905-89eb-e85fa9f49341
+“python:S3776¨"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(­ΊρθJ$fd20a5cc-c217-4e7f-b970-df5dd30a9bd0
+python:S3776Θ"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(ξ‹—γώÿÿÿÿJ$9ca44a0e-126a-466f-b9e1-8b1b9f12d0ea

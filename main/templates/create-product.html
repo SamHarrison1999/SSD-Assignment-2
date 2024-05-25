@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+{% block title %}
+	Add Shop Item Page
+{% endblock %}
+{% block content %}
+    <body class="text-center">
+        <div class="container">
+            <table>
+                <thead>
+                    <tr>
+                        <th scope="col">Name</th>
+                        <th scope="col">Price</th>
+                        <th scope="col">Quantity</th>
+                        <th scope="col">Description</th>
+                        <th scope="col">Picture</th>
+                        <th scope="col">Add</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <form method="POST" action="" enctype="multipart/form-data">
+                            {{ form.hidden_tag() }} <!-- defend against XSS -->
+                            <td>{{ form.product_name }}</td>
+                            <td>{{ form.price }}</td>
+                            <td>{{ form.quantity }}</td>
+                            <td>{{ form.description }}</td>
+                            <td>{{ form.product_image }}</td>
+                            <td>{{ form.add_product() }}</td>
+                        </form>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </body>
+{% endblock %}

@@ -1,0 +1,17 @@
+
+©python:S101±"kRename class "_MSNumeric_pyodbc" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ûÆÌĞJ$c7aa14c3-8f5b-47da-8423-faf6534c72e0
+¬python:S101µ"iRename class "_MSFloat_pyodbc" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(·£æşÿÿÿÿJ$c2020d08-b7d0-4a1e-9493-806efb1f721b
+Ÿpython:S117Ä"\Rename this local variable "DBAPIBinary" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÈËºâşÿÿÿÿJ$ea749e9e-8cc9-4606-b35b-6b9971b8d443
+npython:S1172Õ"/Remove the unused function parameter "dialect".(éµ“îJ$25c46dc1-8c88-412b-850d-e98cc5c5fef2
+®python:S101÷"kRename class "_VARBINARY_pyodbc" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(“İÎ­üÿÿÿÿJ$8b70a721-9026-4d63-987c-c82418c7a98e
+¦python:S101û"hRename class "_BINARY_pyodbc" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(¬ë—ÙJ$e2baa693-ae59-49d8-85d7-85ac57f78986
+«python:S101ÿ"hRename class "_String_pyodbc" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(Çâ­ÇÿÿÿÿÿJ$5fa53d09-298e-4a27-850b-292bb8958993
+¬python:S101‡"iRename class "_Unicode_pyodbc" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(·Š—ÿÿÿÿÿJ$7a02034d-790d-47d7-bdaa-2913186520e6
+«python:S101"mRename class "_UnicodeText_pyodbc" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ùˆªäJ$e1f03c41-5f21-49ee-b006-bf208b857475
+¤python:S101—"fRename class "_JSON_pyodbc" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ÅëûJ$8c3c9f0b-ff4f-42db-822d-4dc24b2e26e4
+²python:S101œ"oRename class "_JSONIndexType_pyodbc" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ÂëûÿÿÿÿJ$d3b9cdc7-df1f-409f-8bb4-f9fa04395405
+±python:S101¡"nRename class "_JSONPathType_pyodbc" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(£ú¦øÿÿÿÿJ$ae4fe3c9-c160-4585-89e7-5aa00d57e3c0
+¶python:S101¦"sRename class "MSExecutionContext_pyodbc" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ñÉÂíûÿÿÿÿJ$b0461058-aee5-4b50-9eec-cc0bc274a003
+¨python:S101à"jRename class "MSDialect_pyodbc" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ÔÅ•J$6f3d6c1a-0eb9-402c-a1a8-5c3606dca967
+ªpython:S117Ì"lRename this local variable "odbc_SQL_SS_TIMESTAMPOFFSET" to match the regular expression ^[_a-z][a-z0-9_]*$.(×¹Ù±J$d7286db4-6298-47c2-8f7b-2236b840c9f0
+‡secrets:S6703#"HMake sure this database password gets changed and removed from the code.(âß˜µJ$a9675ae2-4241-4611-9808-ed3ff69361e4

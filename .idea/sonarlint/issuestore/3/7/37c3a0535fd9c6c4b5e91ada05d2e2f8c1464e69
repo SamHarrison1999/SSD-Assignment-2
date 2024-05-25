@@ -1,0 +1,12 @@
+
+ˆpython:S1192›"IDefine a constant instead of duplicating this literal "%r != %r" 3 times.(˜æœÂJ$625d8b48-01c1-4a9e-b636-10bbc8891aff
+˜python:S3776«"TRefactor this function to reduce its Cognitive Complexity from 47 to the 15 allowed.(À¸ÎìøÿÿÿÿJ$1c2e598e-b565-400c-b849-0d83a705b22a
+“python:S5850á"TGroup parts of the regex together to make the intended operator precedence explicit.(¶‹Ÿ·J$bb983c05-28a8-4ed9-a4fa-d003391a438b
+„python:S6019á"EFix this reluctant quantifier that will only ever match 1 repetition.(¶‹Ÿ·J$dca0b0a4-d14c-4ef8-92f6-c4ad8ea7452b
+python:S5361ã"@Replace this "re.sub()" call by a "str.replace()" function call.(“ØÖ•J$da0fb863-965f-426a-a3ca-53482b851f43
+“python:S5850ä"TGroup parts of the regex together to make the intended operator precedence explicit.(Ğ±ÕáJ$4e3d01f3-9c76-424c-80aa-d4fced08a639
+„python:S6019ä"EFix this reluctant quantifier that will only ever match 1 repetition.(Ğ±ÕáJ$708c5858-019d-4ceb-88ba-35367d328f44
+„python:S5361æ"@Replace this "re.sub()" call by a "str.replace()" function call.(ä–½ûÿÿÿÿJ$6956a68c-f91b-42a7-820b-a1693ba8c506
+–python:S107ö"SMethod "assert_compile" has 22 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$5111a486-bea3-45f8-9f30-b7f79e4a94b1
+˜python:S3776õ"TRefactor this function to reduce its Cognitive Complexity from 69 to the 15 allowed.(İıÓØøÿÿÿÿJ$979a0320-0acb-4aa8-9838-a590f13d5237
+˜python:S3776Ó"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(·×ş«ÿÿÿÿÿJ$2a4cd09b-9835-4e56-86f1-6d343e5652cc

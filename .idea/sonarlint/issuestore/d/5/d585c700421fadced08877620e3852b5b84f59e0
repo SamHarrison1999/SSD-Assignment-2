@@ -1,0 +1,10 @@
+
+jpython:S5806Â"+Rename this variable; it shadows a builtin.(¶­ÛŠJ$cea52ed4-c0bd-4079-8303-b8bc3c957f3b
+˜python:S3776ì"TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(§ÍÃçøÿÿÿÿJ$c306c452-c7ef-48f2-8d1b-60e487071d95
+opython:S5806ï"+Rename this variable; it shadows a builtin.(×ñÃ¹üÿÿÿÿJ$bef69864-f8c7-4960-887c-e16b2e4e5ee4
+jpython:S5806‘"+Rename this variable; it shadows a builtin.(ÿñ‘J$03f2fdc0-a9d2-4789-803c-b456291e60fc
+|python:S112“">Replace this generic exception class with a more specific one.(ÃÔÃÈJ$4090943a-9670-4aae-8392-9936dc7ca998
+python:S112™">Replace this generic exception class with a more specific one.(µê‚ÿÿÿÿÿJ$46f42276-abc0-4f5f-bbce-50633111a558
+|python:S5754Á"8Catch a more specific exception or reraise the exception(ÛşƒÙşÿÿÿÿJ$0b1329d4-2d75-4761-8414-fc9c86b737ec
+†python:S1515°"ÁAdd a parameter to function "_listener_with_error_handler_attached" and use variable "_done_callback" as its default value;The value of "_done_callback" might change at the next loop iteration.(¥¥’æÿÿÿÿÿJ$c456b924-b16c-4c7e-92d1-d6b5a6451779
+õpython:S1515®"µAdd a parameter to function "_listener_with_error_handler_attached" and use variable "listener" as its default value;The value of "listener" might change at the next loop iteration.( ¡°„J$be47f23e-6a6f-476f-9c42-09ccf9f56f87

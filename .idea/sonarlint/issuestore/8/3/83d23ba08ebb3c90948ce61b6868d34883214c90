@@ -1,0 +1,14 @@
+
+ppython:S63954"-Unwrap this unnecessarily grouped subpattern.(òÔ˜»ûÿÿÿÿJ$bb3a8d90-dc51-46e3-a559-7ae68a9fb2af
+’python:S5843."TSimplify this regular expression to reduce its complexity from 23 to the 20 allowed.(¢®şÿJ$4ec98f87-3fa5-41fd-8d7a-331d096e8f83
+€python:S63537"BUse concise character class syntax '\w' instead of '[a-zA-Z0-9_]'.(Äı…ˆJ$f418dd74-63ba-43ca-a0e5-a68f01c76a76
+€python:S6353;"BUse concise character class syntax '\w' instead of '[a-zA-Z0-9_]'.(İÒÃÇJ$0a190d6d-b5af-44cf-b2ee-3b1b17d31b57
+mpython:S5869M"*Remove duplicates in this character class.(›±âæşÿÿÿÿJ$42837a8d-05de-4308-9107-76fe87108a89
+opython:S5855I",Remove or rework this redundant alternative.(³•¿ôıÿÿÿÿJ$3e16deb6-1d83-4bb7-9a45-31abebe87fec
+’python:S5843E"TSimplify this regular expression to reduce its complexity from 39 to the 20 allowed.(¢®şÿJ$65e0a4d9-87bb-47ed-9dd3-c06471264d89
+˜python:S3776"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(è®§±øÿÿÿÿJ$ab9d4190-4ea3-4636-88a2-ce093061eca1
+™python:S5890×"ZReplace the type hint "Map" with "Optional[Map]" or don't assign "None" to this expression(¾Ş¥€J$88b676a1-fb0a-4d5f-8be4-aca3fff82e98
+ypython:S1172¿"5Remove the unused function parameter "variable_name".(Äàæ„úÿÿÿÿJ$f698f1bf-0068-42bb-ae49-d46296471ba9
+˜python:S3776Ô"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(‘¼—‚øÿÿÿÿJ$16478148-3b25-42e7-863c-9ec2c6f04685
+Špython:S6019Ë"FFix this reluctant quantifier that will only ever match 2 repetitions.(ˆµ„¶ÿÿÿÿÿJ$c40f4885-1e7c-4f69-81b1-1f6794ccd5c0
+˜python:S3776Ú"TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(¬ŒòøÿÿÿÿJ$9969bbd3-bc41-4c7d-ac7c-997e1dcdad4a

@@ -1,0 +1,6 @@
+
+|python:S3516O"9Refactor this method to not always return the same value.(ç›á¦ûÿÿÿÿJ$58767efb-0622-4981-ad9b-4f56fcf91912
+—python:S3776O"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(ç›á¦ûÿÿÿÿJ$a1e305c2-8e7e-447c-98dc-0ccd5e6ed13b
+python:S3358ß"IExtract this nested conditional expression into an independent statement.(ÇÒÖğùÿÿÿÿJ$725207ad-37f6-4468-93c5-0ccc917b1732
+python:S107œ"RFunction "progressbar" has 15 parameters, which is greater than the 13 authorized.(êÔòŸJ$9100db2f-cf28-435b-a351-8b61eebe6ab9
+“python:S3776Î"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(òËÇJ$eaeaf4c5-1c92-472b-a584-ead2c7b93dbe

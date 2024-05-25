@@ -1,0 +1,12 @@
+
+rpython:S1066i"/Merge this if statement with the enclosing one.(ι—ιύÿÿÿÿJ$f30b8722-7529-4945-9651-eacc3c372710
+£python:S117S"aRename this local variable "internetSettings" to match the regular expression ^[_a-z][a-z0-9_]*$.(ΰΣε°όÿÿÿÿJ$755dbbf3-222c-4f96-a1f9-6fcf13d76e7d
+™python:S117X"\Rename this local variable "proxyEnable" to match the regular expression ^[_a-z][a-z0-9_]*$.(΄ƒ­J$625410c6-c759-4aab-9284-e49e2ca46529
+›python:S117Z"^Rename this local variable "proxyOverride" to match the regular expression ^[_a-z][a-z0-9_]*$.(®ρ½©J$51f56f90-dc9e-4d6e-b003-fb3ecd129c83
+“python:S3776‡"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(ζ®J$92a64fb7-b413-445b-934b-d893e20aabe4
+’python:S3776Μ"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(¶΅Ο J$2b90a6c8-b80f-42bf-8714-a8970a38b0f4
+dpython:S6659Ξ" Use `not` and `startswith` here.(φχ‰«ωÿÿÿÿJ$9f4bd4e8-b835-4b05-8a7a-1557532f0363
+python:S3776ύ"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(†φυκόÿÿÿÿJ$db475c22-de7b-4304-a4be-909a257f5918
+vpython:S1481δ"2Replace the unused local variable "host" with "_".(ΙΤ—ϊÿÿÿÿJ$5c1db1fd-4b4d-4192-a612-9ed4ee383c44
+vpython:S1481δ"2Replace the unused local variable "port" with "_".(ΙΤ—ϊÿÿÿÿJ$e428281d-c916-464c-84a7-f159144fa957
+zpython:S1481®"6Replace the unused local variable "fragment" with "_".(ƒ®η½ύÿÿÿÿJ$48b00e15-d3ff-4564-b2bc-29454bc0d03d

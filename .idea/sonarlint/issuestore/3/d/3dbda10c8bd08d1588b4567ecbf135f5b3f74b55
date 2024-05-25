@@ -1,0 +1,16 @@
+
+çpython:S1192è"NDefine a constant instead of duplicating this literal " ON CONFLICT " 5 times.(°¿¥J$6b613790-5432-4f3f-b2a0-15902f9e344a
+Äpython:S6353Ω"<Use concise character class syntax '\D' instead of '[^0-9]'.(€æÔ…¸ˇˇˇˇJ$d0e0bc32-5591-4d83-baee-3d86e34cd68c
+≤python:S4144˚
+"nUpdate this function so that its implementation is not identical to visit_json_getitem_op_binary on line 1392.(ÑÁñì¯ˇˇˇˇJ$6747fda0-d18c-4c05-a23a-b85ce3df3543
+ìpython:S3776∏"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(•£«ﬂJ$cfb983d9-7850-4227-bd4f-31a03dfdae66
+ìpython:S3776˝"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(Èç¬≈J$f562c3da-2a3e-47c9-889d-9c4e1b870645
+xpython:S1135÷"4Complete the task associated to this "TODO" comment.(ñäπ˝¯ˇˇˇˇJ$0eb76ea6-79a0-4076-9bec-57b2a502c1c5
+}python:S5857ä"9Replace this use of a reluctant quantifier with "[^\)]*".(È√ÿÓ˝ˇˇˇˇJ$d1d152a8-14e1-4b0d-b097-f9c6276ab91f
+ìpython:S3776≈"TRefactor this function to reduce its Cognitive Complexity from 54 to the 15 allowed.(ˇ≈ÈìJ$2650f259-10b5-46be-9221-a1d460f7921e
+ìpython:S5850Â"TGroup parts of the regex together to make the intended operator precedence explicit.(ˆÈ¸ûJ$33f856d7-4244-406a-92d2-33d84f7ff213
+qpython:S6395Ô"-Unwrap this unnecessarily grouped subpattern.(´ÂÌ˘ˇˇˇˇJ$205e4f18-ba9e-4267-a667-a7b4d453c0e3
+ãpython:S5799±"GMerge these implicitly concatenated strings; or did you forget a comma?(äÂ≠ÆˇˇˇˇˇJ$de257210-aa0a-4d93-8191-9eef1afbb6cb
+ìpython:S5850Ω"TGroup parts of the regex together to make the intended operator precedence explicit.(™÷“ˆJ$19b2c327-4022-418b-a451-7a0355831c14
+ìpython:S3776«"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(ïê’âJ$eea17452-c2a3-40c9-a7c1-293a533fb1bc
+ypython:S2836›"5Add a "break" statement or remove this "else" clause.(≥£úâ¯ˇˇˇˇJ$77015f95-d2e5-4acc-adeb-a775448204c4

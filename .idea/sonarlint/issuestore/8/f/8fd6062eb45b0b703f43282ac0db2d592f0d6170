@@ -1,0 +1,33 @@
+
+python:S117A"SRename this parameter "baseURL" to match the regular expression ^[_a-z][a-z0-9_]*$.(ç±® J$af696f84-6807-4689-9e0c-f7ed47736448
+python:S117B"\Rename this parameter "extraHTTPHeaders" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸ÄŞıÿÿÿÿÿJ$2cf5443a-bdaa-413f-bd50-9cb978e0e93a
+˜python:S117C"[Rename this parameter "httpCredentials" to match the regular expression ^[_a-z][a-z0-9_]*$.(…òÚãJ$8e90b100-4321-4c2b-a841-840d4094aaca
+špython:S117D"]Rename this parameter "ignoreHTTPSErrors" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ç¢ÚİJ$58ba85e3-253e-45bc-89da-95cd82000d36
+špython:S117H"XRename this parameter "storageState" to match the regular expression ^[_a-z][a-z0-9_]*$.(…‹ÜåüÿÿÿÿJ$80206c50-9474-4d9f-a513-18e31c63e5c4
+—python:S117F"URename this parameter "userAgent" to match the regular expression ^[_a-z][a-z0-9_]*$.(µØ‘ÊıÿÿÿÿJ$aaf216ce-da82-49ab-8052-319176f56548
+python:S117n"\Rename this parameter "failOnStatusCode" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ø ÄûÿÿÿÿJ$e1327fbf-f6f9-4dae-9140-56685a18ed4c
+špython:S117o"]Rename this parameter "ignoreHTTPSErrors" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ç¢ÚİJ$310f7947-9d5e-4a03-9d54-4c83d5c7c8f3
+•python:S117p"XRename this parameter "maxRedirects" to match the regular expression ^[_a-z][a-z0-9_]*$.(¿¢í›J$5adedbb8-a993-4267-a14c-1d99e05b5b39
+Ÿpython:S117‰"\Rename this parameter "failOnStatusCode" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ø ÄûÿÿÿÿJ$d5f967dc-e8d7-4ee0-a161-2081cb0f4bfa
+›python:S117Š"]Rename this parameter "ignoreHTTPSErrors" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ç¢ÚİJ$44890c35-8310-4962-b16f-42a8a0b885ee
+–python:S117‹"XRename this parameter "maxRedirects" to match the regular expression ^[_a-z][a-z0-9_]*$.(¿¢í›J$284c3088-a3ae-4bc2-809b-3bda8ad150a3
+Ÿpython:S117¤"\Rename this parameter "failOnStatusCode" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ø ÄûÿÿÿÿJ$72089635-6d10-4c4c-b667-643992b05ea8
+›python:S117¥"]Rename this parameter "ignoreHTTPSErrors" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ç¢ÚİJ$9c7a36a2-5988-4fbb-aec2-57bd76f63c46
+–python:S117¦"XRename this parameter "maxRedirects" to match the regular expression ^[_a-z][a-z0-9_]*$.(¿¢í›J$5cdd7910-f8e8-4d7a-a0a2-e4c9435f760e
+Ÿpython:S117¿"\Rename this parameter "failOnStatusCode" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ø ÄûÿÿÿÿJ$ee23d3b2-fe10-41c4-aa69-b10dd16581de
+›python:S117À"]Rename this parameter "ignoreHTTPSErrors" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ç¢ÚİJ$040cd958-31a8-4935-a1fa-f039e3832808
+–python:S117Á"XRename this parameter "maxRedirects" to match the regular expression ^[_a-z][a-z0-9_]*$.(¿¢í›J$e5f2deea-d548-470f-9dd1-088fc6fa4733
+Ÿpython:S117Ú"\Rename this parameter "failOnStatusCode" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ø ÄûÿÿÿÿJ$87ca09e4-b281-45f0-b0ed-a1cb3b623dcc
+›python:S117Û"]Rename this parameter "ignoreHTTPSErrors" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ç¢ÚİJ$3047bfbf-e9b7-427b-ba97-b1a99883d380
+–python:S117Ü"XRename this parameter "maxRedirects" to match the regular expression ^[_a-z][a-z0-9_]*$.(¿¢í›J$3703765b-2034-40ff-aaef-5191f96495be
+Ÿpython:S117õ"\Rename this parameter "failOnStatusCode" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ø ÄûÿÿÿÿJ$2022c502-f505-4b88-b57c-289656b5138f
+›python:S117ö"]Rename this parameter "ignoreHTTPSErrors" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ç¢ÚİJ$3376eb67-ad32-4512-9081-2c03418500d1
+–python:S117÷"XRename this parameter "maxRedirects" to match the regular expression ^[_a-z][a-z0-9_]*$.(¿¢í›J$ef5c8b38-1f9a-44a5-887c-6b37111e4cda
+Ÿpython:S117‘"\Rename this parameter "failOnStatusCode" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ø ÄûÿÿÿÿJ$289e8ca5-05e3-42aa-b8a8-c819b3b89fb8
+›python:S117’"]Rename this parameter "ignoreHTTPSErrors" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ç¢ÚİJ$6cf3bc24-4430-474c-870b-f5562b18f30d
+–python:S117“"XRename this parameter "maxRedirects" to match the regular expression ^[_a-z][a-z0-9_]*$.(¿¢í›J$03b2e130-9621-4912-b9a1-34d6abf437f5
+–python:S117‰"XRename this parameter "urlOrRequest" to match the regular expression ^[_a-z][a-z0-9_]*$.(òøÇ³J$d76ddb96-54bc-46de-8546-f9aeb0f5acb9
+Ÿpython:S117¸"\Rename this parameter "failOnStatusCode" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ø ÄûÿÿÿÿJ$323e1d92-75d6-4ce0-9033-fef022b8be0c
+›python:S117¹"]Rename this parameter "ignoreHTTPSErrors" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ç¢ÚİJ$ff715c14-51c9-4991-bf68-05ed6ca517fc
+–python:S117º"XRename this parameter "maxRedirects" to match the regular expression ^[_a-z][a-z0-9_]*$.(¿¢í›J$4cd64a48-9ebe-4b1a-84d3-ad4cb7c6233a
+“python:S3776­"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(©“ú¦J$d86c54f4-f739-4f38-8792-a916c94f8f44

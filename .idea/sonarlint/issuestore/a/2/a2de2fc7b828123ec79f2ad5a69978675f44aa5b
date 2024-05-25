@@ -1,0 +1,14 @@
+
+mpython:S5906!"*Consider using "assertIsInstance" instead.(Ä««„ùÿÿÿÿJ$c2b22c86-5e98-443e-a64c-bc9e5bdb61ec
+hpython:S5906#"*Consider using "assertIsInstance" instead.(ëßïÓJ$b7da8860-09a9-4a28-bd95-26aac8d3bca9
+‘python:S117U"URename this parameter "mockATW32" to match the regular expression ^[_a-z][a-z0-9_]*$.(ò„š
+J$8f792061-c617-4cc3-8612-2da2b4bc97ae
+bpython:S5906Y"$Consider using "assertTrue" instead.(ÙÞ—×J$0412fd6c-b170-41b2-a550-b9c64c313458
+bpython:S5906Z"$Consider using "assertTrue" instead.(šÊÃáJ$ce389bfe-31e3-47c6-b398-c0edb709385e
+’python:S117]"URename this parameter "mockATW32" to match the regular expression ^[_a-z][a-z0-9_]*$.(è¶ÈøJ$01834a0f-6494-44b0-b233-ead140190927
+gpython:S5906c"$Consider using "assertTrue" instead.(ìÑ·ïýÿÿÿÿJ$2462962a-76d9-46f3-b1b0-e0dd47751d5a
+bpython:S5906d"$Consider using "assertTrue" instead.(¿Ú¹¦J$76255399-49fb-4676-b71c-82d5756bb499
+cpython:S5906h"%Consider using "assertFalse" instead.(ÑØ“¯J$b8bedeae-989e-4b11-a86e-d0210512691b
+cpython:S5906j"%Consider using "assertFalse" instead.(ÑØ“¯J$45567269-10c1-4b7c-8004-e735bac43733
+•python:S117o"XRename this parameter "mockRegister" to match the regular expression ^[_a-z][a-z0-9_]*$.(•”ÕÞJ$9281eacb-94ce-4f50-b2b1-dbe08e26e742
+æpython:S1515š"¦Add a parameter to the parent lambda function and use variable "native_ansi" as its default value; The value of "native_ansi" might change at the next loop iteration.(äÃÑÊJ$6138627e-04c9-482a-a13c-83560b5020eb

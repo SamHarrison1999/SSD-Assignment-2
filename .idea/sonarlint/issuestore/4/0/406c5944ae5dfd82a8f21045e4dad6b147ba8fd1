@@ -1,0 +1,6 @@
+
+“python:S3776Ù"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Î×ßøJ$6ec2fb39-e630-4fb5-b1d3-1ef2627f95ff
+‘python:S117Ì"TRename this parameter "notFound" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÆµìrJ$ad07d0e6-362f-4df3-b919-1649b090be69
+œpython:S117Î"YRename this parameter "updateContent" to match the regular expression ^[_a-z][a-z0-9_]*$.( òœµÿÿÿÿÿJ$18afdc9f-c2c9-4390-af35-33b51ed30cd6
+™python:S117Ï"VRename this parameter "updateMode" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ëı¯üÿÿÿÿJ$941e6408-4c5b-45a4-abad-9502cbcff061
+gpython:S108¶")Either remove or fill this block of code.(ã‘Û¾J$b3d1f318-988d-4aba-9a3e-cdec98a7b002

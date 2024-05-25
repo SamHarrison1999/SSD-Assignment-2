@@ -1,0 +1,18 @@
+
+¡python:S117é"^Rename this local variable "asyncpg_Range" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰šÊüÿÿÿÿJ$fcbfe326-fcd7-4337-9c74-0e6996f33403
+¡python:S117Š"^Rename this local variable "asyncpg_Range" to match the regular expression ^[_a-z][a-z0-9_]*$.(‰šÊüÿÿÿÿJ$780f8a26-d3be-4ee0-a0ec-9f9af091a335
+ipython:S5806Œ"+Rename this variable; it shadows a builtin.(ÚáÕUJ$f5a4bd18-37d9-4366-a1e9-d02938667629
+·python:S101·"tRename class "PGExecutionContext_asyncpg" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(Åû·ïıÿÿÿÿJ$b105cc1a-2c3a-4165-aef1-6af33a913860
+¯python:S101Ñ"lRename class "PGCompiler_asyncpg" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(²à ÿÿÿÿÿJ$b9b8d824-cceb-4260-9053-9c44451ffb65
+´python:S101Õ"vRename class "PGIdentifierPreparer_asyncpg" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ˆ¬ñîJ$544cbebc-462c-481f-aade-a15bed792643
+±python:S101Ù"sRename class "AsyncAdapt_asyncpg_cursor" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ø™ŒÅJ$03e97486-b8bd-4edd-89fd-d33c17b9753a
+´python:S101à"vRename class "AsyncAdapt_asyncpg_ss_cursor" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(³¢…¬J$8175fbf5-00a0-4840-bebf-cbd20f4c4fcd
+^python:S3626¨"Remove this redundant continue.(À–¬ˆJ$5c615ef0-4cf3-43a1-8d89-8c08a75de153
+spython:S1135¢"4Complete the task associated to this "TODO" comment.(™—”ÙJ$5a775566-fe98-40fc-81e3-1aa49daf7b2b
+ºpython:S101³"wRename class "AsyncAdapt_asyncpg_connection" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(îè¥ŸÿÿÿÿÿJ$e55323ec-6b78-4941-aa12-f6bc49ac2aa6
+ypython:S2836–"5Add a "break" statement or remove this "else" clause.(³£œ‰øÿÿÿÿJ$567ebd7c-384b-49be-8b2e-b0529a5f26ce
+½python:S101Š"Rename class "AsyncAdaptFallback_asyncpg_connection" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(Å¿ÔãJ$bdf4891d-d2ff-4ac9-af49-10c01cf38256
+°python:S101"rRename class "AsyncAdapt_asyncpg_dbapi" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ÙªëçJ$e07c9fd4-d0d7-49a2-837f-97051ef518ac
+python:S100é"JRename method "Binary" to match the regular expression ^[a-z_][a-z0-9_]*$.(½¡ñÿÿÿÿÿJ$9b85dfdd-c942-4f05-b734-507e049ed5a1
+®python:S101í"kRename class "PGDialect_asyncpg" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(í“óüÿÿÿÿJ$c813eeeb-7fa2-4880-9f40-5b5e7502dd68
+wpython:S1172¾"8Remove the unused function parameter "dbapi_connection".(á€»ÖJ$659fdffc-5b0b-441c-b06f-8061a0e75c65

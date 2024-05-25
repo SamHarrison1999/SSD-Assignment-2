@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Outfit", sans-serif;
+}
+
+body {
+    height: 100vh;
+    background-color: #212121;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Header  */
+nav {
+    height: 60px;
+    display: flex;
+    align-items: center;
+    background-color: #0f1111;
+    color: white;
+}
+
+.nav-left {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: .5rem;
+}
+
+.nav-logo img {
+    width: 100px;
+    padding: .5rem;
+}
+
+.nav-logo:hover {
+    outline: 1px solid white;
+}
+
+.nav-center {
+    height: 40px;
+    display: flex;
+    flex-grow: 1;
+    border-radius: 5px;
+    margin-left: 1rem;
+}
+
+.nav-center:hover {
+    outline: 2px solid rgb(232, 176, 73);
+}
+
+.search-box {
+    font-size: 1rem;
+    flex-grow: 1;
+    padding: .5rem;
+}
+
+.search-box:focus {
+    outline: none;
+}
+
+.nav-right {
+    display: flex;
+    align-items: center;
+    margin: 0 1rem;
+}
+
+.nav-options {
+    height: 42px;
+    display: flex;
+    align-items: center;
+    background-color: #222f3d;
+    color: white;
+    justify-content: start;
+
+}
+
+.nav-options * {
+    cursor: pointer;
+}
+
+.nav-options .options {
+    display: flex;
+}
+
+.nav-options .options p {
+    padding: 0.5rem;
+}
+
+.nav-options .options p:hover {
+    outline: 1px solid white;
+}
+
+/* Small Devices */
+@media screen and (max-width: 900px) {
+    :root {
+        font-size: 2vw;
+    }
+
+    /* Header  */
+    nav {
+        height: 5vw;
+    }
+
+    .nav-center {
+        height: 4vw;
+    }
+
+    .search-box {
+        width: 1vw;
+    }
+
+    .search-icon i {
+        padding: .5rem .5rem;
+    }
+
+    .cart-logo {
+        width: 3vw;
+    }
+
+    .nav-options {
+        height: 5vw;
+    }
+}
+
+.d-flex .btn{
+    background: orange;
+    border: 2px solid orange;
+    border-radius: 8px;
+    color: #fff;
+}
+
+.d-flex .btn:hover{
+    background: rgb(228, 150, 7);
+    border: 2px solid rgb(228, 150, 7);
+}
+
+#right1 :hover{
+    color: orange;
+    transition: 300ms;
+}
+
+.row .right2 {
+    margin-left: -10px;
+    height: 180px;
+    width: 180px;
+    border-radius: 10px;
+}
+
+.container .row .col .row .col a {
+    background-color: orange;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+
+}
+
+.container .row .col .row .col a :hover {
+    background-color: rgb(201, 132, 5);
+}
+
+#column :hover{
+    transform: scale(0.9);
+    transition: 450ms;
+    border-radius: 10px;
+}
+
+#items :hover {
+    color: orange;
+    transition: 200ms;
+}

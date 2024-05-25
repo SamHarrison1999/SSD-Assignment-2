@@ -1,0 +1,25 @@
+
+˜python:S1192"YDefine a constant instead of duplicating this literal "MappedClassProtocol[Any]" 4 times.(È·ÍıJ$48295d79-b755-49ca-afcd-1a19540a51c4
+python:S1192Ë"^Define a constant instead of duplicating this literal "_DeclMappedClassProtocol[Any]" 3 times.(ÔÌú¼J$e359e166-d938-4f5a-95f7-d77e7b130856
+ypython:S2836¯"5Add a "break" statement or remove this "else" clause.(³£œ‰øÿÿÿÿJ$29a4daaf-0719-48a0-950d-9c7215e98233
+ypython:S2836İ"5Add a "break" statement or remove this "else" clause.(³£œ‰øÿÿÿÿJ$39f6693a-1882-4f71-be4c-946ca2bee610
+˜python:S3776‘"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ƒĞæÿÿÿÿÿJ$c3c32ef1-b070-4b13-9566-0be32649da64
+˜python:S3776Ö"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(›•‰æıÿÿÿÿJ$eec6904a-ffb3-462c-9ce1-c74b6c64928a
+™python:S117ò"\Rename this local variable "cls_as_Decl" to match the regular expression ^[_a-z][a-z0-9_]*$.(¨§÷IJ$3af22fa0-3cd3-4183-acf1-61fc46aa57be
+^python:S3626Ï"Remove this redundant continue.(À–¬ˆJ$621ba826-ee09-4d1c-a179-4ed4b95b94ba
+^python:S3626è"Remove this redundant continue.(À–¬ˆJ$56050b39-f825-4b61-bda3-5785faa93e2d
+”python:S3776ï"URefactor this function to reduce its Cognitive Complexity from 138 to the 15 allowed.(‚“·¦J$e6ec7886-f679-41bc-9278-8d251b3d49a0
+“python:S3776‹"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ªú¶×J$72724c77-d3ea-4fbb-88a1-ecd551d481ae
+˜python:S3776Û	"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(®…Ÿ•ÿÿÿÿÿJ$2bad80c7-c7f0-415a-a893-460345c21a18
+˜python:S3776´
+"TRefactor this function to reduce its Cognitive Complexity from 42 to the 15 allowed.(÷—ëÖıÿÿÿÿJ$bd7496e1-1bb3-415a-9217-35dd02163ee4
+˜python:S3776"TRefactor this function to reduce its Cognitive Complexity from 55 to the 15 allowed.(«Ó¶êüÿÿÿÿJ$2ee8a0c9-331f-4113-af68-a261fc096cfc
+spython:S1135İ"4Complete the task associated to this "TODO" comment.(îŒŞãJ$0ced1141-aab5-4aef-a5bb-54b17cedee8d
+˜python:S3776Ó"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(ç²áÿÿÿÿÿJ$e61b8483-9783-414a-b6c6-237a91e5074b
+špython:S117"\Rename this local variable "cls_as_Decl" to match the regular expression ^[_a-z][a-z0-9_]*$.(È·ÍıJ$59c34468-a5f6-4944-b1fe-ef71ab3050f8
+“python:S3776"TRefactor this function to reduce its Cognitive Complexity from 39 to the 15 allowed.(ÿ¡–ÎJ$312993a4-69bf-4952-87ac-05df7c12fc7c
+˜python:S3776Ú"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(¿ê¸ÊùÿÿÿÿJ$1b9029e5-bdff-4d89-8979-1d3018861bc3
+ppython:S1172û"1Remove the unused function parameter "mapper_kw".(ÒİÑ‚J$16fbeb84-c2e6-4f6f-8796-770255fae83e
+“python:S3776û"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(ÒİÑ‚J$788b1458-6dbe-4898-8f23-73921e638c2e
+“python:S3776Ã"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(Àó…óJ$a168d3ce-9411-4fad-8356-241db043a2e2
+“python:S3776‚"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(Å»±J$7c174067-d8bc-460f-be4b-d4536e11ddc4

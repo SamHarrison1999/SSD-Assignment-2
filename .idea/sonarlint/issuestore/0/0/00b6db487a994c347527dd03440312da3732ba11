@@ -1,0 +1,23 @@
+
+†python:S1192Æ"GDefine a constant instead of duplicating this literal "%s(%d)" 3 times.(×Íš½J$07172410-88ef-4305-877c-c15d0857a738
+“python:S3776µ
+"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(Åö²çJ$433dec63-718a-4954-931b-09a1eac36563
+Øpython:S1515á
+"“Add a parameter to function "replace" and use variable "column" as its default value;The value of "column" might change at the next loop iteration.(±³¾¾ùÿÿÿÿJ$1db67926-8f30-4ae5-9c3e-bbeed8ece7a3
+˜python:S3776Ü"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(÷§‰âşÿÿÿÿJ$d921b883-840a-4be7-a6bb-e576582a30ed
+spython:S1135ı"4Complete the task associated to this "TODO" comment.(‚©¼ªJ$fef54352-263b-4e90-b743-3db7fd6f3da6
+˜python:S3776”"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(ÅÓæ¸úÿÿÿÿJ$71b46cc5-77cf-4a05-8a6b-7c419734785b
+­python:S1845Ô"nRename method "visit_ENUM" to prevent any misunderstanding/clash with method "visit_enum" defined on line 2359(†«ÏJ$8bb8ad5f-caf9-454f-8e64-eca28e0e9984
+—python:S2737†"XAdd logic to this except clause or eliminate it and rethrow the exception automatically.(€³¢»J$9ec2ed4c-2bd2-4410-8734-12b22959a482
+opython:S6035¢"0Replace this alternation with a character class.(¤€·ãJ$7084a36d-683e-4268-a941-030c0692068b
+“python:S3776©"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÿÅé“J$c4f60dca-3a17-4489-a9d7-2b27a1cdeccb
+“python:S3776½"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(•Õ‰J$f47161bc-b62a-4152-a7d3-88c7492ff04a
+gpython:S108Ï")Either remove or fill this block of code.(ã‘Û¾J$439e474f-af60-49f9-bed2-05b0c2004b41
+[python:S2772Ô"Remove this unneeded "pass".(ã‘Û¾J$b9464295-b2ba-4426-9005-a108236be5d6
+“secrets:S6697Ú"NMake sure this MySQL database password gets changed and removed from the code.(ïš¬ğÿÿÿÿÿJ$e225a4c4-66db-4056-a5f6-71e8209e5848
+“secrets:S6697Ã"NMake sure this MySQL database password gets changed and removed from the code.(©§‡èıÿÿÿÿJ$cdfb5958-4349-47dc-96d7-966c93cbc16b
+“secrets:S6697×"NMake sure this MySQL database password gets changed and removed from the code.(©§‡èıÿÿÿÿJ$82c8414b-eefa-4c0c-84ef-e912c5e156c6
+secrets:S6697"NMake sure this MySQL database password gets changed and removed from the code.(ŒƒóJ$1d31fed3-9ad5-4cbc-927e-42c5de8dbcfd
+“secrets:S6697…"NMake sure this MySQL database password gets changed and removed from the code.(İ÷ª„øÿÿÿÿJ$7a0cdc87-46ac-474c-88e3-fd9928f8ee9f
+“secrets:S6697±"NMake sure this MySQL database password gets changed and removed from the code.(å­¾¦ùÿÿÿÿJ$7d8eb9ed-f36e-4214-83e1-9cfca4a41475
+“secrets:S6697İ"NMake sure this MySQL database password gets changed and removed from the code.(Å·ÄüÿÿÿÿJ$ca8e0cef-3822-4b61-938c-e29d621d4617

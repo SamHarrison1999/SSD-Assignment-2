@@ -1,0 +1,8 @@
+
+µpython:S101"sRename class "AsyncAdapt_aioodbc_cursor" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(à»ÓúùÿÿÿÿJ$9282450b-47d1-4788-be37-1e27c42e2ee9
+³python:S101'"vRename class "AsyncAdapt_aioodbc_ss_cursor" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ã×÷ÓJ$4e221785-4ad5-42eb-a122-24a1e9f3966e
+´python:S101-"wRename class "AsyncAdapt_aioodbc_connection" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(™·Ç˜J$4375aaa2-db34-43a2-9cca-ae79367d8ad0
+¼python:S101Z"Rename class "AsyncAdaptFallback_aioodbc_connection" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(Î±ÝŸJ$2dd8cde2-6c0b-42f9-972b-0d359916f445
+‹python:S116f"NRename this field "Cursor" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÐÔÍ‰J$2cd0e885-42ad-4f15-8e2d-6d3ad05b5596
+¯python:S101`"rRename class "AsyncAdapt_aioodbc_dbapi" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ƒÎžõJ$7cbb32cf-e1bb-445c-803c-5385a3b83673
+§python:S101‘"iRename class "aiodbcConnector" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(—çéóJ$010ff226-10bc-4195-96b2-1cfea728d92a

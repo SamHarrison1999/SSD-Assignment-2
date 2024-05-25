@@ -1,0 +1,18 @@
+
+’python:S1192·"NDefine a constant instead of duplicating this literal r'[^\\\'"%\n]+' 3 times.(—¼­¾øÿÿÿÿJ$d00ee1c2-e6ba-4299-860e-bdd26b8742f9
+’python:S1192Â"NDefine a constant instead of duplicating this literal r'[a-zA-Z_]\w*' 7 times.(§Ù›úÿÿÿÿJ$7bcf4f1a-fbd8-424e-97c9-91aaea9404e7
+python:S1192Ğ"KDefine a constant instead of duplicating this literal 'yield from' 3 times.(ŞğäöùÿÿÿÿJ$50386672-4d82-49f7-8d17-e25d503e1673
+®python:S1192à"pDefine a constant instead of duplicating this literal r'\\([\\abfnrtv"\']|\n|N\{.*?\}|u[a-fA-F0-9]{4}|' 3 times.(º¹ÖJ$010a68a9-d6d6-4f57-9580-fb5f5b9835f5
+‰python:S1192­"JDefine a constant instead of duplicating this literal r'[^\S\n]+' 3 times.(ùû†šJ$0a582c9d-9f86-4159-959b-d987cbe47a8e
+“python:S1192ö"ODefine a constant instead of duplicating this literal r"\\\\|\\'|\\\n" 4 times.(ÍŸä–şÿÿÿÿJ$9057391a-bccc-4912-9a46-4efa8c25d7a4
+•python:S1192±"VDefine a constant instead of duplicating this literal r'(in|is|and|or|not)\b' 3 times.(§ÖÛ¥J$da2cd034-62b2-407a-a538-ac53505636ad
+python:S1192ñ"ODefine a constant instead of duplicating this literal r'\\\\|\\"|\\\n' 4 times.(»©›¦J$a087ecdc-21bb-484f-a353-1c40be88a74b
+Œpython:S1192Q"IDefine a constant instead of duplicating this literal r'[\'"\\]' 5 times.(îí¡øÿÿÿÿJ$0fe7f11b-d182-4ac7-9cbb-e2585260fc98
+python:S1192ö"IDefine a constant instead of duplicating this literal r'(?<!\.)' 8 times.(›­¿±şÿÿÿÿJ$cdea21d2-51a9-40b3-88c8-bc9f42ef3769
+‘python:S1192°"MDefine a constant instead of duplicating this literal r'[]{}:(),;[]' 3 times.(³Œ¯¾ûÿÿÿÿJ$5bd07b67-6d59-48ff-9bf1-d85a55f9e3e5
+{python:S5720™"<Rename "text" to "self" or add the missing "self" parameter.(·ŸÔ˜J$188d40ed-f465-4a46-bf12-3155162a43d5
+{python:S5720û"<Rename "text" to "self" or add the missing "self" parameter.(·ŸÔ˜J$f7f94261-879f-469d-8170-13066b88d645
+–python:S5799à"XAdd a "+" operator to make the string concatenation explicit; or did you forget a comma?(º¹ÖJ$45a3724b-860a-4c63-bf9e-4bdc671c91a1
+–python:S5799Æ"XAdd a "+" operator to make the string concatenation explicit; or did you forget a comma?(º¹ÖJ$594244b8-f875-435c-ad57-dff45089ca43
+–python:S5799´"XAdd a "+" operator to make the string concatenation explicit; or did you forget a comma?(º¹ÖJ$a20ff65b-db64-4d45-bbe0-14b19fa0fba3
+{python:S5720ª	"<Rename "text" to "self" or add the missing "self" parameter.(·ŸÔ˜J$be896e3b-c178-49f0-b521-27769f707fc1

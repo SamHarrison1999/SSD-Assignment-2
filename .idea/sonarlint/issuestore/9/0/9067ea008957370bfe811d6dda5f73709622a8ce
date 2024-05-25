@@ -1,0 +1,16 @@
+
+—python:S1192ï
+"YDefine a constant instead of duplicating this literal "_InternalEntityType[Any]" 3 times.(ß¸¤	J$d58ac00b-99ed-4491-b567-b30031a789d2
+˜python:S3776"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(ğÄšÅøÿÿÿÿJ$2f2d380b-ef34-41f6-9d10-062510ab1b37
+npython:S1172«"0Remove the unused function parameter "oldvalue".(ƒÃÜJ$29baf7ca-60ab-47cb-8133-f2251711d735
+npython:S1172Ä"0Remove the unused function parameter "oldvalue".(ƒÃÜJ$24374c9a-ddda-4d68-bc38-7b92d8d905b9
+“python:S3776Ñ"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÅêŠ¶J$9b8f3425-8a64-4e06-b31d-a64a9f95e7ef
+python:S5644Œ"KFix this code; "ORMColumnsClauseRole" does not have a "__getitem__" method.(†İğ…ÿÿÿÿÿJ$b3c26dcd-70f9-4394-a260-0d54f4f7a789
+python:S5644Ö"QFix this code; "ORMEntityColumnsClauseRole" does not have a "__getitem__" method.(Œ¡ŞJ$b5ea75ac-0ed9-4ff9-ab7d-8521c8dc6987
+bpython:S125•	"Remove this commented out code.(Êµ‡ÓÿÿÿÿÿJ$1381679a-abd4-41ed-bfac-9a8f7cf49e26
+python:S5644"KFix this code; "ORMColumnsClauseRole" does not have a "__getitem__" method.(¯¦¯ÔùÿÿÿÿJ$b66d9c8a-7593-4e50-8596-f79362ca55ed
+jpython:S1481â"+Replace the unused loop index "l" with "_".(Öˆ†îJ$29e41505-79ce-4f50-8de8-0130ef2a9618
+˜python:S3776"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(ú„ÚüùÿÿÿÿJ$6832a609-3edf-4afb-af06-d2cfe7279af7
+˜python:S3776°"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(”ˆ—ÓùÿÿÿÿJ$c8887c7b-d4ed-4714-9bc5-7676da754c01
+˜python:S3776ˆ"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(ş§ğ…ûÿÿÿÿJ$9192c1fc-02c6-4781-995c-838d538bab28
+£python:S1871Í"dEither merge this branch with the identical one on line "2374" or change one of the implementations.(ò¤ŸùJ$70caa69f-51e7-4712-8d3e-d02651331741

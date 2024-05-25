@@ -1,0 +1,27 @@
+
+‡python:S1192"HDefine a constant instead of duplicating this literal "%s = %s" 3 times.(À‹“®J$38c34c88-eeb2-462d-be9d-7c5d852d2b67
+npython:S1066­"/Merge this if statement with the enclosing one.(ÈÖşŒJ$28238fa9-780d-4b19-8a08-e3a2d0dff306
+spython:S1066¯$"/Merge this if statement with the enclosing one.(¦Ù‰¼ùÿÿÿÿJ$bcdfa40e-ccd4-45c1-a72f-607d75e43c7e
+npython:S5869ˆ"*Remove duplicates in this character class.(äÖ™ÔıÿÿÿÿJ$2cbd0274-2f4c-4043-babb-90e9563da197
+ppython:S5855ˆ",Remove or rework this redundant alternative.(äÖ™ÔıÿÿÿÿJ$98eda24e-3675-4dc2-9d12-6c9a40a5d09a
+“python:S3776ú"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(¥£ÇßJ$289a057b-7900-4c59-b361-3f6ddc2bf28d
+“python:S3776ç"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(éÂÅJ$782c147f-9018-423e-91b1-bdfb4e0447fa
+˜python:S3776è"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÅÓæ¸úÿÿÿÿJ$bb7c7ae9-c92a-4e3a-a3aa-9c721e4d762b
+­python:S1845È"nRename method "visit_ENUM" to prevent any misunderstanding/clash with method "visit_enum" defined on line 2626(“ûÃÁJ$44ee2f72-c536-4f88-9bb0-4d852a678984
+¬python:S1845ı"nRename method "visit_UUID" to prevent any misunderstanding/clash with method "visit_uuid" defined on line 2679(¯ÌÔ J$70aaa8db-f18f-4154-9f7f-0667ca78a4a2
+›python:S4144Í"\Update this function so that its implementation is not identical to visit_ENUM on line 2632.(¢çîØJ$24cfd2b4-47a1-41ff-9d1a-a81b161c590b
+˜python:S3776Ş"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ÆªèÆùÿÿÿÿJ$29f83095-e9b0-4b07-9954-f87ab35ee170
+˜python:S3776Ş"TRefactor this function to reduce its Cognitive Complexity from 45 to the 15 allowed.(ŸëÖ«ıÿÿÿÿJ$d8cb1831-bc8e-41fd-9d66-c16e2a752618
+python:S1134½"LTake the required action to fix the issue indicated by this "FIXME" comment.(–ğ‚ÿÿÿÿÿJ$44d2da51-0937-4a30-aae4-09891549b223
+˜python:S3776„"TRefactor this function to reduce its Cognitive Complexity from 44 to the 15 allowed.(¶ÇûƒúÿÿÿÿJ$7119fff4-9cb6-441d-8e81-2679f9bac88e
+“python:S3776•"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(ÉœJ$a59e2d90-d2ff-4c27-96d0-e08af1f7e62b
+˜python:S3776á"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(£Ü»øÿÿÿÿJ$7ad1ffe9-5b4a-490b-bc20-6753f147400b
+“python:S3776!"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(­™¾·J$2d138f92-5ef3-44a1-ba39-f159804094cd
+“python:S3776†#"TRefactor this function to reduce its Cognitive Complexity from 86 to the 15 allowed.(‰´Ï¸J$806a7831-a845-4f45-be11-cb5c5ea5e01b
+’python:S3776ª%"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(‚ñ¢bJ$4faae90e-a6c4-4853-8c4c-9f3111731975
+npython:S5869Í%"*Remove duplicates in this character class.(ŸËüŒùÿÿÿÿJ$7d0804e6-0b0c-4376-9651-4ef5b03ec11e
+npython:S5869Í%"*Remove duplicates in this character class.(ŸËüŒùÿÿÿÿJ$165a288d-6994-4abe-8445-a7acc8e799b2
+˜secrets:S6698«"SMake sure this PostgreSQL database password gets changed and removed from the code.(£ù—íÿÿÿÿÿJ$b096d2f8-dc5d-44c6-9fe8-9a8635ff3bde
+“secrets:S6698"SMake sure this PostgreSQL database password gets changed and removed from the code.(Æ¬ÂJ$26bbd121-172b-4906-a86e-cfa621bb4818
+“secrets:S6698¾"SMake sure this PostgreSQL database password gets changed and removed from the code.(•Ğ–šJ$035a32b1-f15b-44b6-9ae6-1028c43a1265
+˜secrets:S6698Ú"SMake sure this PostgreSQL database password gets changed and removed from the code.(‰é”úÿÿÿÿJ$38f34896-a631-419a-86a0-8199f9027eda

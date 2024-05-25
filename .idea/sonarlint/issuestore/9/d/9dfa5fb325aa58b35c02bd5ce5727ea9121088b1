@@ -1,0 +1,7 @@
+
+‹python:S1192Ë"GDefine a constant instead of duplicating this literal 'Error:' 8 times.(öÓôáøÿÿÿÿJ$bd0cc7a3-09f0-459e-8089-8fa885fd17df
+—python:S3776W"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(­õúúÿÿÿÿJ$6857fba3-6b64-4ef3-8827-69620e66dabd
+špython:S117­"WRename this local variable "F_opts" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ò´ğÀùÿÿÿÿJ$c7e31c79-0b7c-4b58-8ab9-b0a25196300e
+™python:S117’"VRename this local variable "S_opt" to match the regular expression ^[_a-z][a-z0-9_]*$.( Î¤üÿÿÿÿJ$1b008136-92ef-42e4-9ddb-5028969c0a53
+“python:S3776¶"URefactor this function to reduce its Cognitive Complexity from 181 to the 15 allowed.(‡¶Ø J$55a78ee3-45b3-4230-b22c-c7d3bf8b4e91
+\python:S125Ñ"Remove this commented out code.(øıœHJ$9b23158e-ab3d-4dd1-ab29-0476e8070791

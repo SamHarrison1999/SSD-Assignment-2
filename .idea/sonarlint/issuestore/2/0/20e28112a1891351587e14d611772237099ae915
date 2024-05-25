@@ -1,0 +1,10 @@
+
+rpython:S1066#"/Merge this if statement with the enclosing one.(ş…ÔµøÿÿÿÿJ$acc20827-7e7e-4f8c-9374-84ab53574bdb
+|python:S3516="9Refactor this method to not always return the same value.(ó”£ÇüÿÿÿÿJ$9b545a19-f4b6-4a36-b8e9-8f2bbaca063c
+—python:S3776="TRefactor this function to reduce its Cognitive Complexity from 42 to the 15 allowed.(ó”£ÇüÿÿÿÿJ$529fffaa-b476-484f-afd1-ae76a51d7c7e
+jpython:S1940Z"-Use the opposite operator ("not in") instead.(‡‘ßnJ$3796cc1a-c4e6-483c-bce2-42d588911227
+ppython:S1940j"-Use the opposite operator ("not in") instead.(ü¬•­øÿÿÿÿJ$c3102245-d601-4f65-b873-6f7a8f9ac2dd
+˜python:S3776‹"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(§ ¶úÿÿÿÿJ$ccbab623-788e-4606-be08-6978cd8e23d0
+upython:S1172º"1Remove the unused function parameter "exception".(ıÙÇùÿÿÿÿJ$572265a5-9b45-401e-808b-9895dca425f0
+˜python:S3776º"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(ıÙÇùÿÿÿÿJ$6d4ce4cb-d17f-4c80-8c77-7c804a8019e6
+“python:S3776¯"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ù‹ÏØJ$7e017493-5684-447b-8b23-a60b6e7ce9a3

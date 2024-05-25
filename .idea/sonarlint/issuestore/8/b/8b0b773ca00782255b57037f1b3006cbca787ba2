@@ -1,0 +1,17 @@
+
+ˆpython:S5644Z"EFix this code; "MapperProperty" does not have a "__getitem__" method.(ã™˜øùÿÿÿÿJ$dbca6b4c-00ce-49d5-81b4-d951763ddfbc
+python:S5644´"IFix this code; "DescriptorProperty" does not have a "__getitem__" method.(»›¿‰ıÿÿÿÿJ$7cda6f28-4386-415f-a8db-3f136ae9ed52
+˜python:S3776"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(ª’ŸúÿÿÿÿJ$422e33d1-86e5-44e0-ae01-b62c74452917
+ python:S117æ"]Rename this local variable "MappedColumn" to match the regular expression ^[_a-z][a-z0-9_]*$.(ìÉæ¸şÿÿÿÿJ$f67b8bdf-3c89-4fd4-baf6-e745c775be99
+“python:S3776Ú"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.( é›«J$8b7e97f4-1a68-4f0c-b4b7-487afb2973dd
+ python:S117·"]Rename this local variable "MappedColumn" to match the regular expression ^[_a-z][a-z0-9_]*$.(ìÉæ¸şÿÿÿÿJ$5c7469fd-d1a5-4c1f-b1cd-23321692dc60
+ python:S117ß"]Rename this local variable "MappedColumn" to match the regular expression ^[_a-z][a-z0-9_]*$.(ìÉæ¸şÿÿÿÿJ$e96bcd58-3b42-4504-ab71-6ee0812eb266
+ python:S117ù"]Rename this local variable "MappedColumn" to match the regular expression ^[_a-z][a-z0-9_]*$.(ìÉæ¸şÿÿÿÿJ$16ee39b5-b232-4320-a4f1-7f6097061b66
+¢python:S117"_Rename this local variable "ColumnProperty" to match the regular expression ^[_a-z][a-z0-9_]*$.(ì…­şşÿÿÿÿJ$eb9fee26-3afa-4d94-80f2-b649c0cfaff0
+npython:S1172³"/Remove the unused function parameter "to_load".(É´øäJ$6ca34168-cf2d-4dc5-af4f-95ad83a8e6c1
+spython:S1135ù"4Complete the task associated to this "TODO" comment.(¦«™J$b7cc574b-af9c-4f35-b7c9-444a5f265f8a
+kpython:S1481Œ"-Replace the unused loop index "key" with "_".(ïùóJ$68d4ae4f-b122-45df-acf9-507dd5381048
+ˆpython:S5644ä"IFix this code; "DescriptorProperty" does not have a "__getitem__" method.(·ì¹ÉJ$791aaf6e-8e29-477b-8c7c-8ae5f206322f
+ˆpython:S5644œ"IFix this code; "DescriptorProperty" does not have a "__getitem__" method.(ôßğİJ$2ccf3cf4-76fb-4513-9706-ca8a1ed0c538
+xpython:S1135Í"4Complete the task associated to this "TODO" comment.(ÃÈ¹ìúÿÿÿÿJ$b0f9ac58-ca2c-4314-96b8-9da41747d59b
+Špython:S5644£"FFix this code; "SynonymProperty" does not have a "__getitem__" method.(òÃí»øÿÿÿÿJ$db3cdea7-8d62-4b21-a8be-e4053ead8e4c

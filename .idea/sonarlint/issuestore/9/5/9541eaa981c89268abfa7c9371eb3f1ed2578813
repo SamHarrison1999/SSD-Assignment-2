@@ -1,0 +1,9 @@
+
+Špython:S1192¶"KDefine a constant instead of duplicating this literal "wsgi.input" 3 times.(ÑòÇJ$cdb5a339-470d-46d5-85d0-03b8672cde6a
+‘python:S3776n"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ò¶šdJ$d2bf83ed-1f8b-4c73-8af4-2868e4854f42
+’python:S3776 "TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(åÓª|J$9b2e00ab-39eb-433f-91fc-7d866171b8c0
+’python:S3776ñ"TRefactor this function to reduce its Cognitive Complexity from 53 to the 15 allowed.(‡Ÿ¬YJ$3bab4225-f22a-48b8-ac6c-9d4eb08999b2
+ppython:S1172†",Remove the unused function parameter "port".(„¹õûüÿÿÿÿJ$0dd0cd97-b8f3-4130-b4d8-72457e765730
+˜python:S3776¾"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(ú„ÚüùÿÿÿÿJ$d4e58bed-116c-4b3d-bf26-4214627bc9e3
+python:S5747´"BRemove this "raise" statement or move it inside an "except" block.(€³¢»J$890820c3-c859-4ef7-9e72-dba13fac3b88
+”python:S107¸"QFunction "run_simple" has 16 parameters, which is greater than the 13 authorized.(ïÔƒ•ıÿÿÿÿJ$8024951d-f261-4ada-b2be-4508a9fd489b

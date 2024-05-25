@@ -1,0 +1,15 @@
+
+rpython:S11359"4Complete the task associated to this "TODO" comment.(–ÊóéJ$5023408e-dc99-4674-aaa9-fc5eb674fed6
+Œpython:S1854É"HRemove this assignment to local variable 'res'; the value is never used.(äÏèûøÿÿÿÿJ$5e663b0b-aae8-4988-81fe-72b41e2e07e7
+˜python:S3776¢"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÏÑıÿÿÿÿJ$56015835-487c-4c29-bc8a-277c4aa91a30
+˜python:S3776Œ	"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ùûĞ§øÿÿÿÿJ$8910250d-7181-4533-83ea-184044fb0d8e
+]python:S125â
+"Remove this commented out code.(™å«°J$08201804-2b46-42c1-85bc-02592921ce6b
+“python:S3776Å"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(§ì¸„J$2b844fe0-4a74-4fe3-a7ae-ee0cc7b879a7
+‡python:S1854ø"HRemove this assignment to local variable 'res'; the value is never used.(¶ˆö“J$19e29562-fd0e-4561-9a13-1979d1ff87cd
+†python:S1854ˆ"HRemove this assignment to local variable 'res'; the value is never used.(Ñ—J$a680588a-b546-477c-bec0-3a45f4507ad9
+˜python:S3776è"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ù¥’ÈüÿÿÿÿJ$c0c40107-eca1-495d-ac24-67d27f15ce7d
+—python:S1542î"SRename function "completeIndex" to match the regular expression ^[a-z_][a-z0-9_]*$.(ãìÈêùÿÿÿÿJ$316c1e3e-15e1-4839-8f97-b5223e93b3c5
+—python:S117"YRename this local variable "compData" to match the regular expression ^[_a-z][a-z0-9_]*$.(ë€¸‘J$5c12486c-e65e-47ca-b7d4-f840a1d03423
+œpython:S117®"YRename this local variable "compData" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ü“ĞúÿÿÿÿJ$61595103-2f22-486a-bd9d-f92436c1c198
+˜python:S3776–"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(³×Ë¹şÿÿÿÿJ$e709f68d-75bd-4117-9d06-ddc33f899a7a

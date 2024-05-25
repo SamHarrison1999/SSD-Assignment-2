@@ -1,0 +1,10 @@
+
+python:S100,"MRename method "_column_X" to match the regular expression ^[a-z_][a-z0-9_]*$.(©¨ÆØüÿÿÿÿJ$62f825c5-b59f-46cb-8326-d844452463fa
+—python:S100H"URename method "_key_column_X_key" to match the regular expression ^[a-z_][a-z0-9_]*$.(Îƒ¾˜øÿÿÿÿJ$5e6be357-f256-4b68-8487-6b7b59e3e849
+˜python:S100N"VRename method "_key_column_X_name" to match the regular expression ^[a-z_][a-z0-9_]*$.(Œ×„¦ûÿÿÿÿJ$0da458db-f741-4b47-a22e-18ed2f4a28dc
+™python:S100Q"WRename method "_key_column_X_label" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÉèÉ¬ıÿÿÿÿJ$cacfc298-8854-417f-9ebf-f45978e23204
+upython:S1481X"7Replace the unused local variable "refschema" with "_".(ÅÔŸøJ$984d8e2f-d35a-4ef8-a9e2-443a32e44724
+rpython:S1481X"4Replace the unused local variable "refcol" with "_".(ÅÔŸøJ$3abad0a9-bdf6-4c92-8f19-e517aba870d4
+¡python:S100]"_Rename method "_key_referred_column_X_name" to match the regular expression ^[a-z_][a-z0-9_]*$.(«÷è¼şÿÿÿÿJ$6681b28a-bbfb-4b0a-9643-e9808e629ff8
+—python:S3776d"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(şâæ«ÿÿÿÿÿJ$726e55c2-9bc2-420d-a8d6-156fe7e114c1
+ypython:S2836”"5Add a "break" statement or remove this "else" clause.(³£œ‰øÿÿÿÿJ$7f692c9c-72c9-4c5b-b9d2-59182cba2991

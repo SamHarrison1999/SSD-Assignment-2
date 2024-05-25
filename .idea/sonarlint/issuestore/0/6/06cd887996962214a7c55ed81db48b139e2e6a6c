@@ -1,0 +1,5 @@
+
+’python:S3776C"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(Ü…â–J$5fae0f48-6089-4c09-bd12-e0eb19aecc23
+jpython:S1481»"+Replace the unused loop index "i" with "_".(æíÄÕJ$e617276a-0799-4829-b4fc-d9f80721d944
+cpython:S5719"Add a "self" or class parameter(„¸õÉşÿÿÿÿJ$9661fa51-08d1-49f8-906c-e03fb4b3674f
+˜python:S117Ô"URename this local variable "Base" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ç¼¦ûÿÿÿÿJ$0c149773-45e4-4007-8237-32e4f6576426

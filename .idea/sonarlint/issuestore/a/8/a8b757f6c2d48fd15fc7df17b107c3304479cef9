@@ -1,0 +1,9 @@
+
+wpython:S1135"4Complete the task associated to this "TODO" comment.(ÌÄ©œúÿÿÿÿJ$4c12920b-dc3f-437a-9137-505498dd5c21
+jpython:S1481Œ"+Replace the unused loop index "i" with "_".(ûß‡³J$c8954104-4ef3-42d2-9c5a-44c239aafac3
+spython:S1656è"/Remove or correct this useless self-assignment.(øÆŽÌýÿÿÿÿJ$65052da4-e23b-46ef-93b2-d7c4518ba58c
+€python:S5754¦"<Specify an exception class to catch or reraise the exception(”•²†øÿÿÿÿJ$a548908c-4f2b-40a8-9f1a-2edefdaca48d
+python:S112¥">Replace this generic exception class with a more specific one.(’€ÿ¢ùÿÿÿÿJ$e16cdc81-6f08-454c-849b-4475044dd994
+˜python:S1186ñ"YAdd a nested comment explaining why this method is empty, or complete the implementation.(¯ŒåòJ$4296deda-0d8e-4434-ba35-af46a522a4a4
+“python:S3776÷"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(¿Ýµ¢J$922aa75a-d176-4681-9c49-39fb3f4eb0c6
+…python:S1854•"FRemove this assignment to local variable 'g'; the value is never used.(Àž¨áJ$7db66d6f-c126-4740-871d-28dc10922b61

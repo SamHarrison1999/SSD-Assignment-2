@@ -1,0 +1,11 @@
+
+xpython:S2836k"5Add a "break" statement or remove this "else" clause.(³£œ‰øÿÿÿÿJ$b77561b0-1c4e-4d4c-8bf0-e96d646c58e4
+’python:S3776º"TRefactor this function to reduce its Cognitive Complexity from 63 to the 15 allowed.(•Š¤TJ$8d1dff21-b694-45ef-984d-e156ab625b4b
+ipython:S1172ç"*Remove the unused function parameter "kw".(· ”J$33f9d39a-b67f-45fd-b00f-51e98dae6e16
+ipython:S1172ó"*Remove the unused function parameter "kw".(· ”J$2e60c12b-890c-4d75-80bd-3777ebd40e99
+npython:S1172Œ"*Remove the unused function parameter "kw".(éØã¢ÿÿÿÿÿJ$751cf051-ffdd-42bc-8ba6-b988740a3dc6
+Špython:S1226£"LIntroduce a new variable or use its initial value before reassigning 'code'.(Ôä³^J$5e94ed7b-53ab-4a0f-bc61-ab69703353b2
+spython:S1135ó"4Complete the task associated to this "TODO" comment.(Ğ‡ÙÚJ$3419fb7d-179f-4fc4-9958-6a4d409c20ce
+˜python:S3776Ä"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ôòá ÿÿÿÿÿJ$30497b3f-37c0-4bb0-844a-cfc36f603902
+gpython:S1940ì")Use the opposite operator ("!=") instead.(³´ÃsJ$386d2a74-39e9-4e69-8dd6-fc8aa85bcc13
+spython:S1135Ú	"4Complete the task associated to this "TODO" comment.(®ĞÜËJ$38485b2b-380f-420c-b954-165926abf42f

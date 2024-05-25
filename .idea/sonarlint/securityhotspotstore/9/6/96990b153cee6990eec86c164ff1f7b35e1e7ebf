@@ -1,0 +1,5 @@
+
+¿python:S5852R"€Make sure the regex used here, which is vulnerable to exponential runtime due to backtracking, cannot lead to denial of service.( ŒÄôJ$e9213a7b-8b49-407e-a32a-ec2c182cfa62
+½python:S5852]"Make sure the regex used here, which is vulnerable to polynomial runtime due to backtracking, cannot lead to denial of service.( ŒÄôJ$4357aaa0-630a-4530-84ff-5a1eac01c2cc
+Âpython:S5852c"Make sure the regex used here, which is vulnerable to polynomial runtime due to backtracking, cannot lead to denial of service.(…ğÆ®ÿÿÿÿÿJ$6574b329-fe6a-4798-962f-8b55745afbb2
+¾python:S5852"Make sure the regex used here, which is vulnerable to polynomial runtime due to backtracking, cannot lead to denial of service.(ÉŒè­J$1532b937-5e8c-428d-82bb-bb734acd1a55

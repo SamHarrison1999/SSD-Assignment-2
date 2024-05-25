@@ -1,0 +1,9 @@
+
+mpython:S1172¹".Remove the unused function parameter "config".(ïúµæJ$472263c3-6029-407f-828c-28126959d8b0
+lpython:S1172ã"-Remove the unused function parameter "error".(‡ïŸ³J$cbd8eb71-6454-441a-941c-2a94ab4ce0d2
+rpython:S1172ì".Remove the unused function parameter "config".(¬•“âÿÿÿÿÿJ$a3f9eb0e-3df8-4450-8a7b-429eb4041619
+spython:S1172ì"/Remove the unused function parameter "session".(¬•“âÿÿÿÿÿJ$64ea41f3-8167-47a5-906d-b135459f9a02
+˜python:S3776ì"TRefactor this function to reduce its Cognitive Complexity from 39 to the 15 allowed.(¬•“âÿÿÿÿÿJ$b5d9087d-c09a-437d-8f27-973cc364b3f4
+”python:S1854‘"PRemove this assignment to local variable 'add_markers'; the value is never used.(±ºÅ¯ÿÿÿÿÿJ$4f4b148f-2764-42f7-a7d7-7575df5b3084
+“python:S3776î"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(¬Òù¨J$3bc7a88e-957a-4ea3-b5fe-abb86e1b12d7
+“python:S3776«"TRefactor this function to reduce its Cognitive Complexity from 50 to the 15 allowed.(öŽ›¹J$8f416a60-a339-42ce-84ec-56dc3a2d34d3

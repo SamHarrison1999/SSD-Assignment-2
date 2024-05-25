@@ -1,0 +1,13 @@
+
+–python:S117"YRename this local variable "mockAttr" to match the regular expression ^[_a-z][a-z0-9_]*$.(®èä¢J$ad897058-559b-4cb0-bfb6-89287b5157b3
+’python:S117"URename this parameter "mockWin32" to match the regular expression ^[_a-z][a-z0-9_]*$.(Şº½¾J$21110944-6d92-4c2e-92bb-9a3f044d4e02
+–python:S1171"YRename this local variable "mockAttr" to match the regular expression ^[_a-z][a-z0-9_]*$.(®èä¢J$bf83768b-9ac8-4b80-93ac-cb5f3eaa297b
+’python:S1170"URename this parameter "mockWin32" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÏüœJ$fad7aff1-451a-452c-b9a5-d0d0ee57ab4a
+gpython:S5906@"$Consider using "assertTrue" instead.(±Š™ĞûÿÿÿÿJ$f0ef782b-a7af-4284-a7d7-24db5fd346f7
+gpython:S5906K"$Consider using "assertTrue" instead.(±Š™ĞûÿÿÿÿJ$6eccff06-79f9-483d-9fef-5e8698b0d472
+gpython:S5906V"$Consider using "assertTrue" instead.(±Š™ĞûÿÿÿÿJ$828ad66b-3300-4168-888d-ba8b5ca14e31
+gpython:S5906a"$Consider using "assertTrue" instead.(±Š™ĞûÿÿÿÿJ$a8f5ea63-b609-477c-b90e-99733f00433a
+–python:S117e"YRename this local variable "mockAttr" to match the regular expression ^[_a-z][a-z0-9_]*$.(®èä¢J$71530786-1273-4952-ab99-ca3ecac86713
+—python:S117d"URename this parameter "mockWin32" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŒÊËòúÿÿÿÿJ$a9a7f48e-1a3a-462a-95bf-ee63fa44a8c9
+–python:S117t"YRename this local variable "mockAttr" to match the regular expression ^[_a-z][a-z0-9_]*$.(®èä¢J$92f9e74d-8165-4748-b34c-5bc008fd7200
+—python:S117s"URename this parameter "mockWin32" to match the regular expression ^[_a-z][a-z0-9_]*$.(»ÖüÔûÿÿÿÿJ$b2b3efe6-6029-4eb8-b2ad-c0bc2afaf9d1

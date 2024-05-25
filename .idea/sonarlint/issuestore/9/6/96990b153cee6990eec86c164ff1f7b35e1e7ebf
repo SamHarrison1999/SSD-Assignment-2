@@ -1,0 +1,17 @@
+
+Œpython:S1192"MDefine a constant instead of duplicating this literal '%s.dist-info' 7 times.(ü³Ñ±J$585934d0-a152-4139-b071-49df0ffe86a1
+spython:S1066¿"/Merge this if statement with the enclosing one.(Ó°û¡ıÿÿÿÿJ$18553e0c-2077-46b1-9efb-5bc8c88a366c
+—python:S3776;"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(‘Ñ¬‚ıÿÿÿÿJ$da8f904b-6141-42e4-8eee-5dfb2054ae42
+’python:S5843Q"TSimplify this regular expression to reduce its complexity from 23 to the 20 allowed.(¡ëàªJ$d8eb2559-bcf7-4f86-951a-c64b07c795f6
+ppython:S1172—",Remove the unused function parameter "path".(Ì¡‡¥ûÿÿÿÿJ$41ea280b-4e6b-4fbf-a934-1b15b7e1cb11
+˜python:S3776­"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ŞÓÍûÿÿÿÿJ$73c502b2-5353-4062-86e4-ef6a0a4acb45
+rpython:S1172Ş".Remove the unused function parameter "libdir".(Šû²äùÿÿÿÿJ$b0bea605-3170-4f18-9956-202691a446f4
+bpython:S125á"Remove this commented out code.(à”óÀüÿÿÿÿJ$705dafc8-071d-4da7-a1a0-bf91534bed2c
+“python:S3776ô"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(¿éµ¢J$52736778-6110-4937-9c21-9f75d58c8d9a
+™python:S3776ù"URefactor this function to reduce its Cognitive Complexity from 109 to the 15 allowed.(¿ì×”ÿÿÿÿÿJ$eebb3cfa-701d-461e-bac5-9bce53e34d56
+˜python:S3776Â"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÜÒ¡ÒøÿÿÿÿJ$70e1420d-f04e-4122-82ef-010278370553
+]python:S125Å"Remove this commented out code.(´Â”“J$bbe9465d-5844-4115-9687-d20eb2d0392d
+bpython:S125È"Remove this commented out code.(úØÁ‚øÿÿÿÿJ$6bc9f383-06c6-4cf1-abfc-d8aaac79e841
+xpython:S1135Ô"4Complete the task associated to this "TODO" comment.(…×îûÿÿÿÿJ$c5a44bd2-e759-4b03-9808-1586ecf831ee
+˜python:S3776ú"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(óş¾¡úÿÿÿÿJ$3554d7cc-efbc-49f3-9baf-37ddd0e0578c
+“python:S3776ì"TRefactor this function to reduce its Cognitive Complexity from 67 to the 15 allowed.(Ã¶ÿ‚J$cf7261ec-6ccf-4447-a776-e11befc74b2e

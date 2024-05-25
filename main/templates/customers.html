@@ -1,0 +1,30 @@
+{% extends 'base.html' %}
+{% block title %}
+	Customer Page
+{% endblock %}
+{% block content %}
+    <table class="table table-dark table-hover">
+        <thead>
+            <tr>
+                <th scope="col">Customer ID</th>
+                <th scope="col">Username</th>
+                <th scope="col">Email</th>
+                <th scope="col">Date Joined</th>
+                <th scope="col">Action</th>
+            </tr>
+        </thead>
+    <tbody>
+        {% for customer in customers %}
+            <tr>
+                <td>{{ customer.id }}</td>
+                <td>{{ customer.username }}</td>
+                <td>{{ customer.email }}</td>
+                <td>{{ customer.date_joined }}</td>
+                <td>
+                    <a href="{{ url_for('delete_customer', customer_id=customer.id) }}">Delete</a>
+                </td>
+            </tr>
+        {% endfor %}
+    </tbody>
+    </table>
+{% endblock %}

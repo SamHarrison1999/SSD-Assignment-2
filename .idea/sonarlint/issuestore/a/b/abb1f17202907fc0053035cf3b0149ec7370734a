@@ -1,0 +1,14 @@
+
+npython:S1066ï"/Merge this if statement with the enclosing one.(Ü¤«‰J$13f034f0-2267-4031-a975-27e0ebb69338
+•python:S2710Í"QRename "self" to a valid class parameter name or add the missing class parameter.( ĞàşüÿÿÿÿJ$efe7f9d5-5497-430d-8a78-a04b085a2397
+˜python:S3776Ì"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(ÈìÊıÿÿÿÿJ$78a39555-a9b8-4aec-8cd4-00b6fcd0972e
+xpython:S5727‰"4Remove this identity check; it will always be False.(ö‡ÁÀûÿÿÿÿJ$b2274688-6e21-43e6-9d78-b4ff3e75b2f0
+upython:S1481¬"6Replace the unused local variable "instance" with "_".(ÕÊ¡šJ$f5a8c13f-7f4f-4d3e-918f-781a8131fa16
+{python:S5754³"<Specify an exception class to catch or reraise the exception(ˆÊÉ·J$30d14273-037f-416e-bf04-8125dcc65810
+jpython:S1172¢"+Remove the unused function parameter "row".(ãÜåJ$d3d46ac9-7fe9-4dbe-b946-26d6d97aeb22
+jpython:S1172®"+Remove the unused function parameter "row".(ãÜåJ$6497178a-ed34-4af5-b3b8-16a5346c452f
+lpython:S1172®"-Remove the unused function parameter "dict_".(ãÜåJ$6322ff9c-aefb-40b5-a7d8-8e1278b94e05
+˜python:S3776è"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(ıÉÔ­ıÿÿÿÿJ$168c5a5a-2c55-40f4-8d0c-02c2e7d7ac5d
+˜python:S3776Ú"TRefactor this function to reduce its Cognitive Complexity from 56 to the 15 allowed.(İ‘¬”ÿÿÿÿÿJ$618a470c-a6c9-4f12-b94c-9a3e05b1b036
+bpython:S125ú"Remove this commented out code.(ü·Û•øÿÿÿÿJ$c3dcac10-8746-478e-ae21-476aa4d5cda9
+•python:S2710Õ"QRename "self" to a valid class parameter name or add the missing class parameter.( ĞàşüÿÿÿÿJ$0d5ab46a-cd75-4563-9274-efa4c6717e77

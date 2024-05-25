@@ -1,0 +1,33 @@
+
+npython:S1066Ÿ"/Merge this if statement with the enclosing one.(µÔñ£J$7c976a1e-0167-4937-ba07-6434f1afc398
+˜python:S3776Õ"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ç›úÖÿÿÿÿÿJ$0928dd31-feca-4cf9-8c4c-0bbd87310da2
+spython:S1135¢"4Complete the task associated to this "TODO" comment.(¨ÅçïJ$e7a38217-a161-465d-b92e-3e78b169403e
+ypython:S2836¤"5Add a "break" statement or remove this "else" clause.(³£œ‰øÿÿÿÿJ$fd560d9a-c26b-43cc-9bfa-1b9af6d19b59
+˜python:S3776Á"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(ïö€çşÿÿÿÿJ$4dd034ba-d864-49f6-afff-cc3cff5f8e02
+{python:S1172Â"7Remove the unused function parameter "current_adapter".(Ò”—øşÿÿÿÿJ$a26980b9-d917-4e40-a0ca-4aea1b96e35b
+˜python:S3776ï"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(ïö€çşÿÿÿÿJ$64e63852-3a0f-4cb8-b7a6-67c7e4962ab8
+˜python:S3776¡	"TRefactor this function to reduce its Cognitive Complexity from 42 to the 15 allowed.(óÂ®±ÿÿÿÿÿJ$fa137f65-94fe-4e2a-8f76-d05a08076ab9
+xpython:S1135À	"4Complete the task associated to this "TODO" comment.(‡ÑêÎûÿÿÿÿJ$32c1f41c-5a77-4e18-9609-f88d2752eb71
+spython:S1135¨
+"4Complete the task associated to this "TODO" comment.(—’Œ‰J$8a5a76ab-a552-4b67-8aa4-4ba60ebd39e7
+]python:S125”"Remove this commented out code.(²æáÑJ$7fbba38b-8453-4e93-a2d7-09f04111a0f2
+™python:S107Í"VMethod "_select_statement" has 22 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$656babcb-d872-4da7-a6ba-ee1bd5ffc901
+˜python:S3776±"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(±€ÖôúÿÿÿÿJ$a1b03efd-9476-4fb1-b80c-4c764033a06a
+“python:S3776á"TRefactor this function to reduce its Cognitive Complexity from 46 to the 15 allowed.(ÛóŞâJ$f2f52331-ac1b-4c57-831b-b88392427648
+“python:S3776£"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(á´¹öJ$cd12451e-35c3-411c-87df-539acc6ab138
+‹python:S1226¤"LIntroduce a new variable or use its initial value before reassigning 'left'.(«ŠÁ˜J$ff5ef5bb-ae5b-42f4-9b8b-3343a98affd7
+xpython:S1135Ç"4Complete the task associated to this "TODO" comment.(ÆÑ›óûÿÿÿÿJ$2224c1e2-5abb-4c4f-b727-573eac921ba6
+˜python:S3776Ï"TRefactor this function to reduce its Cognitive Complexity from 40 to the 15 allowed.(ïÒÂûÿÿÿÿJ$864a41e6-9127-44d3-93b7-e8d0255bc2dd
+spython:S1135”"4Complete the task associated to this "TODO" comment.(™Æ«‡J$6b2652da-0d1f-4140-a6dd-15920864b31a
+“python:S3776»"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(¯éµøJ$1fd04ce6-5521-4687-b31e-e39e93aaba9a
+wpython:S1172·"3Remove the unused function parameter "entity_zero".(ü¡ğ ıÿÿÿÿJ$2bed39f9-a71b-4bfb-90d6-4f81d9c7d86d
+˜python:S3776å"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(İ—¿ÖşÿÿÿÿJ$ff9d3f62-3977-4280-b0b0-1a2bce39d5ca
+¨python:S1871"dEither merge this branch with the identical one on line "2821" or change one of the implementations.(¨í‚ˆüÿÿÿÿJ$70fdf7cc-5859-479d-b349-6f1b9b2f9428
+ypython:S2836®"5Add a "break" statement or remove this "else" clause.(³£œ‰øÿÿÿÿJ$06c30b99-c52d-4213-9191-22a90a07f9cf
+rpython:S1172±".Remove the unused function parameter "entity".(ï«ıÍùÿÿÿÿJ$27cc6af4-8398-4d16-8ada-6b13037d02f0
+xpython:S1135²"4Complete the task associated to this "TODO" comment.(ÿò„şùÿÿÿÿJ$6e4a72c2-9290-44d5-bf38-88b69c8f42ed
+ypython:S2836¼"5Add a "break" statement or remove this "else" clause.(³£œ‰øÿÿÿÿJ$1d46d9bd-28bf-4e7c-a7c6-c79d1333eb4c
+wpython:S1481Ë"3Replace the unused local variable "extra" with "_".(—Æ•³üÿÿÿÿJ$8edfe961-193a-4a23-b945-6df9f8c0fd8a
+rpython:S1172ş".Remove the unused function parameter "entity".(ï«ıÍùÿÿÿÿJ$8a1888d3-5d40-4362-ae59-c5218d5d03b4
+rpython:S1135ï"4Complete the task associated to this "TODO" comment.(´¸¬XJ$f1398481-8957-4dcc-9486-0dbace8090ef
+˜python:S1186°"YAdd a nested comment explaining why this method is empty, or complete the implementation.(’ÚûÎJ$5014a70a-e947-4546-bc4e-135bf3878c8e

@@ -1,0 +1,27 @@
+
+npython:S1066Í"/Merge this if statement with the enclosing one.(µÔñ£J$ba808929-daee-4a7e-8c5b-3cb1c65cf58c
+npython:S1066µ"/Merge this if statement with the enclosing one.(ÁªÜÔJ$6f19bf11-d297-467f-b53a-2bd2cb6f01c5
+‚python:S5720’">Rename "__self" to "self" or add the missing "self" parameter.(àò–”ùÿÿÿÿJ$c6eaf7f4-a068-4734-98e2-6f3d31747faa
+python:S107…"MMethod "__init__" has 16 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$adef88c8-cdde-4781-8970-6b6dddaeff38
+˜python:S3776„"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(ú„ÚüùÿÿÿÿJ$7eaabde2-5eda-4057-903e-221d69942f61
+jpython:S1172ô"+Remove the unused function parameter "ctx".(ÍÉÅJ$148de885-eda4-463d-9da2-598bcd2cc460
+˜python:S3776ò"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(àØ‹äıÿÿÿÿJ$c6cfed44-b9d7-46ef-8ebc-b0a9ce2ac7b7
+opython:S1172Ñ
+"+Remove the unused function parameter "ctx".( ©ãæüÿÿÿÿJ$109baa36-10b4-4b8a-a589-b9edf5314051
+jpython:S1172î
+"+Remove the unused function parameter "ctx".(·»¬J$80472546-93c9-45d9-8a15-e92daf810379
+qpython:S1481€"3Replace the unused local variable "value" with "_".(”Ğ¾	J$e2c6146e-1e06-4e77-9e4f-ea8140ff4d6e
+opython:S5806à"+Rename this variable; it shadows a builtin.( Ò¡ãúÿÿÿÿJ$c0e2bb24-303e-477b-b27e-e7f9e40f8741
+jpython:S1172Û"+Remove the unused function parameter "ctx".(ôëÉ¢J$b1d2132d-4dec-4f00-9419-64a0b2f96984
+˜python:S3776¨"TRefactor this function to reduce its Cognitive Complexity from 44 to the 15 allowed.(ú„ÚüùÿÿÿÿJ$835aeafa-ea04-413f-982b-059546dde462
+opython:S1172¾"+Remove the unused function parameter "ctx".(áÄÉÿıÿÿÿÿJ$f85a1ef1-2633-44b7-b83b-652b5b991ff1
+˜python:S1186ì"YAdd a nested comment explaining why this method is empty, or complete the implementation.(º™‹ÕJ$b8e995bc-a674-4376-8025-203672f5889c
+jpython:S1172ï"+Remove the unused function parameter "ctx".(¡¼ªÀJ$1b66adfb-8911-44a7-96cd-af6550fbd79b
+opython:S1172ò"+Remove the unused function parameter "ctx".(ÒÓÖùÿÿÿÿJ$5a9d2887-14e7-43a9-90f1-a34942cabd9e
+python:S107Ñ"MMethod "__init__" has 17 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$7eecdc72-9786-4d06-9c35-b05ada048df7
+˜python:S3776Ğ"TRefactor this function to reduce its Cognitive Complexity from 48 to the 15 allowed.(ú„ÚüùÿÿÿÿJ$89f53e43-3ae9-491b-80ec-016bf68df33e
+opython:S5806å"+Rename this variable; it shadows a builtin.(ƒÉâÍûÿÿÿÿJ$72f4a9a5-da36-4245-b05c-5860e8adca3e
+˜python:S3776Ò"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(Ğ¼ƒîøÿÿÿÿJ$2d0049ea-348e-4ef1-8800-46e5752159e8
+Upython:S6659à"Use `startswith` here.(¨£¢ÏJ$26f98a76-c4ff-46ce-86c2-26e29b1536aa
+“python:S3776®"TRefactor this function to reduce its Cognitive Complexity from 52 to the 15 allowed.(º™‹ÕJ$c16c627e-8d35-4887-afcd-9fb1253ccdc0
+jpython:S5806Æ"+Rename this variable; it shadows a builtin.( ÈªËJ$05d6523e-2ff6-438a-8cba-c7d8b53cb829

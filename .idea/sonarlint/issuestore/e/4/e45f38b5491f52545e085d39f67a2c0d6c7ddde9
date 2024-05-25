@@ -1,0 +1,8 @@
+
+’python:S37762"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÛçÑöJ$5598b865-ec03-4550-b441-b86ccd20c005
+Ãpython:S101I"€Rename class "MySQLExecutionContext_mariadbconnector" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ô×ýÿüÿÿÿÿJ$ae0de50e-13fa-4fef-8c9c-9548e3b04f67
+ºpython:S101^"xRename class "MySQLCompiler_mariadbconnector" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(Îÿ€¿øÿÿÿÿJ$5c026a4b-9603-4967-b5d0-23bcbe33461b
+´python:S101b"wRename class "MySQLDialect_mariadbconnector" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(¼ä£ÅJ$bf458291-715f-4cb2-9b78-90e3bec37a54
+{python:S5754Î"<Specify an exception class to catch or reraise the exception(ˆÊÉ·J$11f8ff07-f93c-4d05-8cc4-c0f63fce0bd3
+vpython:S1172Ò"2Remove the unused function parameter "connection".(æòù²üÿÿÿÿJ$f020251d-dcd6-4a12-8268-6321942e7e59
+wpython:S1172Õ"8Remove the unused function parameter "dbapi_connection".(á€»ÖJ$a1ca4681-7857-451a-b168-786d4ba82a03

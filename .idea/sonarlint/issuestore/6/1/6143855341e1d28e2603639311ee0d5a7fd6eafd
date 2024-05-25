@@ -1,0 +1,17 @@
+
+Špython:S1192Š"FDefine a constant instead of duplicating this literal '#push' 6 times.(Ê¤ŒçþÿÿÿÿJ$af88bd10-0d33-42a0-88d7-8306a6e843bb
+|python:S5857"9Replace this use of a reluctant quantifier with "[^\n]*".(ÞÌ¹‹úÿÿÿÿJ$18e46160-6c8f-46e3-9f80-564d1a495b28
+{python:S5720¹"<Rename "text" to "self" or add the missing "self" parameter.(·ŸÔ˜J$9b013345-e9e9-460a-b552-4dd385aae669
+˜python:S3776Ê"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(Úè¤ÃüÿÿÿÿJ$f947c69f-b63e-424c-a5f8-432b12d9d859
+jpython:S1172í"+Remove the unused function parameter "arg".(çµÖ›J$2b2ec20a-8ab9-4cac-b919-5c211684c816
+opython:S1172ð"+Remove the unused function parameter "arg".(ºô¬ÈøÿÿÿÿJ$b92f0463-d1dc-4c6d-ba36-2f1ce2f719ad
+˜python:S3776ÿ"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(®ÿ÷…øÿÿÿÿJ$d7c26f67-fca3-4b19-a952-f036166cf411
+˜python:S3776¢"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(˜ÙÀƒûÿÿÿÿJ$191911bb-afb4-48e1-9352-85384341968d
+jpython:S1172ö"+Remove the unused function parameter "cls".(¥”­ÂJ$6f9596ed-cdfe-44e5-abfb-746ee96a852a
+lpython:S1172ö"-Remove the unused function parameter "state".(¥”­ÂJ$9423f053-985b-49fc-ba2b-2324bfee5b53
+jpython:S1172ü"+Remove the unused function parameter "cls".(€ÛªŒJ$d9a8d2a7-b34c-47bc-b695-37213068ec59
+Upython:S6659Œ"Use `startswith` here.(éÏû÷J$cf9d0eb3-56b0-45b3-8ebf-498cbf43c41f
+’python:S3776Ù"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(žùóaJ$5e94c345-167d-4194-90e2-da34e26142c9
+“python:S3776»"TRefactor this function to reduce its Cognitive Complexity from 65 to the 15 allowed.(ƒáÈùJ$f56295c6-555b-4ee1-a1dc-16b6b8dcfb47
+“python:S3776Ž"TRefactor this function to reduce its Cognitive Complexity from 76 to the 15 allowed.(ö©ÓñJ$e5e9da76-feaa-4b0c-9f7f-266da05bc181
+’python:S3776Ñ"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(ºêÀ2J$18126739-68a4-4811-9c6d-ef728c57bc69

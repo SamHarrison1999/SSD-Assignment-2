@@ -1,0 +1,36 @@
+
+spython:S1066Ÿ"/Merge this if statement with the enclosing one.(¨ïÓ£ùÿÿÿÿJ$a43b80e0-b7d6-437d-ba95-b4335d0a96b4
+“python:S3776²"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(èœı«J$ed84b836-6353-44a7-bc99-335de443d25c
+python:S107é"MMethod "__init__" has 20 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$e43aebf4-2f6b-47c7-b16e-9279fde4120f
+spython:S1656·"/Remove or correct this useless self-assignment.(´Ô‰ÑşÿÿÿÿJ$87c45c04-91ba-48c8-8e8a-8c11f0dd9a05
+˜python:S1186í"YAdd a nested comment explaining why this method is empty, or complete the implementation.(·ş“‡J$1864f0b1-943e-45dd-abd8-86c30e4eb899
+python:S1186ğ"YAdd a nested comment explaining why this method is empty, or complete the implementation.(¨ÉôüÿÿÿÿJ$f8f4bcb3-09f4-4ae2-92b0-14553a1d935f
+˜python:S3776ø"TRefactor this function to reduce its Cognitive Complexity from 63 to the 15 allowed.(ïé´‚úÿÿÿÿJ$56425380-1989-497a-a6cb-33f98e9ac7fb
+“python:S3776µ
+"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(’Åµ»J$cedf4721-ee60-4186-9065-d87ac0aea6df
+python:S107â"MMethod "__init__" has 24 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$5f47951d-15f9-4fcd-be88-7f5d046a86b5
+˜python:S3776á"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(ú„ÚüùÿÿÿÿJ$805d4eb5-3a14-4cdf-b322-4e22386de0d3
+ypython:S2836Î"5Add a "break" statement or remove this "else" clause.(³£œ‰øÿÿÿÿJ$c1e6d993-c8a8-4db8-8856-a25005007dbd
+˜python:S3776ó"TRefactor this function to reduce its Cognitive Complexity from 42 to the 15 allowed.(®Õ¡ÕÿÿÿÿÿJ$cff7f040-ac5e-4f24-96ae-f520c1232638
+spython:S1135¤"4Complete the task associated to this "TODO" comment.(§°”ÎJ$d01315d0-36f7-4d88-a095-a329ddfbc590
+xpython:S1135¬"4Complete the task associated to this "TODO" comment.(ÇÇ¡çøÿÿÿÿJ$bf5b01ff-047f-47b9-8ac9-783bafea425f
+bpython:S125·"Remove this commented out code.(å³ÎÁùÿÿÿÿJ$339f702e-ed48-46c6-9e3d-adc0280fa563
+˜python:S3776Í"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(‡·ÌÑùÿÿÿÿJ$5bc0c098-1ce8-4979-a755-c837a3c317eb
+ˆpython:S3358Ì"IExtract this nested conditional expression into an independent statement.(µŞí˜J$d9bcd8b0-a1b6-43bb-97dc-2d125b8b4296
+python:S3358Ó"IExtract this nested conditional expression into an independent statement.(É©ÂçûÿÿÿÿJ$9ad0722c-38be-485a-affa-fb1964cbf0e3
+python:S107Ò"MMethod "__init__" has 14 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$d43273f7-9f94-47ca-a574-55294491c894
+“python:S3776ù"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(…Ä©‰J$6f25466a-e179-48d3-8788-4728a626ad6f
+ypython:S1481µ"5Replace the unused local variable "colname" with "_".(Ã¢çÇøÿÿÿÿJ$125aca0f-4f41-44ae-b59f-1aa327b320a1
+xpython:S1481œ"9Replace the unused local variable "parenttable" with "_".(œ°ÜœJ$8d929709-f95c-4daa-993f-06d806fd9db4
+xpython:S1135 "4Complete the task associated to this "TODO" comment.(ÚÚ¾åùÿÿÿÿJ$7a44149a-2594-420a-a73e-b89610b39ccd
+python:S1186¡"YAdd a nested comment explaining why this method is empty, or complete the implementation.(òó“íûÿÿÿÿJ$539e7a29-fe58-4269-b537-76326b00424f
+python:S107ô"MMethod "__init__" has 17 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$e3736a65-b77a-46ce-994c-6df52e04081e
+npython:S1172•"*Remove the unused function parameter "kw".(µşê¨şÿÿÿÿJ$78665a57-7947-474b-9b1f-003e140c496c
+˜python:S3776û "TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(æØ¬öÿÿÿÿÿJ$e643678c-cfd2-43dd-9ef6-9aeaaec45ad1
+npython:S1172É!"*Remove the unused function parameter "kw".(µşê¨şÿÿÿÿJ$5c736708-b323-476f-a97e-5196888791e4
+python:S107Í#"MMethod "__init__" has 14 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$0483b134-e083-4197-a0cf-d5bc1c14d2fb
+ypython:S2836ù$"5Add a "break" statement or remove this "else" clause.(³£œ‰øÿÿÿÿJ$a5b02c4e-fc9a-4827-8f52-c5103a6a1051
+˜python:S3776'"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(íÅ–æÿÿÿÿÿJ$ad771590-1eba-4d9c-9908-2c019639d849
+xpython:S1135Ú("4Complete the task associated to this "TODO" comment.(â÷ıãøÿÿÿÿJ$ee48fcd6-c0ea-45ec-918a-89db3d0f2dbe
+’python:S3776”,"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÏÏ¸:J$06995c1d-44d2-4a49-a818-9c6924aa4465
+“secrets:S6698İ"SMake sure this PostgreSQL database password gets changed and removed from the code.(¨à¦˜J$1bd4ff70-cef2-477a-b12b-4055cc995a1f

@@ -1,0 +1,6 @@
+
+python:S117"RRename this parameter "axNode" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŠûîeJ$0375d37c-3a59-4073-a79d-4c1d96394279
+‘python:S3776"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ŠûîeJ$ed304e7c-fc3a-476b-8011-0967d27e7d7d
+Œpython:S3358""IExtract this nested conditional expression into an independent statement.(·˜˜ÕùÿÿÿÿJ$8be507da-588e-47cb-ae79-bc7f78019264
+Œpython:S3358+"IExtract this nested conditional expression into an independent statement.(ûÙúúÿÿÿÿJ$1363c0d7-120d-4b8f-972a-8fb69ed1a70b
+python:S117?"[Rename this parameter "interestingOnly" to match the regular expression ^[_a-z][a-z0-9_]*$.(†³é—üÿÿÿÿJ$7e1770b0-42a5-4927-af00-93e4cfa10272

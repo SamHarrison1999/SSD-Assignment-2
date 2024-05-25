@@ -1,0 +1,13 @@
+
+rpython:S5727h"4Remove this identity check; it will always be False.(­‚íñJ$ffdd3510-6890-41e1-9118-1431c8927738
+spython:S5727¿"4Remove this identity check; it will always be False.(­‚íñJ$583162a3-b0d7-4b07-a0ec-889a0d91b43e
+python:S107Ä"MMethod "__init__" has 17 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$0c0cc834-28af-463f-95be-5d1d627bdcf9
+spython:S5727…"4Remove this identity check; it will always be False.(­‚íñJ$6cdc2054-5839-463b-a49a-a8dfe1d87a11
+‹python:S1134¹"LTake the required action to fix the issue indicated by this "FIXME" comment.(‡İ–¢J$93492c09-fff8-428f-a29a-b27213a4378f
+python:S1134¾"LTake the required action to fix the issue indicated by this "FIXME" comment.(ãéæÉûÿÿÿÿJ$73c4df47-6f50-479b-a919-64eb9764f3c1
+“python:S3776á"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(ş¤õJ$24bc8e95-995d-4de8-91a5-13b8c58e9495
+˜python:S3776‘"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(£ó†ÌûÿÿÿÿJ$f18f51df-f76e-409b-b3e1-fa5adff79ed5
+•python:S117ô"WRename this parameter "ResponseCls" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÛÍîJ$242fe2da-54e4-47c8-b6b4-6f72dcc6f51e
+—python:S2710ô"XRename "ResponseCls" to a valid class parameter name or add the missing class parameter.(ÛÍîJ$257d183a-09fd-41a8-b323-c7edf35b41a6
+“python:S3776"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(×ø˜åJ$134fb784-cec9-4b5d-8105-78ec07f669ae
+python:S1134"LTake the required action to fix the issue indicated by this "FIXME" comment.(ñ÷ÏûÿÿÿÿJ$dae99e0a-1fcb-431a-847e-2017761fae09

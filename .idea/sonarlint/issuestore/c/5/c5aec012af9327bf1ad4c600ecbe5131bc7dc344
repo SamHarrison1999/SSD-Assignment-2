@@ -1,0 +1,17 @@
+
+¶python:S101'"tRename class "AsyncAdapt_aiomysql_cursor" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(á¥­›şÿÿÿÿJ$7d1c8fd9-ac20-427d-a2b2-259b63b53a7b
+qpython:S1135("4Complete the task associated to this "TODO" comment.(Ë¢dJ$419ca436-38a2-465c-b7a4-25c98d6e3a35
+—python:S1186t"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ƒ‘ÉÔJ$ab2176a6-7eaf-4921-b2ea-6c327f939863
+ºpython:S101"wRename class "AsyncAdapt_aiomysql_ss_cursor" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(¦şÒ§şÿÿÿÿJ$6a84236b-5f23-4b7f-82bd-5fdf998ea4c5
+rpython:S1135"4Complete the task associated to this "TODO" comment.(Ë¢dJ$a98e61cb-074b-4e2a-b966-4a9f71b6d134
+¶python:S101­"xRename class "AsyncAdapt_aiomysql_connection" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(˜¿¨†J$9f48e1de-1a51-43fe-a7f5-1791fa4928a8
+rpython:S1135®"4Complete the task associated to this "TODO" comment.(Ë¢dJ$9d7d320d-d5d1-4110-a5d0-123b2cf54da2
+¿python:S101Õ"€Rename class "AsyncAdaptFallback_aiomysql_connection" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(¨µî³J$2f43a84a-ac10-486d-9297-1852027b96d9
+rpython:S1135Ö"4Complete the task associated to this "TODO" comment.(Ë¢dJ$4eb8458d-a4ac-4e14-8713-9ba9c646a0c4
+‘python:S116ã"NRename this field "Cursor" to match the regular expression ^[_a-z][_a-z0-9]*$.(¶ıºæúÿÿÿÿJ$1ffc1695-cc8e-4d89-bf3c-e4876fc328f1
+“python:S116ã"PRename this field "SSCursor" to match the regular expression ^[_a-z][_a-z0-9]*$.(¶ıºæúÿÿÿÿJ$3a7dee1a-9d20-4dab-9787-4115e0f7ac76
+¶python:S101İ"sRename class "AsyncAdapt_aiomysql_dbapi" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(Ü‘¶§ùÿÿÿÿJ$6c41b012-9758-42fa-90ac-2458886a4974
+˜python:S1186‘"YAdd a nested comment explaining why this method is empty, or complete the implementation.(°ÏãşJ$1c65f9db-b898-47fb-b661-a088b1ce6a0f
+˜python:S1186•"YAdd a nested comment explaining why this method is empty, or complete the implementation.(°ÏãşJ$af7418fd-141a-4c51-bd69-1224967bb55f
+­python:S101›"oRename class "MySQLDialect_aiomysql" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(²”åÆJ$cca58990-53d0-44d2-944d-da152dd14474
+Îpython:S2638·"‰Add missing parameters _translate_args. This method overrides sqlalchemy.dialects.mysql.pymysql.MySQLDialect_pymysql.create_connect_args.(©Á•üÿÿÿÿJ$94ffd3f7-c12e-4638-9774-93240a45a27b

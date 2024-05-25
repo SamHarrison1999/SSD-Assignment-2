@@ -1,0 +1,6 @@
+
+Žpython:S1192ü"ODefine a constant instead of duplicating this literal "not an integer" 5 times.(§ÓŠÛJ$3e2ceb73-1ec7-4607-b37d-9a14e6f2352d
+mpython:S1172J"*Remove the unused function parameter "kw".(šàîŒÿÿÿÿÿJ$cc5fe7e2-44b8-4d18-886d-58baf771c9ec
+mpython:S1172R"*Remove the unused function parameter "kw".(‘Úã’þÿÿÿÿJ$371b7e49-b7a2-4c5e-9555-967a75e03d45
+˜python:S3776—"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(›ÄƒŽÿÿÿÿÿJ$a9e634a1-d776-4a6a-9a4c-33c7963f93a5
+opython:S5806÷"+Rename this variable; it shadows a builtin.(¢ÆýÅúÿÿÿÿJ$3eee7de9-1007-4452-a8eb-2f403bd62e89

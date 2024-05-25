@@ -1,0 +1,14 @@
+
+npython:S1066­"/Merge this if statement with the enclosing one.(µÔñ£J$a8d8fb6a-1c47-45d0-bd81-03c56db5ba64
+python:S107ù"MMethod "__init__" has 28 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$1dcaf880-9f58-4199-aab3-c30e9f899675
+˜python:S3776ø"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(ú„ÚüùÿÿÿÿJ$2bf0495b-ea00-43aa-88c8-ceebbd13ef3c
+“python:S3776á"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(€¼²J$e168af71-e0d6-4c9d-a55d-e26d63d41fb5
+œpython:S117²
+"YRename this local variable "_Segment" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷˜ûÿÿÿÿJ$432bdcf6-f96f-4d4a-9232-639a6c845da2
+python:S107Ù"JMethod "print" has 15 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$c986d995-ad99-4f4c-b1c1-a66c89c79e79
+“python:S3776Ø"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(‰ìò¸J$5a82cc13-0ef1-4642-94f1-e2a16ab797b2
+opython:S5806¢"+Rename this variable; it shadows a builtin.(…ëƒÕüÿÿÿÿJ$c74b6cd4-ba1b-4a8d-ba09-d7d7f43394a2
+“python:S3776Å"TRefactor this function to reduce its Cognitive Complexity from 65 to the 15 allowed.(Èü’éJ$8a40d83c-0968-47d9-9581-2a5f4eed1532
+“python:S3776ü"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(­ø±¾J$5a04e5a4-03fe-4910-88e6-b0de69d623f3
+˜python:S3776æ"TRefactor this function to reduce its Cognitive Complexity from 55 to the 15 allowed.(„»Š„ıÿÿÿÿJ$45ab9479-227d-46f8-b267-941b958f81a7
+„python:S3457Æ"EAdd replacement fields or use a normal string instead of an f-string.(ÆåØ›J$300bd28e-17eb-4da5-b19a-46a013bb30c3

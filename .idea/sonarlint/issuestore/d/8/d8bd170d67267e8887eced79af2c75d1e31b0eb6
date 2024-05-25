@@ -1,0 +1,7 @@
+
+…python:S1192N"GDefine a constant instead of duplicating this literal ", **kw" 3 times.(¸æªûJ$bf72d48d-3901-4c99-a53b-f304fe2d9493
+’python:S3776<"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(Ñç†ŒJ$91cae890-0fae-45c8-9d60-567937a87177
+xpython:S2836q"5Add a "break" statement or remove this "else" clause.(³£œ‰øÿÿÿÿJ$21811c60-0833-4d68-9858-559747626248
+gpython:S1172`"*Remove the unused function parameter "kw".(±ÈÂvJ$6a54dfe6-6ab0-4214-97bd-d6854f20284a
+qpython:S1481Â"2Replace the unused local variable "args" with "_".(áééíJ$a5a0ac6c-4968-4ff6-a4c1-b0c7e29c6300
+qpython:S1481Â"2Replace the unused local variable "conv" with "_".(áééíJ$92b8147e-8cfc-4c54-8f18-aae9fd267d73

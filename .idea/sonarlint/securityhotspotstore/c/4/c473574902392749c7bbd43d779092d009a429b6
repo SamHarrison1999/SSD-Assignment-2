@@ -1,0 +1,7 @@
+
+¾python:S5852 "Make sure the regex used here, which is vulnerable to polynomial runtime due to backtracking, cannot lead to denial of service.(¼Ëì‡J$ec7f6aeb-e569-4fad-a39d-8f31b49b81f8
+vpython:S5332·"2Using http protocol is insecure. Use https instead(ş…ø÷şÿÿÿÿJ$3e5ad65f-a13c-40ab-83fb-b6324383495c
+„python:S2245ç"EMake sure that using this pseudorandom number generator is safe here.(·ÏüğJ$48b9c183-c4f4-4f47-bbd9-32a3e9568e68
+„python:S2245é"EMake sure that using this pseudorandom number generator is safe here.(ìJ$49302c88-11b9-4999-a73b-7572729b1a68
+‰python:S2245ñ"EMake sure that using this pseudorandom number generator is safe here.( ôÛ¯ùÿÿÿÿJ$9597f043-1fa6-4e65-9ed1-233f0c8336da
+‰python:S2245ö"EMake sure that using this pseudorandom number generator is safe here.(ß«·©øÿÿÿÿJ$a0439cb1-b54c-4e25-8ad2-ffac9d99b085

@@ -1,0 +1,7 @@
+
+“python:S1192ϊ"TDefine a constant instead of duplicating this literal "[options] [modules]" 6 times.(έύΡJ$a77f6219-dea9-4613-ab82-995cdda955ce
+±python:S1192G"nDefine a constant instead of duplicating this literal "Defaults to '.coverage'. [env: COVERAGE_FILE]" 3 times.(ξ ―½ϋÿÿÿÿJ$29612566-ef3a-4b85-abd4-ffab58536699
+“python:S3776ΰ"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(κ…―νJ$d4859d59-ec7b-4395-842d-5d7bc3cacdc8
+“python:S3776„"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(τελ¬J$06d805f1-2127-4f86-b0e8-56f48ad33165
+“python:S3776ª"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(κΆΰΪJ$3b7dd92c-9fc0-40c8-8fa9-66a997134f2a
+python:S5754Φ"BReraise this exception to stop the application as the user expects(’ηΗJ$28f0c303-cd18-4cf6-a554-98878955311a

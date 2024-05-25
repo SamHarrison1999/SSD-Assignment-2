@@ -1,0 +1,14 @@
+
+|python:S112¬">Replace this generic exception class with a more specific one.(®€¨ÉJ$74cd9f89-914c-40e9-8071-c2d283b12af8
+…python:S5799¢"GMerge these implicitly concatenated strings; or did you forget a comma?(ÙÖünJ$7a39713b-404a-4e2e-b2ea-5e1d238deaf7
+˜python:S3776¦"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(¯•‹šıÿÿÿÿJ$2f5cdb23-6705-4430-8693-4dd9c1231c25
+Špython:S107ç"LFunction "https" has 15 parameters, which is greater than the 13 authorized.(ê…­İJ$71d950fc-f07f-4d0e-90fc-159d88b7aaf9
+“python:S3776æ"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(²´Ê­J$2281a15a-7871-4605-868c-dd183072abb9
+“python:S3776²"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(½…ÈíJ$9ce6f0f0-6e42-45bd-beb8-9147ecb773d2
+python:S4830­"@Enable server certificate validation on this SSL/TLS connection.(À€‹–J$3e762977-4bcf-4ae5-a4e1-974ea1257b27
+ƒpython:S5527§"?Enable server hostname verification on this SSL/TLS connection.(ÑÔ€ÁşÿÿÿÿJ$5fa700e5-a29e-4bca-9f02-795d0376d96f
+¡python:S117Ó
+"^Rename this local variable "expecting_SOA" to match the regular expression ^[_a-z][a-z0-9_]*$.(Š˜‰ÿÿÿÿÿJ$d6079b0c-0263-4096-8b91-728e1a67a823
+python:S107ô	"JFunction "xfr" has 15 parameters, which is greater than the 13 authorized.(Ùçç¸ûÿÿÿÿJ$36a898fb-82d9-4cb3-bc35-f33df01e0735
+’python:S3776ó	"TRefactor this function to reduce its Cognitive Complexity from 67 to the 15 allowed.(‰îŒAJ$41a04e20-bb69-49de-b582-3c617ad1c00a
+˜python:S3776º"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(¡´ÔÍúÿÿÿÿJ$f98b6210-36f8-4a4e-935a-50145f04fe1b

@@ -1,0 +1,54 @@
+
+˜python:S3776ò"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(¡¨¸µıÿÿÿÿJ$5b713cd0-821f-4903-9ab2-4656bf5da1d3
+’python:S3776ğ"TRefactor this function to reduce its Cognitive Complexity from 40 to the 15 allowed.(Ì¥˜qJ$dd79d6a3-1cc9-4117-9cfc-be98bb22f87b
+“python:S3776à"TRefactor this function to reduce its Cognitive Complexity from 76 to the 15 allowed.(¯ ¡«J$375782cb-1585-44ef-8067-ffacade2504f
+gpython:S5603ç"(Remove this unused function declaration.(Ñú¥J$cb603726-4225-4f8c-8968-6c6596eb45df
+gpython:S5603ï"(Remove this unused function declaration.(² º˜J$c9f543e2-6fcf-452c-9d1e-8e78c9adf4d1
+gpython:S5603ø"(Remove this unused function declaration.(´±J$a7d83b38-2c72-4baa-a27e-5df79c569eb1
+lpython:S5603€	"(Remove this unused function declaration.(´¯ÛíûÿÿÿÿJ$4d79441d-764a-4411-a61c-14b783a4d400
+lpython:S5603¬	"(Remove this unused function declaration.(æîçüÿÿÿÿJ$87b703d5-7787-40ff-9c4e-94c1a7ba74a1
+ipython:S1172½	"*Remove the unused function parameter "fn".(”¹®±J$9fa771c2-d406-4350-8b6d-a8647c85ef17
+gpython:S5603½	"(Remove this unused function declaration.(”¹®±J$9218b595-3b14-495a-a18a-124b3fe82643
+gpython:S5603Å	"(Remove this unused function declaration.(ÙÛƒÀJ$013c8b65-688e-4cfc-a81b-7864e25f910f
+lpython:S5603Ğ	"(Remove this unused function declaration.(æ½ƒÄşÿÿÿÿJ$7469af3b-a201-4a2f-9fe8-a949fb5e8cf8
+gpython:S5603Ú	"(Remove this unused function declaration.(•¸ˆÃJ$ea86701a-5750-4273-883f-6115ba6f28e1
+’python:S3776í	"TRefactor this function to reduce its Cognitive Complexity from 67 to the 15 allowed.(üÓÎUJ$e75d5500-d5b6-43f6-bfb8-1891feac3ab5
+lpython:S5603ô	"(Remove this unused function declaration.(´¯ÛíûÿÿÿÿJ$513bbc6a-1b58-452c-9b5a-c3b9cc9b4393
+lpython:S5603ş	"(Remove this unused function declaration.(æîçüÿÿÿÿJ$8ccc4ae6-27e6-4e83-9fa0-cba675fe98ff
+gpython:S5603‡
+"(Remove this unused function declaration.(•¸ˆÃJ$a7b2763e-e7fa-4f1e-ae97-ef7802046c66
+lpython:S5603
+"(Remove this unused function declaration.(æ½ƒÄşÿÿÿÿJ$a6906412-39d4-4ad0-8536-014281d99648
+gpython:S5603Ÿ
+"(Remove this unused function declaration.(«ûº€J$3ba6f531-9a62-4bfe-9a3c-50409525873c
+npython:S1172©
+"*Remove the unused function parameter "fn".(ççËşÿÿÿÿJ$c8633fc5-288b-4382-a601-1e2199dbbc06
+lpython:S5603©
+"(Remove this unused function declaration.(ççËşÿÿÿÿJ$70b35661-2bae-407e-8f1f-24ba34a2247d
+npython:S1172¸
+"*Remove the unused function parameter "fn".(²ÇØ©øÿÿÿÿJ$2e59df1a-4f17-4654-b445-ebb2e0310202
+lpython:S5603¸
+"(Remove this unused function declaration.(²ÇØ©øÿÿÿÿJ$78cab5e3-2fde-47c1-99a6-2afeb5a0891f
+“python:S3776æ
+"TRefactor this function to reduce its Cognitive Complexity from 61 to the 15 allowed.(îÖíüJ$17d9dfeb-5e43-42eb-9d41-34a40e25c18f
+gpython:S5603í
+"(Remove this unused function declaration.(Åş´œJ$c36821aa-f42e-4088-a13a-303532f304fd
+lpython:S5603ù
+"(Remove this unused function declaration.(–üûÖÿÿÿÿÿJ$00878c3c-3d81-46c3-bce7-c55ecc7811f5
+gpython:S5603„"(Remove this unused function declaration.(² º˜J$313c8dc1-63e8-4f7f-8cc9-7e2bce4db878
+lpython:S5603"(Remove this unused function declaration.(æ½ƒÄşÿÿÿÿJ$98c60fc6-ad96-4f72-9fa1-ed8cd8be3799
+ipython:S1172›"*Remove the unused function parameter "fn".(•¸ˆÃJ$eb96166e-a18e-4dea-823e-24d5ea8fb0fe
+gpython:S5603›"(Remove this unused function declaration.(•¸ˆÃJ$50e20f0c-c253-47d7-8da1-833e3a0f823b
+npython:S1172£"*Remove the unused function parameter "fn".(²ÇØ©øÿÿÿÿJ$a19d8d59-aa6c-4768-a055-3c267532a0c0
+lpython:S5603£"(Remove this unused function declaration.(²ÇØ©øÿÿÿÿJ$d6cd2dd2-4320-4ca4-86ac-529c43276da1
+gpython:S5603«"(Remove this unused function declaration.(ÑĞôßJ$9a61ae8c-bc2b-45c3-b988-f11c48bd031d
+ipython:S1172¶"*Remove the unused function parameter "fn".(Û¡š·J$7407e3c4-9efe-4dbc-afcf-456f721ba024
+gpython:S5603¶"(Remove this unused function declaration.(Û¡š·J$3272521e-d061-4fec-8785-aa35ac12f61f
+gpython:S5603¾"(Remove this unused function declaration.(ÑÊíJ$b20ca4ed-2b1c-449c-a4f7-848eeefdc64b
+ipython:S1172É"*Remove the unused function parameter "fn".(æ‘ƒ¢J$b07b8615-25e6-48c7-998c-808674304e02
+gpython:S5603É"(Remove this unused function declaration.(æ‘ƒ¢J$0d48da66-c294-4463-a555-241040f7d4ea
+lpython:S5603Ö"(Remove this unused function declaration.(ª“ÇùÿÿÿÿJ$3f922121-32fa-4213-9c1c-f0e82827d0dd
+ipython:S1172æ"*Remove the unused function parameter "fn".(—üJ$2d5d9824-5c03-4c8a-8e10-7e963294920a
+gpython:S5603æ"(Remove this unused function declaration.(—üJ$225dab06-bfdd-48c9-bca6-b5ee3d1cec5e
+gpython:S5603ó"(Remove this unused function declaration.(•ÿšØJ$22b54eb9-9fd0-4cc0-b04e-c90865a28214
+kpython:S1172¸",Remove the unused function parameter "lcls".(ƒÒúÖJ$fb601d35-f42b-4511-b5ff-c2a278d235e7

@@ -1,0 +1,22 @@
+
+zpython:S1481"6Replace the unused local variable "exc_type" with "_".(­Ù¦õüÿÿÿÿJ$6efd4933-b772-4e08-8498-490e4717b3ff
+Øpython:S1515İ"˜Add a parameter to the parent lambda function and use variable "base" as its default value; The value of "base" might change at the next loop iteration.(—ƒ‹ğJ$89d19dfe-74ee-4015-a122-c61c2125d6fc
+python:S112û">Replace this generic exception class with a more specific one.(®… ÙùÿÿÿÿJ$671d66d0-77b5-40a0-a6ef-38037c521b8d
+“python:S3776¨"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(€µÀØJ$092b62f1-a1a4-4017-a427-06f7f66a4f31
+˜python:S3776è"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(—şÿÿÿÿJ$2d6bd61c-9bac-42a5-8a90-2bf0c0fab6db
+}python:S1172¶">Remove the unused function parameter "target_cls_sphinx_name".(Ó³º¡J$9ab1f93b-3f83-43da-aecb-2d3218987518
+|python:S1172·"=Remove the unused function parameter "proxy_cls_sphinx_name".(Ëùó•J$c2430614-9161-46cd-8f28-a5b42868a3d7
+spython:S1172¸"4Remove the unused function parameter "classmethods".( ë¯²J$cb1c6fdf-4368-475a-9adb-a26a6414e248
+…python:S1172»"ARemove the unused function parameter "use_intermediate_variable".(Ÿ¶¬üüÿÿÿÿJ$245eb822-576b-4793-b091-9234476abec3
+qpython:S1172µ"2Remove the unused function parameter "target_cls".(ˆ‚¦J$44108e97-40c5-4367-b152-c1a3127661d1
+˜python:S3776ë"TRefactor this function to reduce its Cognitive Complexity from 45 to the 15 allowed.(ìµ²èşÿÿÿÿJ$2cdb324a-8aab-4f97-8b1a-d3d0519f4e32
+˜python:S3776"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(”ÇÛÃÿÿÿÿÿJ$dd8d7551-f9fa-409d-8d9c-139fd08aab61
+˜python:S3776Ø"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(îèõÓúÿÿÿÿJ$d3665954-fc8a-4b85-97de-2b716cec5278
+£python:S1871À"dEither merge this branch with the identical one on line "1726" or change one of the implementations.(ìª€÷J$c38da965-f9e9-4e4e-8ea9-4196dbe92f7c
+£python:S1871Â"dEither merge this branch with the identical one on line "1726" or change one of the implementations.(ìª€÷J$93778a21-0373-47b5-b013-f594cddac305
+“python:S3776´"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(åşÛéJ$9d4ee1c7-abb4-4cea-b375-60c034096ae2
+{python:S5754À"<Specify an exception class to catch or reraise the exception(ˆÊÉ·J$6a2ed103-8ace-4c7c-91a8-44b994c1f10e
+qpython:S1481ò"-Remove the unused local variable "strong_fn".(åà•ñøÿÿÿÿJ$5a3bdb7e-12eb-474c-a03b-53ee3c3c079e
+’python:S3776Ş"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(¸‘àxJ$6fc22ae4-265e-4658-92fd-0378eadcaae0
+xpython:S1135â"4Complete the task associated to this "TODO" comment.(àÅö”ÿÿÿÿÿJ$b7a87f09-d362-4375-9d97-5b724afec891
+spython:S1135€"4Complete the task associated to this "TODO" comment.(ˆ™íşJ$86bbf696-4ad6-43cc-90f7-0eaa9684727c

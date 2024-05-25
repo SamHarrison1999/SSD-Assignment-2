@@ -1,0 +1,30 @@
+
+˜python:S117‹"URename this parameter "waitUntil" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ñ†¸ÿÿÿÿÿJ$37fcdd43-4193-4ab6-a9f1-2f2418bcc1bc
+˜python:S117®"URename this parameter "waitUntil" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ñ†¸ÿÿÿÿÿJ$62310564-9f4b-46cf-af0c-f2b955e68932
+˜python:S3776«"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(¿²ÎÛúÿÿÿÿJ$1bbd9e22-ef90-44c4-bba9-01bde3cc5676
+˜python:S117á"URename this parameter "waitUntil" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ñ†¸ÿÿÿÿÿJ$9d18c5f6-056e-428b-9bb7-87552e0b096d
+gpython:S108ì")Either remove or fill this block of code.(ã‘Û¾J$c6392a9c-a829-4ce7-ac80-6747b4630578
+spython:S1135‚"4Complete the task associated to this "TODO" comment.(Š¡ÆõJ$bc27a0da-e146-491b-bca5-6d7f3dda854c
+˜python:S117è"URename this parameter "eventInit" to match the regular expression ^[_a-z][a-z0-9_]*$.(ğó¼ıÿÿÿÿJ$088d2556-5234-4222-988a-a6a62e81b445
+˜python:S117¦"URename this parameter "waitUntil" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ñ†¸ÿÿÿÿÿJ$85aa1212-3e37-4ec0-916e-e8005c2276ce
+™python:S117á"VRename this parameter "clickCount" to match the regular expression ^[_a-z][a-z0-9_]*$.(…èşÊøÿÿÿÿJ$12678c7c-a14e-4c55-81ee-7cfee3007bbe
+špython:S117ä"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$edc98022-a79c-430e-b396-ac780f980010
+špython:S117ó"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$7fc78c8a-7eb1-4a52-893e-04f62545a5c1
+špython:S117€"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$4c2de766-db75-4e1b-8641-92311656a23e
+špython:S117‹"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$19836ba1-ccec-434a-97ce-e0d7533ca9db
+•python:S117—"RRename this parameter "hasNot" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹êĞÑÿÿÿÿÿJ$5e4dfa6f-175e-4a85-a572-1e3bb402b311
+™python:S117•"VRename this parameter "hasNotText" to match the regular expression ^[_a-z][a-z0-9_]*$.(—µÎ«ùÿÿÿÿJ$89a45775-ac39-484c-9b52-3c0a1fb7768d
+–python:S117”"SRename this parameter "hasText" to match the regular expression ^[_a-z][a-z0-9_]*$.(¤é¤ÒùÿÿÿÿJ$889148c2-5ba0-4848-a19a-01adffb4b4d0
+œpython:S117·"YRename this parameter "includeHidden" to match the regular expression ^[_a-z][a-z0-9_]*$.(ËçÄƒüÿÿÿÿJ$46ac2057-97b7-41f9-9be6-fb79cf830824
+python:S117Í"RRename this parameter "testId" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥‹İJ$02c497bc-3855-4436-a133-b422246aaeac
+špython:S117ü"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$c78347e8-4602-45d6-b2f4-36e9338f4148
+špython:S117Š"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$08622c23-768f-4535-9853-f97f26e74c60
+python:S117‡"ZRename this parameter "sourcePosition" to match the regular expression ^[_a-z][a-z0-9_]*$.(àÀòâÿÿÿÿÿJ$466c019c-97b5-4c7a-801c-1f528ee65221
+python:S117ˆ"ZRename this parameter "targetPosition" to match the regular expression ^[_a-z][a-z0-9_]*$.(ôÃØúÿÿÿÿJ$d4febda9-9830-42ee-8cb0-5d48964ac526
+špython:S117™"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$385500e5-b23c-4db3-9b5b-668bd95e8159
+špython:S117¹"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$931f7102-7721-4835-8481-336bb8831349
+špython:S117Î"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$7dfca749-58fc-409d-8129-9c3c6a7f1fde
+špython:S117Ù"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$029bbed2-efb6-45fd-9006-931982c4fcc7
+špython:S117ã"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$bd8904a6-b26e-4ec7-9813-1cc2d1909477
+špython:S117ï"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$3a06b40f-b9c8-4362-a2fd-3f1e3fdc3ffb
+špython:S117‘"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$f81528be-a480-4a56-9e74-2713b9c5aceb

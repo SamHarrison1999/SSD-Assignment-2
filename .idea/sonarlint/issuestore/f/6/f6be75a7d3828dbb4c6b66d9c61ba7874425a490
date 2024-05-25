@@ -1,0 +1,10 @@
+
+‰python:S1192é"JDefine a constant instead of duplicating this literal "text/html" 3 times.(§‚J$9f13725a-df22-4476-80f9-a04b093b58fb
+—python:S37762"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(ƒŒæšúÿÿÿÿJ$15bd5bec-0efe-4b89-b427-3de5e917e9aa
+˜python:S3776"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(Ú¨²ÕøÿÿÿÿJ$3f67b852-95f5-4e6c-91fe-39f274b1f864
+«python:S5886‚"lReturn a value of type "Response" instead of "SecurityError" or update function "execute_command" type hint.(áİØãJ$d5e62a10-c253-4083-a456-4ef44085987c
+«python:S5886"lReturn a value of type "Response" instead of "SecurityError" or update function "display_console" type hint.(áİØãJ$98e4858f-f935-4fb6-8fa7-8799c82dafdf
+£python:S5886¥"dReturn a value of type "Response" instead of "NotFound" or update function "get_resource" type hint.(ÚÖúßJ$eeb70d58-719a-4360-92df-580eff477049
+£python:S5886¨"dReturn a value of type "Response" instead of "NotFound" or update function "get_resource" type hint.(ÚÖúßJ$a0c75243-87d7-4f2b-960d-346095eece80
+¤python:S5886Ï"eReturn a value of type "Response" instead of "SecurityError" or update function "pin_auth" type hint.(áİØãJ$d91e12a1-ef86-4eca-9ad7-9e9cc17fe4e9
+«python:S5886…"lReturn a value of type "Response" instead of "SecurityError" or update function "log_pin_request" type hint.(áİØãJ$eb3409c0-8a34-45fb-b79e-3412c9458733

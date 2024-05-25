@@ -1,0 +1,27 @@
+
+‘python:S1192¼"MDefine a constant instead of duplicating this literal "urllib.error" 4 times.(™êó†øÿÿÿÿJ$2ba1378f-c4fd-4eb6-86b9-8b47cc8a198d
+python:S1192Ì"PDefine a constant instead of duplicating this literal "urllib.response" 4 times.(“©×çJ$c629197b-2316-4bf3-ab1c-f32ff3f4285a
+’python:S1192½"NDefine a constant instead of duplicating this literal ".moves.urllib" 3 times.(îù¿ƒÿÿÿÿÿJ$6b45d3ac-12c8-4a59-9b2c-a78e7dce91b5
+œpython:S1192‘"XDefine a constant instead of duplicating this literal "not expecting type '%s'" 3 times.(şÌ€ıÿÿÿÿJ$f11fb15e-10f1-4a7d-b7a5-da9f57ed2cef
+’python:S1192»"NDefine a constant instead of duplicating this literal "urllib.parse" 26 times.(şú¦±şÿÿÿÿJ$8c9ac1fa-6dc0-4509-9358-052bed68d8be
+”python:S1192˜"PDefine a constant instead of duplicating this literal "urllib.request" 35 times.(øêÒ¥ÿÿÿÿÿJ$887302b2-aa89-4f1e-a46d-9c9de8a13499
+‹python:S1192¡"LDefine a constant instead of duplicating this literal "http.server" 3 times.(¿ÄÈËJ$a49d9240-a9f1-4bc4-aa11-c56123d3dc42
+ppython:S1172½",Remove the unused function parameter "path".(Ì¡‡¥ûÿÿÿÿJ$232edc2f-4c09-4e17-be70-fbd5c9f2aeaa
+rpython:S1172Â".Remove the unused function parameter "target".(õ«ÿÿÿÿÿJ$46b4f197-922a-4d86-bfd3-a54272b6b25c
+ppython:S1172Â",Remove the unused function parameter "path".(õ«ÿÿÿÿÿJ$1ca289ad-6720-49b5-9fa8-0a44e9e102d6
+python:S1186ï"YAdd a nested comment explaining why this method is empty, or complete the implementation.(Ñ»úıÿÿÿÿJ$2812986a-b361-4845-b5d8-343bf17fd1f1
+ºpython:S101Ô"wRename class "Module_six_moves_urllib_parse" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ÆÔıÿÿÿÿÿJ$658dcefa-9517-4256-b086-53098009b181
+µpython:S101ş"wRename class "Module_six_moves_urllib_error" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ƒ©õüJ$43d981c9-bbec-40fa-8b9c-7cfc3891053d
+¼python:S101’"yRename class "Module_six_moves_urllib_request" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(‘ø¹ÏüÿÿÿÿJ$fc6e715d-c170-4882-a89c-202847d6431b
+½python:S101Æ"zRename class "Module_six_moves_urllib_response" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(®ñºêÿÿÿÿÿJ$33ea414f-f24e-4ce7-b3de-70b4dc39f903
+»python:S101Û"}Rename class "Module_six_moves_urllib_robotparser" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(â´ÄêJ$8501ff8b-ef1a-4bba-a0e4-531e4419af5b
+´python:S101í"qRename class "Module_six_moves_urllib" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(à™ÚÛıÿÿÿÿJ$edf96fa4-de4a-4813-bbd2-cf792bb60ab3
+jpython:S1172µ"+Remove the unused function parameter "cls".(ôë‡¼J$286a729a-5ce7-4e4b-9dfb-9276e17ea463
+špython:S1542¶"VRename function "assertCountEqual" to match the regular expression ^[a-z_][a-z0-9_]*$.(¼ŒĞÇşÿÿÿÿJ$5ae9b70e-3473-4c86-bdee-5c5767d36c0f
+›python:S1542º"WRename function "assertRaisesRegex" to match the regular expression ^[a-z_][a-z0-9_]*$.(§ˆ˜ÚşÿÿÿÿJ$e88dbc3e-b7fd-4ff2-afdf-0a16ab1290d7
+•python:S1542¾"QRename function "assertRegex" to match the regular expression ^[a-z_][a-z0-9_]*$.(‘º ûÿÿÿÿJ$cc01f9f7-a674-4ecf-8c79-7faa6b38912b
+˜python:S1542Â"TRename function "assertNotRegex" to match the regular expression ^[a-z_][a-z0-9_]*$.(¿À¥øÿÿÿÿJ$a1974c65-7b7b-418b-b78f-8b5ff317f139
+Špython:S1854Û"KRemove this assignment to local variable '_locs_'; the value is never used.(ëäÚªJ$2b4723e4-5570-4868-b432-3335bcc513f1
+python:S1854Ù"LRemove this assignment to local variable '_globs_'; the value is never used.(•¯¥¹øÿÿÿÿJ$a5f5bfd5-aa29-4f3b-acf7-e98b9fd9f331
+python:S1854Ş"KRemove this assignment to local variable '_locs_'; the value is never used.(‘ªğ‹ÿÿÿÿÿJ$12b4a8f8-5a4e-45bf-b56e-fa1582b53429
+˜python:S3776÷"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(™šÀñøÿÿÿÿJ$5e654484-f1af-45f4-bffc-e0c45c077231

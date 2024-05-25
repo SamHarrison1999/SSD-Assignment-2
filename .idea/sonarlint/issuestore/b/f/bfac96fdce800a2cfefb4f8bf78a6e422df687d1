@@ -1,0 +1,5 @@
+
+python:S107Ç"MMethod "__init__" has 16 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$d054827a-8caf-4b00-a70f-759396d1bf92
+xpython:S1244¬":Do not perform equality checks with floating point values.(¹¸ômJ$6f4a59be-ce40-4b94-af2f-3459b8293002
+zpython:S6353³";Use concise character class syntax '\d' instead of '[0-9]'.(Õ†¿®J$4ef0828d-47da-4381-81aa-f48487768075
+˜python:S3776¨"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(ê‚ÕÜøÿÿÿÿJ$1fcbc38b-d385-4ed3-9bc2-3fd7ed095a2a

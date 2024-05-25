@@ -1,0 +1,56 @@
+
+npython:S1066“"/Merge this if statement with the enclosing one.(™•ÎéJ$29420c4c-6be3-4776-8536-9139e8ce99ce
+˜python:S117X"[Rename this parameter "chromiumSandbox" to match the regular expression ^[_a-z][a-z0-9_]*$.(¿ÅÆµJ$1d63d1f5-6520-4123-97a4-f6d2ab8b5c00
+–python:S117U"YRename this parameter "downloadsPath" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸¹ğJ$7210dfe5-4ec7-4693-a4bd-5d2ba785231f
+—python:S117I"ZRename this parameter "executablePath" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ò±şÎJ$efeb3bff-e634-40aa-8fed-c3099e99b239
+™python:S117Y"\Rename this parameter "firefoxUserPrefs" to match the regular expression ^[_a-z][a-z0-9_]*$.(ş€âşJ$b3776844-605b-4e15-a6ab-e6895e71c97a
+špython:S117O"XRename this parameter "handleSIGHUP" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÀØ‡ÿÿÿÿÿJ$2ba614b1-73a3-4168-9e99-57a5d73cc9d9
+špython:S117M"XRename this parameter "handleSIGINT" to match the regular expression ^[_a-z][a-z0-9_]*$.(×ƒÊ¶şÿÿÿÿJ$4e1c63dd-cbc5-40c6-a71d-dc0d77c03a7e
+–python:S117N"YRename this parameter "handleSIGTERM" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŠŠèÅJ$b77b3aaa-89f3-42ad-a44c-18f979476f49
+Ÿpython:S117L"]Rename this parameter "ignoreDefaultArgs" to match the regular expression ^[_a-z][a-z0-9_]*$.(È»±×ûÿÿÿÿJ$bbf2ffc1-4fcb-45a5-9ae5-06a815ac1af1
+python:S117V"RRename this parameter "slowMo" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÙÖÈ¹J$352386ff-eb73-46c0-970b-c7bcccfeed37
+’python:S117W"URename this parameter "tracesDir" to match the regular expression ^[_a-z][a-z0-9_]*$.(¿ÓÇŠJ$f369e6bc-a354-4e9a-9849-5bafbe821b0c
+python:S107H"KMethod "launch" has 17 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$ba7cd196-374c-4a73-9c4a-132682f2b5d5
+™python:S117ˆ"[Rename this parameter "acceptDownloads" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÁÉ¹ØJ$245f1591-cbe6-4fe8-8a2b-50b239a627ed
+‘python:S117"SRename this parameter "baseURL" to match the regular expression ^[_a-z][a-z0-9_]*$.(ç±® J$a9631bbc-5ba4-496a-8a19-62601374faee
+’python:S117y"URename this parameter "bypassCSP" to match the regular expression ^[_a-z][a-z0-9_]*$.(¡¿Á”J$dd43d85b-c713-4667-8086-79dae2c456f6
+™python:S117Š"[Rename this parameter "chromiumSandbox" to match the regular expression ^[_a-z][a-z0-9_]*$.(¿ÅÆµJ$58ccff3c-6845-46e9-8d8d-12ee3556132f
+•python:S117…"WRename this parameter "colorScheme" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ç•Í™J$0b4b0d5c-2515-4ea1-abb3-f606dcd8bd7d
+›python:S117‚"]Rename this parameter "deviceScaleFactor" to match the regular expression ^[_a-z][a-z0-9_]*$.(Å¨ÄİJ$53446a59-0539-48ea-bcd7-05f6e8d84fef
+–python:S117r"YRename this parameter "downloadsPath" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸¹ğJ$e3e3dcf4-044c-4ad8-8bc4-a0d5b2200053
+—python:S117g"ZRename this parameter "executablePath" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ò±şÎJ$1e3e929c-414f-4211-810f-dbd042075d57
+python:S117"\Rename this parameter "extraHTTPHeaders" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸ÄŞıÿÿÿÿÿJ$81139731-3ccc-401e-a677-bbce5606d1d0
+špython:S117‹"\Rename this parameter "firefoxUserPrefs" to match the regular expression ^[_a-z][a-z0-9_]*$.(ş€âşJ$1c83ec90-a9dc-445b-9180-e1c91b658329
+›python:S117‡"XRename this parameter "forcedColors" to match the regular expression ^[_a-z][a-z0-9_]*$.(£ÚÇ˜ÿÿÿÿÿJ$6f7a19c3-a734-4f6d-884e-d7e43a7e58d1
+špython:S117l"XRename this parameter "handleSIGHUP" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÀØ‡ÿÿÿÿÿJ$eafacd30-ca2d-471c-b78d-4e1c3755892c
+špython:S117j"XRename this parameter "handleSIGINT" to match the regular expression ^[_a-z][a-z0-9_]*$.(×ƒÊ¶şÿÿÿÿJ$dfc78b17-fed0-4826-a92a-db80968e74ab
+–python:S117k"YRename this parameter "handleSIGTERM" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŠŠèÅJ$cb68b224-bf93-4011-863e-3db3b70b4c66
+’python:S117„"TRename this parameter "hasTouch" to match the regular expression ^[_a-z][a-z0-9_]*$.(ùÆÁèJ$f523d322-674e-4057-b25d-27fa201828eb
+™python:S117"[Rename this parameter "httpCredentials" to match the regular expression ^[_a-z][a-z0-9_]*$.(…òÚãJ$973a3630-6230-4e79-8058-171a46494624
+Ÿpython:S117i"]Rename this parameter "ignoreDefaultArgs" to match the regular expression ^[_a-z][a-z0-9_]*$.(È»±×ûÿÿÿÿJ$8c8412b0-975a-47ac-a2c1-7a2bbe6d1049
+špython:S117w"]Rename this parameter "ignoreHTTPSErrors" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ç¢ÚİJ$a89c7baf-94bf-4c7c-a328-13c99e15ea53
+’python:S117ƒ"TRename this parameter "isMobile" to match the regular expression ^[_a-z][a-z0-9_]*$.(òâµƒJ$a436917a-98ee-4508-a8f0-ffea6844f700
+Ÿpython:S117x"]Rename this parameter "javaScriptEnabled" to match the regular expression ^[_a-z][a-z0-9_]*$.(ëÓÕ´øÿÿÿÿJ$d6ad1a1a-b909-42bc-9a2a-85cfe77eda04
+“python:S117v"VRename this parameter "noViewport" to match the regular expression ^[_a-z][a-z0-9_]*$.(‡Ä‹øJ$10a9061f-4cbf-4051-adb1-7208be90205b
+Ÿpython:S117•"\Rename this parameter "recordHarContent" to match the regular expression ^[_a-z][a-z0-9_]*$.(óø’µúÿÿÿÿJ$b11657db-40ea-4410-b4fe-3002fe801d7c
+—python:S117”"YRename this parameter "recordHarMode" to match the regular expression ^[_a-z][a-z0-9_]*$.(®¾ÌJ$b5c65eba-5179-48ee-bfea-a7d91f602988
+£python:S117"`Rename this parameter "recordHarOmitContent" to match the regular expression ^[_a-z][a-z0-9_]*$.(à±ËşÿÿÿÿJ$4291f54a-1fd2-4ada-8eb7-618390b11d56
+—python:S117Œ"YRename this parameter "recordHarPath" to match the regular expression ^[_a-z][a-z0-9_]*$.(èØñJ$96b6e133-b508-445d-b283-b17566def549
+œpython:S117“"^Rename this parameter "recordHarUrlFilter" to match the regular expression ^[_a-z][a-z0-9_]*$.(³øÆJ$e81e40b1-6894-4d12-89a9-77095c14423e
+python:S117"ZRename this parameter "recordVideoDir" to match the regular expression ^[_a-z][a-z0-9_]*$.(ˆşÇèşÿÿÿÿJ$80e51881-fcc1-441b-a1d7-4e0e3bea7802
+™python:S117"[Rename this parameter "recordVideoSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(ºÇÄ§J$5967bab2-ac46-487c-8bd2-f1a980a15849
+œpython:S117†"YRename this parameter "reducedMotion" to match the regular expression ^[_a-z][a-z0-9_]*$.(¼ÒªÌşÿÿÿÿJ$22c0a0d7-e1d3-4f22-a8f5-5e93734efd4d
+python:S117’"ZRename this parameter "serviceWorkers" to match the regular expression ^[_a-z][a-z0-9_]*$.(§–Ğ·ùÿÿÿÿJ$46ea7412-7253-4aee-ad93-9c0d1d2d6451
+python:S117s"RRename this parameter "slowMo" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÙÖÈ¹J$39556d2f-7c53-4e17-9ad5-187531353eb1
+python:S117‘"[Rename this parameter "strictSelectors" to match the regular expression ^[_a-z][a-z0-9_]*$.(ËıÈŠøÿÿÿÿJ$7011ef17-01aa-4216-a7c5-6444a4e9232c
+˜python:S117|"VRename this parameter "timezoneId" to match the regular expression ^[_a-z][a-z0-9_]*$.(¾çØ¥üÿÿÿÿJ$39db21f1-d79a-448c-b6b2-580647fd3429
+“python:S117‰"URename this parameter "tracesDir" to match the regular expression ^[_a-z][a-z0-9_]*$.(¿ÓÇŠJ$02bed767-ff3e-48bb-b2a6-40632f02b40e
+—python:S117z"URename this parameter "userAgent" to match the regular expression ^[_a-z][a-z0-9_]*$.(µØ‘ÊıÿÿÿÿJ$591cade5-3480-460d-a333-cc28c80aefd6
+™python:S117e"WRename this parameter "userDataDir" to match the regular expression ^[_a-z][a-z0-9_]*$.(¡Ÿ¤“ÿÿÿÿÿJ$48e4fb4f-2c9b-40e8-aa94-3cf5235964fa
+ python:S107d"^Method "launch_persistent_context" has 49 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$e9985f49-8d5b-4f2e-80bd-1777b6714952
+špython:S117¤"WRename this parameter "endpointURL" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥ßöúÿÿÿÿJ$556bbd31-2e94-4010-85dc-16522b70d696
+python:S117¦"RRename this parameter "slowMo" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÙÖÈ¹J$e1b54305-80da-49c9-b34d-77cc7267a894
+—python:S117¾"YRename this parameter "exposeNetwork" to match the regular expression ^[_a-z][a-z0-9_]*$.(€®‹ÀJ$298695fe-dfdf-4d8e-8ea7-331f540b8471
+python:S117¼"RRename this parameter "slowMo" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÙÖÈ¹J$ce76fab3-2c64-4d2d-9027-006896f4f99e
+™python:S117º"VRename this parameter "wsEndpoint" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥…“¸şÿÿÿÿJ$24e9fe77-a058-48ab-97ad-98b2f754ccfd
+tpython:S1481ğ"5Replace the unused local variable "pending" with "_".(È³ò«J$ba41ca0d-3330-4714-81e7-7dade97482ad

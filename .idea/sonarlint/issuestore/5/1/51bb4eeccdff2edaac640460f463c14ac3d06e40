@@ -1,0 +1,56 @@
+
+“python:S3776‹"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(Î×ßøJ$ba567120-6af9-4109-a049-628de3cd0fd1
+˜python:S117¬"URename this parameter "eventInit" to match the regular expression ^[_a-z][a-z0-9_]*$.(ğó¼ıÿÿÿÿJ$75241320-2db5-4b97-b5fb-fc880a56635c
+˜python:S117ü"URename this parameter "waitUntil" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ñ†¸ÿÿÿÿÿJ$02430838-807b-4f77-b366-cf77d3699d0e
+˜python:S117„"URename this parameter "waitUntil" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ñ†¸ÿÿÿÿÿJ$0f58083b-6053-4eb0-a781-e2b09b496b0f
+˜python:S117Œ"URename this parameter "waitUntil" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ñ†¸ÿÿÿÿÿJ$4a791bbd-b257-40d8-823d-00cd41986107
+˜python:S117œ"URename this parameter "waitUntil" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ñ†¸ÿÿÿÿÿJ$ecbc783d-4d18-4452-af1b-0783328847c3
+gpython:S108¥")Either remove or fill this block of code.(ã‘Û¾J$992fc505-9b41-45b4-9fd6-661073b8cf8c
+˜python:S117«"URename this parameter "waitUntil" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ñ†¸ÿÿÿÿÿJ$ed383cdd-2476-4978-904c-18520260f426
+˜python:S117´"URename this parameter "waitUntil" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ñ†¸ÿÿÿÿÿJ$2fde2bcf-d858-43b1-8e95-4a41efa09ae7
+•python:S117½"WRename this parameter "colorScheme" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ç•Í™J$9f16e0d9-9537-496d-9aac-f25c92164d39
+›python:S117¿"XRename this parameter "forcedColors" to match the regular expression ^[_a-z][a-z0-9_]*$.(£ÚÇ˜ÿÿÿÿÿJ$1b2e4839-9e7f-4358-bec7-5ef5a08922d9
+œpython:S117¾"YRename this parameter "reducedMotion" to match the regular expression ^[_a-z][a-z0-9_]*$.(¼ÒªÌşÿÿÿÿJ$df4a9c0a-67ff-440b-9777-7509622fd1b5
+–python:S117Ò"XRename this parameter "viewportSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(£Ã™J$b5e1aed6-c000-4f7b-818a-964fb15fb3b7
+‘python:S117¢"TRename this parameter "notFound" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÆµìrJ$d613ee8e-b9e1-4d13-be5c-bf9b7dacd9d1
+œpython:S117¤"YRename this parameter "updateContent" to match the regular expression ^[_a-z][a-z0-9_]*$.( òœµÿÿÿÿÿJ$22baf770-24bc-4ec1-8254-cb6d1a46240c
+™python:S117¥"VRename this parameter "updateMode" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ëı¯üÿÿÿÿJ$3bc8296a-2a96-48f2-8cbb-d9cc651a8ced
+—python:S117Æ"TRename this parameter "fullPage" to match the regular expression ^[_a-z][a-z0-9_]*$.(¼äõªûÿÿÿÿJ$f1b98f68-0838-4e66-9aef-15891266068e
+˜python:S117Ì"URename this parameter "maskColor" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬Å°£şÿÿÿÿJ$c89ff0ef-8a06-48dc-86e8-7e6cd2fcf13c
+python:S117Å"ZRename this parameter "omitBackground" to match the regular expression ^[_a-z][a-z0-9_]*$.(ôŒ©‡ıÿÿÿÿJ$e22fa3eb-02af-4a31-a011-a0c3316a98ac
+python:S117è"[Rename this parameter "runBeforeUnload" to match the regular expression ^[_a-z][a-z0-9_]*$.(å¬Œ²ÿÿÿÿÿJ$1fdebe33-127c-4823-9135-3f8cbe21d8be
+™python:S117ı"VRename this parameter "clickCount" to match the regular expression ^[_a-z][a-z0-9_]*$.(…èşÊøÿÿÿÿJ$5006f660-a387-4647-aed0-68870b4ae7d0
+špython:S117€"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$508acfd7-241a-442b-9d9f-bd5e3f262e8f
+špython:S117"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$c5719e09-8eec-402d-bcd0-5099a7b6a544
+špython:S117œ"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$2b7fe992-4e68-458a-bfdf-ad09fb5e4f5c
+špython:S117§"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$911769e8-b7e1-4c8b-b675-44485a2d7dfb
+•python:S117³"RRename this parameter "hasNot" to match the regular expression ^[_a-z][a-z0-9_]*$.(øËùıÿÿÿÿÿJ$bbf29191-e969-443b-8613-1f0e613ba2e4
+™python:S117±"VRename this parameter "hasNotText" to match the regular expression ^[_a-z][a-z0-9_]*$.(—µÎ«ùÿÿÿÿJ$d0ee39de-d601-41d7-9717-58deedf13dec
+–python:S117°"SRename this parameter "hasText" to match the regular expression ^[_a-z][a-z0-9_]*$.(¤é¤ÒùÿÿÿÿJ$63a4ba10-814a-4e2d-b0b5-693a44cedca9
+œpython:S117Ò"YRename this parameter "includeHidden" to match the regular expression ^[_a-z][a-z0-9_]*$.(ËçÄƒüÿÿÿÿJ$111c46e2-fd4e-467c-a35d-e5b65d39692b
+python:S117æ"RRename this parameter "testId" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥‹İJ$4cb1af35-1ae0-4492-aa19-daf600a58ebf
+špython:S117•"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$b7c0439e-2139-46cf-a659-e07c3c1e5bb9
+špython:S117£"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$d733d04e-aa66-4a54-869f-4476f496be6c
+python:S117 "ZRename this parameter "sourcePosition" to match the regular expression ^[_a-z][a-z0-9_]*$.(àÀòâÿÿÿÿÿJ$4e62ef5d-3b43-4c44-856a-6e61b56372f5
+python:S117¡"ZRename this parameter "targetPosition" to match the regular expression ^[_a-z][a-z0-9_]*$.(ôÃØúÿÿÿÿJ$cf24efcb-dcc5-4a87-a942-21ce8de321c7
+špython:S117²"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$6b14db3c-58a5-4e75-a15a-4621a0ea896b
+špython:S117Ç"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$9c37eb3f-204a-4825-9497-72c6f32ff3ba
+špython:S117Ñ"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$5d12b217-ea5b-41f3-ba27-3063ca4d1a90
+špython:S117Ü"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$b1b22008-5d23-4ec8-afea-a888027e26cd
+špython:S117ç"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$fa5b8a07-3a5b-4291-a308-e19ffc043a8c
+špython:S117ó"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$5136d9ae-f094-4b4d-8b42-a9eb759c2e0d
+œpython:S117¥"_Rename this parameter "displayHeaderFooter" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ïğ:J$457c9e60-fb46-4959-8ea5-f20bd0e1784b
+˜python:S117§"ZRename this parameter "footerTemplate" to match the regular expression ^[_a-z][a-z0-9_]*$.(üÓ‹J$658f1bf8-0fdd-4da9-8654-f69d1f92c432
+˜python:S117¦"ZRename this parameter "headerTemplate" to match the regular expression ^[_a-z][a-z0-9_]*$.(òÑ ¢J$99d14d4b-60b3-4d28-8705-730b9c913cfd
+”python:S117ª"VRename this parameter "pageRanges" to match the regular expression ^[_a-z][a-z0-9_]*$.(®ÀÉ–J$18212543-fadf-4102-b70b-8f9b21ae49ad
+ python:S117®"]Rename this parameter "preferCSSPageSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(ïâ•ÏÿÿÿÿÿJ$55f99e18-a88b-41c7-9003-a01559357616
+™python:S117¨"[Rename this parameter "printBackground" to match the regular expression ^[_a-z][a-z0-9_]*$.(ëŸ÷ÖJ$461c1d9e-51ae-4bda-b464-8433247c87b8
+‹python:S107£"HMethod "pdf" has 15 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$4a057b03-f2ed-482d-afe9-aa8cf2ad46b8
+˜python:S117	"URename this parameter "waitUntil" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ñ†¸ÿÿÿÿÿJ$232b443e-d673-4b80-ae82-068ac671e89a
+python:S117›	"ZRename this parameter "urlOrPredicate" to match the regular expression ^[_a-z][a-z0-9_]*$.(¶¿ÀİÿÿÿÿÿJ$2fb2702d-6c26-4244-b73a-8b0c4ca8741c
+˜python:S117Â	"ZRename this parameter "urlOrPredicate" to match the regular expression ^[_a-z][a-z0-9_]*$.(¶ØçJ$8de093c9-f2f7-4e55-a478-6ceea9590c67
+špython:S117ó	"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$2ef6c9fe-b6d6-4581-af84-3f953090fbb1
+špython:S117
+"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$8937aff0-550b-42b7-9913-2ffdd1f10d4f
+“python:S3776¢
+"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(†ÿ‘õJ$f45d7bb6-390d-4176-8592-00fa1dacef41

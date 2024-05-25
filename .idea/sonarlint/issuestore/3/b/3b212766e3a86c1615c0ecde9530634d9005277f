@@ -1,0 +1,41 @@
+
+§python:S1192í"hDefine a constant instead of duplicating this literal "Locators must belong to the same frame." 4 times.(¾÷ÑJ$3eff9cfc-cd28-4f0c-9e98-293d884f8249
+Zpython:S1700ú"Rename field "locator"(õ‰Ä¢şÿÿÿÿJ$979323de-4627-48a3-81f6-ab305b3fb69c
+ python:S4144â"\Update this function so that its implementation is not identical to is_editable on line 474.(½¢’ÄşÿÿÿÿJ$32e54430-9fa6-4def-ad72-66c929f7525b
+špython:S117‰"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$b82e2707-e37e-4897-a056-52f3cd2a8cc7
+™python:S117•"VRename this parameter "clickCount" to match the regular expression ^[_a-z][a-z0-9_]*$.(…èşÊøÿÿÿÿJ$556b0fc5-e494-49f4-8bfb-b9426df2a56d
+špython:S117˜"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$2c00af94-9097-49ec-835b-55da2effa4e3
+špython:S117¦"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$fc16d588-57e6-4e58-a7a4-30fec62b4ab9
+˜python:S117¯"URename this parameter "eventInit" to match the regular expression ^[_a-z][a-z0-9_]*$.(ğó¼ıÿÿÿÿJ$18213065-26c8-4ad1-b8cf-0de297c0566d
+špython:S117Ì"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$78f2fd4a-4cfd-473c-ab8d-cba71b32c5cc
+špython:S117Õ"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$31613115-7109-442a-ab37-6878b95cf04e
+•python:S117à"RRename this parameter "hasNot" to match the regular expression ^[_a-z][a-z0-9_]*$.(øËùıÿÿÿÿÿJ$d872a99a-0854-480a-8267-c2987d841dbc
+™python:S117Ş"VRename this parameter "hasNotText" to match the regular expression ^[_a-z][a-z0-9_]*$.(—µÎ«ùÿÿÿÿJ$87f266ef-fd1b-4f2b-b127-20eee668e3b1
+–python:S117İ"SRename this parameter "hasText" to match the regular expression ^[_a-z][a-z0-9_]*$.(¤é¤ÒùÿÿÿÿJ$99d3356c-ef98-4711-9836-cb4a9eb3d976
+›python:S117Ü"]Rename this parameter "selectorOrLocator" to match the regular expression ^[_a-z][a-z0-9_]*$.(£½ÊÍJ$6801015f-f147-4f00-9106-fb904cb4be10
+œpython:S117Œ"YRename this parameter "includeHidden" to match the regular expression ^[_a-z][a-z0-9_]*$.(ËçÄƒüÿÿÿÿJ$332f7d29-9488-4daa-920e-1a876bcd280b
+python:S117¢"RRename this parameter "testId" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥‹İJ$7194eeb5-4590-4add-906a-f37210232f5b
+•python:S117Ô"RRename this parameter "hasNot" to match the regular expression ^[_a-z][a-z0-9_]*$.(øËùıÿÿÿÿÿJ$9a177aa1-3f41-4c58-9bdf-e707b3c5424d
+™python:S117Ò"VRename this parameter "hasNotText" to match the regular expression ^[_a-z][a-z0-9_]*$.(—µÎ«ùÿÿÿÿJ$b46f4d04-3dbd-4dbe-b7da-139deb779eaa
+–python:S117Ñ"SRename this parameter "hasText" to match the regular expression ^[_a-z][a-z0-9_]*$.(¤é¤ÒùÿÿÿÿJ$3528a70f-afc0-4008-8d40-3d489684dbff
+špython:S117"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$1f268c5f-74e0-4290-85b7-a7cafa9a0b2d
+python:S117‘"ZRename this parameter "sourcePosition" to match the regular expression ^[_a-z][a-z0-9_]*$.(àÀòâÿÿÿÿÿJ$8a195f1d-92b7-4cf5-93f2-d363ab69ce16
+python:S117’"ZRename this parameter "targetPosition" to match the regular expression ^[_a-z][a-z0-9_]*$.(ôÃØúÿÿÿÿJ$a786e4fa-e614-4848-a491-0947f1668ac2
+špython:S117§"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$d9782717-3dd7-4449-a1c9-bbbc3b317402
+špython:S117ÿ"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$00da4b0f-2e41-434c-a24d-664a4e23ff6a
+˜python:S117"URename this parameter "maskColor" to match the regular expression ^[_a-z][a-z0-9_]*$.(¬Å°£şÿÿÿÿJ$2d945bb9-2718-4c67-9eb0-7bf761c5d959
+python:S117Š"ZRename this parameter "omitBackground" to match the regular expression ^[_a-z][a-z0-9_]*$.(ôŒ©‡ıÿÿÿÿJ$3d2cc49a-a4ac-480c-a648-f0f06ede7614
+špython:S117©"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$8d03af26-ff18-42eb-93d2-19311e93b60d
+špython:S117Ä"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$6c9e9241-4f8e-4e32-8587-3e7b3eadc937
+špython:S117Ó"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$127dab99-7686-42fb-9cf6-cf8034fdae99
+špython:S117ê"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$366e4208-dafe-4727-82a5-90ac3dbee59c
+špython:S117ø"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$ab7d27cd-0405-4dc3-8876-99cba3c72dd5
+špython:S117"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$d108e406-2bc9-44a8-8d51-83418cb39762
+špython:S117¨"WRename this parameter "noWaitAfter" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÿÂşÿÿÿÿJ$11d587fa-3785-44ee-97f5-9703f3ba3b3a
+•python:S117Ş"RRename this parameter "hasNot" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹êĞÑÿÿÿÿÿJ$55a88f0e-8303-4d2f-a168-62e27af0ae96
+™python:S117Ü"VRename this parameter "hasNotText" to match the regular expression ^[_a-z][a-z0-9_]*$.(—µÎ«ùÿÿÿÿJ$b9370770-96f3-4585-9eea-c5359b6d1d6d
+–python:S117Û"SRename this parameter "hasText" to match the regular expression ^[_a-z][a-z0-9_]*$.(¤é¤ÒùÿÿÿÿJ$73c471a7-8b73-4d4f-ba00-c376fcbe9503
+ python:S117Ú"]Rename this parameter "selectorOrLocator" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹ë“‰øÿÿÿÿJ$ee7e020d-a85a-4c55-add7-fb02a7b35ef6
+œpython:S117Š"YRename this parameter "includeHidden" to match the regular expression ^[_a-z][a-z0-9_]*$.(ËçÄƒüÿÿÿÿJ$50c1a99f-7f5b-41c4-b02a-40d09f77012b
+python:S117 "RRename this parameter "testId" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥‹İJ$aaff3907-969a-4975-a19b-499e2fd605c0
+œpython:S117ı"YRename this parameter "includeHidden" to match the regular expression ^[_a-z][a-z0-9_]*$.(ËçÄƒüÿÿÿÿJ$9db43f0c-fbb2-4edb-9b6e-4372b193e471

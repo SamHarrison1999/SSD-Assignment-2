@@ -1,0 +1,32 @@
+
+“python:S1192ë"ODefine a constant instead of duplicating this literal 'python.details' 4 times.(®šà©øÿÿÿÿJ$db04b5e7-0882-4b74-a889-c03be6009af5
+“python:S1192ï"ODefine a constant instead of duplicating this literal 'python.exports' 3 times.(‚ü¿ïûÿÿÿÿJ$65515b07-0fbc-4548-a3ac-68a5ce0c7971
+python:S1192Ä"ODefine a constant instead of duplicating this literal 'python.project' 3 times.(ú‚»­J$e9235d4c-96a6-4049-8020-0ce0ffc34aa0
+spython:S1066Û"/Merge this if statement with the enclosing one.(œªñşÿÿÿÿÿJ$fc1a8b69-eb76-4a5f-a314-8edd1eb865e4
+spython:S1066¤"/Merge this if statement with the enclosing one.(•›ï‘ùÿÿÿÿJ$9a97da64-68a0-41b4-9b27-7b91e74d7a27
+npython:S1066‰"/Merge this if statement with the enclosing one.(®Š¸øJ$c47ad3f6-2fa0-4ffe-8eca-05e6397f51b7
+cpython:S63265"%Replace spaces with quantifier `{7}`.(×»¦‘J$73f30fd5-e0c3-4b7f-babe-122f991f6a9e
+hpython:S63266"%Replace spaces with quantifier `{8}`.(¢ıİéıÿÿÿÿJ$d746950b-7b3a-44b6-a79d-e685ebda2b12
+\python:S125‚"Remove this commented out code.(æ’tJ$ca96ba7f-7453-41b1-a210-82103368de7b
+“python:S3776ˆ"TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(µ’ëJ$bed974e6-2af3-480a-bf94-1fac34c884a5
+]python:S125´"Remove this commented out code.(ÔàÄJ$2d684773-aad7-43b1-a248-1be6eaf8f912
+spython:S1135ÿ"4Complete the task associated to this "TODO" comment.(Ã±ğJ$cb7fa490-2edc-4631-83dd-4589ae7f9cf8
+bpython:S125Â"Remove this commented out code.(Á Ø¹ùÿÿÿÿJ$5db9ab5d-10ac-4f79-bd4d-9c354257ebed
+bpython:S125ô"Remove this commented out code.(ëÖ­ıÿÿÿÿJ$923ac43c-e542-492f-99e1-62451e12e4d5
+˜python:S3776ÿ"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(Œ¶—üÿÿÿÿJ$7d502c07-ea00-4064-9707-e4b808e77b06
+’python:S3776´"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(–‚é%J$3143430c-b90a-4566-a7ea-aa42c4e97c71
+‹python:S1134Ğ"LTake the required action to fix the issue indicated by this "FIXME" comment.(ï²©µJ$2fc30dfc-2a39-4e8c-92d3-a231efa82b71
+“python:S3776à"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ì¤ÎÅJ$bcb5fb8b-1b8c-4fa6-a17f-6cf7653f3fd8
+˜python:S3776ı"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(èÇÎåşÿÿÿÿJ$339f243f-ad22-4315-862f-dcb949b3ae54
+spython:S1135É"4Complete the task associated to this "TODO" comment.(ùĞ»ÓJ$c4fbca2c-bba3-4c77-93e3-6bd1da7ca430
+»python:S1845¬"wRename field "metadata_version" to prevent any misunderstanding/clash with field "METADATA_VERSION" defined on line 627(˜ÿä™ùÿÿÿÿJ$d03f209b-6c4b-4528-a632-344bfaeca14a
+’python:S3776"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(µì·J$a10cbb09-c912-4a81-9433-9477324f1a34
+]python:S125–"Remove this commented out code.(àØ£©J$276e0f8b-b3d7-458a-a3a2-2254d6c5f0eb
+“python:S3776Ó"TRefactor this function to reduce its Cognitive Complexity from 55 to the 15 allowed.(á ºÓJ$3fc77b91-c4e6-4738-a59b-34600e7ac2cd
+“python:S3776ˆ"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(ğ™ôšJ$cbfb02f8-e451-440c-9d47-6b94c883b0ff
+˜python:S3776Å"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(ÂÛÆ¤ùÿÿÿÿJ$5161ace8-799f-4c0b-9e8a-b7e750a17ef7
+mpython:S1481»".Remove the unused local variable "maintainer".(“Ì’®J$6abf5e4d-8759-48e2-a62e-7ef4202d4077
+npython:S1481º"*Remove the unused local variable "author".(¸ÄÒÏÿÿÿÿÿJ$64ece7cb-d8b8-4d63-9207-7ff11e3290dc
+˜python:S3776Ë"TRefactor this function to reduce its Cognitive Complexity from 47 to the 15 allowed.(Ôö€—şÿÿÿÿJ$75a7cf0f-74fe-4d10-a8c5-c6eda2a29ae1
+]python:S125ä"Remove this commented out code.(àØ£©J$044df570-055d-48ee-a7ea-6389eeafa707
+xpython:S1135ú"4Complete the task associated to this "TODO" comment.(–¸¹ñúÿÿÿÿJ$a3826395-54ca-4fac-aa14-483f6b10b1a3

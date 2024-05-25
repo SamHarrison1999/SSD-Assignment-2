@@ -1,0 +1,10 @@
+
+vpython:S5727F"3Remove this identity check; it will always be True.(‹¶ÀÔüÿÿÿÿJ$f6acce1b-3a9e-4c97-8099-8b8b514105e1
+apython:S125W"Remove this commented out code.(œ¾Û¾ùÿÿÿÿJ$41903780-2fb2-49c7-a504-2aa1c0aa5089
+apython:S125["Remove this commented out code.(º¨´ûÿÿÿÿJ$7712c3f8-aa69-4fac-9bd9-0e6b7b7a4228
+lpython:S1172‘"-Remove the unused function parameter "names".(î±£îJ$1a51c41c-f8ba-4880-b30a-01fba25d7a24
+xpython:S1135 "4Complete the task associated to this "TODO" comment.(ÉñÕ…ùÿÿÿÿJ$e1d8fdf6-2c69-4d16-9982-caa33c8a2b33
+spython:S1135¹"4Complete the task associated to this "TODO" comment.(ì‘ùãJ$bd8609d1-7712-4567-8c03-460061fd6896
+xpython:S1135½"4Complete the task associated to this "TODO" comment.(–ŸÅèøÿÿÿÿJ$2bc685e3-72b2-404d-be48-97a466a7455b
+’python:S1854­"NRemove this assignment to local variable 'file_data'; the value is never used.(ËÉ•µüÿÿÿÿJ$52afbaaa-6222-417f-8cc5-c9cf42c22832
+˜python:S3776¢"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(·¦ÈÅúÿÿÿÿJ$ea93dc7f-966e-4897-a5af-7b45af166836

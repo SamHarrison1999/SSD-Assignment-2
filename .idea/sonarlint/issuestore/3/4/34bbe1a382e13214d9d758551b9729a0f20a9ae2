@@ -1,0 +1,25 @@
+
+’python:S1192®"NDefine a constant instead of duplicating this literal "NONCLUSTERED " 3 times.(óøÓÌıÿÿÿÿJ$aadcbd32-8e7c-4b23-a999-3921e5255668
+Špython:S1192¬"KDefine a constant instead of duplicating this literal "CLUSTERED " 3 times.(¶âıïJ$4a4580f2-4937-4fd3-8514-dbd745836274
+¨python:S101­	"jRename class "DOUBLE_PRECISION" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(°Ï€ğJ$61b9e21c-65d5-445e-b23c-a88fd7ea6d73
+ipython:S6660É	"%Use the `isinstance()` function here.(ÎÜÓÁûÿÿÿÿJ$a1cf3213-efed-4e1b-8485-0e7c46192360
+npython:S1172•
+"/Remove the unused function parameter "dialect".(éµ“îJ$a8bb3212-b6fe-46dd-b840-417c8e655c0d
+ipython:S6660—
+"%Use the `isinstance()` function here.(ÎÜÓÁûÿÿÿÿJ$d9a540a0-14c4-4d41-a9df-689959309fa6
+¨python:S101µ"eRename class "SQL_VARIANT" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ï·¸¡úÿÿÿÿJ$5825257d-1ae4-4aa9-aadf-316cdf5e0a63
+¹python:S1845¦"uRename field "visit_DATETIME" to prevent any misunderstanding/clash with method "visit_datetime" defined on line 1698(üÏ«úÿÿÿÿJ$b8851398-b160-4e4f-b7b9-3364ceef4e22
+¬python:S1845Ë"nRename method "visit_TEXT" to prevent any misunderstanding/clash with method "visit_text" defined on line 1724(’ˆ¯CJ$27227176-2dc4-4a8e-9cce-87243895effd
+±python:S1845Ş"mRename field "visit_DATE" to prevent any misunderstanding/clash with method "visit_date" defined on line 1754(«à‹ùÿÿÿÿJ$0e1ef571-dac2-4d6f-8f5a-fe1d41d56654
+²python:S1845ã"nRename method "visit_time" to prevent any misunderstanding/clash with method "visit_TIME" defined on line 1685(‘·î¢ûÿÿÿÿJ$19681982-a388-4ffd-aede-c80c5fc52701
+spython:S1135¡"4Complete the task associated to this "TODO" comment.(ĞòÙçJ$a2eb8544-e68e-4061-8e6c-859c1025e8f8
+spython:S1135š"4Complete the task associated to this "TODO" comment.(¾öÙJ$327a36ed-8923-4253-a0ab-bf1ebff3826d
+“python:S3776á"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(éÂÅJ$bc62506e-a845-4862-8f21-58d1f349e057
+“python:S3776Î"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(õ˜ç´J$3983a134-2886-4604-a1dd-c65bfaa60830
+tpython:S6035ã"0Replace this alternation with a character class.(ÒéûşÿÿÿÿJ$b5b8cefc-80eb-4a8c-a79d-02252f10a528
+spython:S1135¬"4Complete the task associated to this "TODO" comment.(¸ÂÄˆJ$217a9861-cd55-47e6-9516-28653979f7b0
+’python:S3776´"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(„Ê²^J$1d8d773e-a46c-4e3a-93d0-7508976d953f
+“python:S3776ÿ"TRefactor this function to reduce its Cognitive Complexity from 43 to the 15 allowed.(¼£¾İJ$41feb891-9a1c-4381-9a79-b5b3e856ad3b
+£python:S1871"dEither merge this branch with the identical one on line "3738" or change one of the implementations.(¿³¢‘J$95752eee-a643-44bf-818c-6cf5101a7058
+’python:S3776ì"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ƒ¸…ZJ$fa6dc740-7687-4bce-8c01-df4d53c3e8b9
+xpython:S1135ş"4Complete the task associated to this "TODO" comment.(ÌéôøÿÿÿÿJ$5beabe3c-00de-45a7-924c-70776aaaa3e5

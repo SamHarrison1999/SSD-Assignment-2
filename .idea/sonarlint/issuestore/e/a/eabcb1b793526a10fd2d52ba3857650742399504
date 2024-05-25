@@ -1,0 +1,9 @@
+
+ppython:S1481D"2Replace the unused local variable "rest" with "_".(çæŠÜJ$4a15f430-28a9-40c8-8274-95ce0fb642a6
+ipython:S5806x"+Rename this variable; it shadows a builtin.(âÏ’±J$fb244259-b842-489a-ad67-082fa875cb78
+ipython:S5806€"+Rename this variable; it shadows a builtin.(ğ¿ê#J$4da7a74d-0d57-452d-86a3-9582fe4d035c
+“python:S3776š"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(»ˆî§J$8a30f5a3-410f-4a3b-a1a8-55088d64913f
+rpython:S930ë"/Remove this unexpected named argument 'filter'.(î½ÓîüÿÿÿÿJ$abe6d511-8b5b-4272-b52e-5ec901f7d0d9
+“python:S3776ñ"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(¼ÙÇ½J$850117bb-ae3f-42db-815a-8c054f20f7cb
+‹python:S1134¾"LTake the required action to fix the issue indicated by this "FIXME" comment.(øô”êJ$a4a9c1a5-9f3a-4270-b7ee-fb73aaaef9e6
+python:S1134¿"LTake the required action to fix the issue indicated by this "FIXME" comment.(¹²¶—ıÿÿÿÿJ$d3aea8a1-c7a7-4a48-8bd4-c752366b2f31

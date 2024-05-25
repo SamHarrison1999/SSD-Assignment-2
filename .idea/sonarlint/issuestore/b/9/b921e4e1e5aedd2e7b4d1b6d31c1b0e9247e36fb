@@ -1,0 +1,9 @@
+
+python:S1192“"IDefine a constant instead of duplicating this literal "#bygroup" 4 times.(Χ‚λΟJ$3d6585f6-d792-4eee-ad36-7b14da53bd3a
+’python:S5843!"TSimplify this regular expression to reduce its complexity from 33 to the 20 allowed.(Ά®ώÿJ$f25a91e6-84bb-43fc-94b6-1a078800396b
+’python:S58431"TSimplify this regular expression to reduce its complexity from 35 to the 20 allowed.(Ά®ώÿJ$aa131eff-6bc2-461c-b797-c516a96b9348
+opython:S5806Δ"+Rename this variable; it shadows a builtin.(¥ή‹ύÿÿÿÿJ$cbc4f834-45cd-4896-93a8-8c3b2eee41c9
+“python:S3776η"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(—ΫΥJ$99f02d38-d81e-4c03-a8ab-90ecf6590805
+”python:S3776"URefactor this function to reduce its Cognitive Complexity from 130 to the 15 allowed.(άδΆώJ$8e68d7ee-9877-4259-a62e-b2223be455ea
+bpython:S125®"Remove this commented out code.(ν½α°ψÿÿÿÿJ$d4e1ab27-2e52-4e1d-bbb6-6b704f2163d7
+Xpython:S6659΄"Use `endswith` here.(”‚΅γώÿÿÿÿJ$62082c18-e4fc-47c0-8fdd-9920429fb6ae

@@ -1,0 +1,20 @@
+
+¡python:S117É"^Rename this local variable "psycopg_Range" to match the regular expression ^[_a-z][a-z0-9_]*$.(ì¶ßÎüÿÿÿÿJ$abd0b0d3-186d-4c86-b56e-0fe16bedc2d4
+¦python:S117å"cRename this local variable "psycopg_Multirange" to match the regular expression ^[_a-z][a-z0-9_]*$.(Úı¶üÿÿÿÿJ$e9987f90-810e-479b-a91c-cd2a32eecf4d
+¡python:S117ä"^Rename this local variable "psycopg_Range" to match the regular expression ^[_a-z][a-z0-9_]*$.(ì¶ßÎüÿÿÿÿJ$891ccdcf-14df-4d14-a5b4-6cb78785cb6d
+ipython:S5806é"+Rename this variable; it shadows a builtin.(ÚáÕUJ$9b406d0e-10c6-447c-8121-41a547ceee08
+²python:S101"tRename class "PGExecutionContext_psycopg" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(—É®êJ$3f258686-d984-4dec-8b57-15632a0d8dd1
+¯python:S101“"lRename class "PGCompiler_psycopg" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(¦‡ÂşÿÿÿÿJ$47964fdf-c6e0-421c-93df-3f9225be77ba
+¹python:S101—"vRename class "PGIdentifierPreparer_psycopg" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(îÅÙÚıÿÿÿÿJ$006e83f1-b9ab-4194-9f90-7808ae57b434
+©python:S101Ÿ"kRename class "PGDialect_psycopg" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ÛµJ$108331c6-fc28-4cb6-80b0-4028e40f7523
+™python:S116²"[Rename this field "_psycopg_ExecStatus" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ìåª‰J$b9480294-8111-4383-9448-2c7525ec9a45
+¶python:S101¯"sRename class "AsyncAdapt_psycopg_cursor" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(Êİ»ÜøÿÿÿÿJ$3a6a7cbd-92de-4493-80d1-44553a257745
+xpython:S1135Ü"4Complete the task associated to this "TODO" comment.(Õ‡š¼øÿÿÿÿJ$cb0aa31c-f10b-4478-ad8f-55a23b27902b
+xpython:S1135â"4Complete the task associated to this "TODO" comment.(Õ‡š¼øÿÿÿÿJ$55eb998a-6002-41e5-9e84-228aa2679bdd
+´python:S101õ"vRename class "AsyncAdapt_psycopg_ss_cursor" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(äúııJ$3db35ec1-6c6f-4f8c-a112-f03015317c16
+ºpython:S101"wRename class "AsyncAdapt_psycopg_connection" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(Á‘¶æÿÿÿÿÿJ$469e9bd1-cf1a-4ea5-b868-d27c60c10326
+½python:S101Ã"Rename class "AsyncAdaptFallback_psycopg_connection" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ßº·J$ff286852-1d03-42dd-a89d-4df7b6692526
+®python:S101ß"pRename class "PGDialectAsync_psycopg" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(¸¹âÍJ$2411377d-5717-46ca-b269-df668515f0ae
+—secrets:S6698 "SMake sure this PostgreSQL database password gets changed and removed from the code.(»÷‘İıÿÿÿÿJ$9e946cb5-b6bb-467a-b5d2-728723794154
+—secrets:S6698'"SMake sure this PostgreSQL database password gets changed and removed from the code.(ïòÑ†øÿÿÿÿJ$9acb6e61-adbf-41b1-8cb8-adece719d421
+—secrets:S6698-"SMake sure this PostgreSQL database password gets changed and removed from the code.(‹¤ü¡üÿÿÿÿJ$01b177c0-4629-477a-ac6c-8d5dbf6816b9

@@ -1,0 +1,156 @@
+
+Ÿpython:S1192Ó."`Define a constant instead of duplicating this literal "List[crud._CrudParamElementStr]" 3 times.(¨ğ¶J$4136bf66-3207-4b0d-bb9e-1c62a3e5a7c9
+python:S1192Î3"ODefine a constant instead of duplicating this literal "IF NOT EXISTS " 4 times.(Áô‹„J$ae7046e3-26ce-42ea-a9f1-714558f746b7
+‡python:S1192’"HDefine a constant instead of duplicating this literal "VALUES " 3 times.(†‚ŞÜJ$e53aa3de-4b66-44fa-a2ab-020ba1a4cb7b
+“python:S1192ª6"ODefine a constant instead of duplicating this literal "CONSTRAINT %s " 5 times.(Ë³—ŒùÿÿÿÿJ$7b1f4190-14c2-400e-8d01-d975b0ee7033
+python:S1192Ô3"KDefine a constant instead of duplicating this literal "IF EXISTS " 5 times.(›Â£òıÿÿÿÿJ$126af47e-1b06-491b-bed9-daba022f4998
+­python:S1192ƒ"nDefine a constant instead of duplicating this literal "Can't resolve label reference for ORDER BY / " 3 times.(×¡ÄªJ$c7e53bdd-ba09-4669-89b7-03cb60cecd69
+npython:S1066ß"/Merge this if statement with the enclosing one.(ÙÂí¼J$0bf37eed-46bc-4cc8-805b-fed4410dc592
+˜python:S1186ø"YAdd a nested comment explaining why this method is empty, or complete the implementation.(–°®J$f0e56698-84b3-48d7-acc2-1eaf2df9d0ce
+§python:S4144Ş"cUpdate this function so that its implementation is not identical to post_process_text on line 2649.(Æ¹Ü¤øÿÿÿÿJ$4d61489d-351a-4d3e-8a70-ceec6d8bcbab
+˜python:S3776¼
+"TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(ú„ÚüùÿÿÿÿJ$deaf88af-b894-4ecd-8e21-4746d35a4e2d
+£python:S1871§"dEither merge this branch with the identical one on line "1439" or change one of the implementations.(³ô¤ÔJ$6d474df0-1184-485d-afe7-e2de849c2206
+˜python:S3776œ"TRefactor this function to reduce its Cognitive Complexity from 62 to the 15 allowed.(Í¬¤ÚøÿÿÿÿJ$3cabd767-3e6d-4ea2-b9df-a38e21b2dcd9
+“python:S3776Ğ"TRefactor this function to reduce its Cognitive Complexity from 46 to the 15 allowed.(âãºüJ$f26d8607-1388-4688-8b73-97a60c352693
+“python:S3776§"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(Öª¾ÎJ$47472997-8bde-4ffa-a4d4-30ce7a224341
+˜python:S3776²"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(Ç—¬ÓùÿÿÿÿJ$1bb8a6c6-d589-4116-bc03-e772130914ae
+mpython:S1172ò".Remove the unused function parameter "asfrom".(È½¿ĞJ$8090aacb-4d77-4917-8691-db9a34aae2e6
+{python:S1481¾"7Replace the unused local variable "only_cols" with "_".( ¦ÿÁúÿÿÿÿJ$e1dd833f-37d4-4242-8aae-5e6f2865cf2b
+rpython:S1172•".Remove the unused function parameter "kwargs".(¢‡£ÔøÿÿÿÿJ$984b9d18-1c45-4741-9a8c-6c410801349a
+’python:S3776"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(¤ĞEJ$ede65010-9c4c-4524-bdf5-091cc2730557
+npython:S1172É"*Remove the unused function parameter "kw".(ªª€äüÿÿÿÿJ$e7ce1ba0-86ed-4db2-b9f3-bbdaac647982
+rpython:S1172Ì".Remove the unused function parameter "kwargs".(­™¯¨ûÿÿÿÿJ$8d27e3a8-694e-4f9a-a28e-5c448ace9a5c
+mpython:S1172Ï".Remove the unused function parameter "kwargs".(ÈÎíÔJ$f611778c-d221-4385-9de8-ae371f11a776
+mpython:S1172ı".Remove the unused function parameter "asfrom".(÷¯™œJ$fc539ca3-aec9-4b66-882e-f382ed0e2b88
+ipython:S1172°"*Remove the unused function parameter "kw".(–ÔËôJ$2640c3ff-e409-4ca9-b232-74ddbe72364f
+kpython:S1172°",Remove the unused function parameter "expr".(–ÔËôJ$bcdde536-a4f6-4d71-9fbf-736dad7bbdb2
+kpython:S1172³",Remove the unused function parameter "expr".(Ñ°Ö”J$5983716c-d102-4da9-8201-90a6d2ff12c0
+ipython:S1172³"*Remove the unused function parameter "kw".(Ñ°Ö”J$a00375bc-f2b0-4d63-93cd-f8381f7763d9
+npython:S1172¹"*Remove the unused function parameter "kw".(Ê®ä€ùÿÿÿÿJ$3e0071b1-e6e5-4562-9f56-61d80c902ef4
+ppython:S1172¹",Remove the unused function parameter "expr".(Ê®ä€ùÿÿÿÿJ$86c66580-734e-438a-8e50-8359bad5bd86
+ˆpython:S3358›"IExtract this nested conditional expression into an independent statement.( Ì¤ÂJ$dead492c-6b64-43a0-a84c-8d84013e0dcb
+python:S3358"IExtract this nested conditional expression into an independent statement.(¿¦ìòùÿÿÿÿJ$6719fac1-b3e5-42db-84ab-b8136ea7c6b7
+ˆpython:S3358®"IExtract this nested conditional expression into an independent statement.( Ì¤ÂJ$3d5eb1e6-40b4-4aa6-9557-3cb3ed0bac56
+python:S3358±"IExtract this nested conditional expression into an independent statement.(¿¦ìòùÿÿÿÿJ$0a726544-d14e-4e6c-a3a9-2e02acb811c9
+“python:S3776ô"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(’‹Ø‚J$a0daa9f9-a046-42e7-a578-82a4349f92ef
+ipython:S1172¢"*Remove the unused function parameter "kw".(”äËêJ$67822d83-5d56-4d81-80e5-3eed8aa3de27
+tpython:S1172£"0Remove the unused function parameter "operator".(ÆÁ·ìşÿÿÿÿJ$9e9bf6f2-025c-4ee1-9b64-89a6a5c91b4f
+rpython:S1135¨"4Complete the task associated to this "TODO" comment.(äİ£*J$a719609c-4866-4174-95d2-7fc9c7f3ebe2
+opython:S1172¾"0Remove the unused function parameter "operator".(ø™ÒJ$87b350e2-2c56-430d-951f-3c659dfe6261
+tpython:S1172Ï"0Remove the unused function parameter "operator".(—Û†úúÿÿÿÿJ$43c6c7a3-d4b1-427e-b324-c3af0310c9d2
+tpython:S1172Ø"0Remove the unused function parameter "operator".(¸òóÎøÿÿÿÿJ$ad5d37bc-51c4-4ae9-a6e6-344c9949f123
+ipython:S1172á"*Remove the unused function parameter "kw".(¾ç¤²J$c769f5f6-a22f-41f6-85f4-8624ade9e98a
+opython:S1172á"0Remove the unused function parameter "operator".(¾ç¤²J$d15d68a9-829f-43ab-a2b8-1466394e3a8b
+npython:S1172î"*Remove the unused function parameter "kw".(Üò¡ãüÿÿÿÿJ$cea77770-b684-45dd-a7b8-46cabf7c0af1
+ppython:S1481ò"1Replace the unused loop index "element" with "_".(ÚëÉJ$9b408947-390a-49f6-b121-b6f6647d24e3
+ppython:S1481ù"1Replace the unused loop index "element" with "_".(ÚëÉJ$562b1d13-6f6f-450d-8e8e-aeac91a674ad
+“python:S3776†"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(¿‚ÜÀJ$155f4548-ec5f-431b-8851-dcdfe5a0dc52
+˜python:S3776Ğ"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(€©àÚúÿÿÿÿJ$d214ad78-d5d6-406e-9315-b015c4f5c608
+zpython:S1172£"6Remove the unused function parameter "eager_grouping".(¾½ãÊùÿÿÿÿJ$b165de89-35b6-4ad4-925d-2b04272edcc6
+opython:S1172×"0Remove the unused function parameter "operator".(æŒ¸–J$a9980a6e-ee15-4cbb-bcda-6664240cb894
+tpython:S1172Ú"0Remove the unused function parameter "operator".(ı‡¶şÿÿÿÿJ$c64873ae-c046-4962-8fea-85bebe22eb2e
+tpython:S1172î"0Remove the unused function parameter "operator".(ÿŠŸÜıÿÿÿÿJ$f9e43790-d323-443c-a2b1-29d889f1876e
+opython:S1172ú"0Remove the unused function parameter "operator".(ÉŠ­¶J$372799cc-9076-4b58-870d-cbaec65981c0
+tpython:S1172—"0Remove the unused function parameter "operator".(ÒÆÉˆøÿÿÿÿJ$8d575ca1-9937-4ba5-b769-4b8b37c0f6be
+opython:S1172"0Remove the unused function parameter "operator".(—Šë²J$6466d2bd-bb63-4069-a06f-0d0f7a1da107
+˜python:S3776·"TRefactor this function to reduce its Cognitive Complexity from 50 to the 15 allowed.(åË©’ùÿÿÿÿJ$6212af3f-7709-4c36-b12f-c7ee81b5427b
+xpython:S1135—"4Complete the task associated to this "TODO" comment.(³ÿ´ÿÿÿÿÿJ$74c1294f-b194-4101-8965-5297cf9edb87
+{python:S1481÷"7Replace the unused local variable "to_update" with "_".(°­§øÿÿÿÿJ$0a259cca-f1a8-4a90-941a-a99a9338cce9
+ipython:S1172Ó"*Remove the unused function parameter "kw".(· ”J$07bffbc6-54b5-41ff-b7b0-c2b1fc7a8ff6
+“python:S3776Ê"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(ú¬ÅÍJ$fc0f76b5-2e69-4032-ad9e-45928d9d0ae2
+xpython:S1135Õ"4Complete the task associated to this "TODO" comment.(ÆŞ±ûÿÿÿÿJ$23d6e7cd-c4f4-44ed-93c7-57cc5bf0cc32
+mpython:S1172™".Remove the unused function parameter "ashint".(÷ÇªìJ$998933a9-e1d7-451e-8514-b94020337d20
+upython:S1172š"1Remove the unused function parameter "fromhints".(ÄÇ¥¹üÿÿÿÿJ$698dd24c-caaf-4efd-93cc-9e853eee3d3f
+“python:S3776•"TRefactor this function to reduce its Cognitive Complexity from 67 to the 15 allowed.(ÔÎ«ÒJ$fe98f4e5-dba6-499d-9e85-75aeeafa1344
+xpython:S1135˜ "4Complete the task associated to this "TODO" comment.(øÛçÃşÿÿÿÿJ$2d3d6bee-6381-4f6c-8e35-c8e11ae39402
+spython:S1135œ "4Complete the task associated to this "TODO" comment.(îĞ´ôJ$1ce2dbb8-3e38-4149-96a4-4d03561b843b
+“python:S1854˜!"TRemove this assignment to local variable 'enclosing_alias'; the value is never used.(ÏèåJ$a2cb9c5b-da73-4446-8a52-01e4c1601a33
+“python:S3776ë "TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(¬ÿ«°J$18c5724e-4836-4742-a7ee-38948adf75b0
+rpython:S1172×!".Remove the unused function parameter "asfrom".(ŸªŸúÿÿÿÿJ$9cbb9411-24ed-4d78-ad20-a7e94864875b
+kpython:S1172¸"",Remove the unused function parameter "stmt".(·ÒÈùJ$8527a13f-602b-4f77-911c-5ade4e33c397
+lpython:S1172Î"".Remove the unused function parameter "select".(®†ÉUJ$0f95b4a7-1d51-4444-841f-06b621467036
+˜python:S3776Ì""TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(¿ÙĞ§øÿÿÿÿJ$4d14210c-4646-445d-965e-f9296d2d6c93
+npython:S1172ò""/Remove the unused function parameter "objects".( ‹¬óJ$c1e5d23e-3180-46e1-8c10-348321da3408
+xpython:S1135¤#"4Complete the task associated to this "TODO" comment.(í†ÌËøÿÿÿÿJ$c9f1966e-dd14-4a87-8546-e1b19c624a47
+mpython:S1172ğ#".Remove the unused function parameter "iscrud".(èšÌJ$48e26f54-f31f-4e62-ba0b-3efc7f9b5167
+spython:S1172ö#"/Remove the unused function parameter "byfroms".(ñ‘„áúÿÿÿÿJ$ce2e71af-16b3-4919-b8f7-240808d9f208
+lpython:S1172ù#"-Remove the unused function parameter "table".(Èåİ‰J$2b839ccd-c157-4d45-84d5-e193f85e8dfb
+kpython:S1172ù#",Remove the unused function parameter "text".(Èåİ‰J$da68f53f-3546-48ee-b12e-dae7d932b4ea
+ppython:S1172ü#",Remove the unused function parameter "text".(äºó¶úÿÿÿÿJ$bf074123-e450-4a34-804d-dc9facc2c60c
+qpython:S1172ü#"-Remove the unused function parameter "table".(äºó¶úÿÿÿÿJ$f047b7ba-695b-4cf7-a887-3701dba50a36
+ipython:S1172Š$"*Remove the unused function parameter "kw".(íÁÍ¤J$145ed3b8-701b-4a63-aaaa-b24b17b432a0
+ppython:S1172²$"1Remove the unused function parameter "fromhints".(…ÆğJ$90597e64-c98a-4225-89dc-39beaae69eb3
+rpython:S1172¶$"3Remove the unused function parameter "from_linter".(¯ÀÈŠJ$565a570e-31eb-4ff7-adf2-19012eff7954
+’python:S3776­$"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(˜û¶J$b6c1c028-040f-48f1-b5a1-bb1beaf1cf85
+ypython:S1172¾&"5Remove the unused function parameter "compile_state".(£ì°ŠúÿÿÿÿJ$7509d088-c6af-40b0-a9e6-c28c55c86c93
+’python:S3776º&"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÂòÆJ$b6fb1013-fb71-490e-bf80-2b9dd87dbb44
+kpython:S1172™'",Remove the unused function parameter "stmt".(‹Ë¾øJ$05a9c33b-7132-4fbb-a4d9-d864b8ac13c6
+’python:S3776£'"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(™‹ì[J$77030cb8-37ff-4f53-9190-aca56fb31842
+ipython:S1172Ş'"*Remove the unused function parameter "kw".(—Å”»J$ba91e42b-0fa7-4795-913d-0339ecef286c
+rpython:S1172…(".Remove the unused function parameter "select".(›’–ÚûÿÿÿÿJ$c29a38f4-d1be-4157-8731-5aa10f6c3ab7
+npython:S1172…("*Remove the unused function parameter "kw".(›’–ÚûÿÿÿÿJ$777d85d4-d484-44f5-bf5e-95f8a979e1f3
+mpython:S1172å(".Remove the unused function parameter "kwargs".(¯êöÈJ$2b2a10e8-6bfb-4e2b-ba71-c5eff0df572d
+rpython:S1172‹)".Remove the unused function parameter "asfrom".(àµÑèúÿÿÿÿJ$f1c419f2-f3e9-4582-91b9-d1bd3f5b8ecb
+rpython:S1135£)"4Complete the task associated to this "TODO" comment.(Ù²«4J$b35c4ad7-6c59-4a3c-9f41-3fc89670f52e
+spython:S1135û)"4Complete the task associated to this "TODO" comment.(Ğö©æJ$4f0c6d37-8c80-4dd1-bf72-e9e987f1a50e
+˜python:S3776“*"TRefactor this function to reduce its Cognitive Complexity from 71 to the 15 allowed.(øŸ‡ˆùÿÿÿÿJ$0e02fb57-48bd-44c6-be2c-ccfb35623fad
+gpython:S1110,"#Remove those redundant parentheses.(‚âé¢ÿÿÿÿÿJ$823c91c4-18d9-4fd8-b190-cb845e17197d
+˜python:S3776î,"TRefactor this function to reduce its Cognitive Complexity from 99 to the 15 allowed.(ËÈÓúıÿÿÿÿJ$7c51f8ea-ebac-40f9-8660-3f60dc80b209
+python:S1226ï,"YIntroduce a new variable or use its initial value before reassigning 'visited_bindparam'.(¯êÑ£øÿÿÿÿJ$eba74d37-a34f-457f-bfac-366ea00c7fa6
+rpython:S1172à/"3Remove the unused function parameter "update_stmt".(†à¿ÁJ$e38ae6cf-8e79-48ba-8676-10b2d375d10c
+rpython:S1172ä/"3Remove the unused function parameter "update_stmt".(—¨ÁÕJ$b6eedf7d-289a-46ea-8eb7-d8f70fe40bb3
+rpython:S1172ä/"3Remove the unused function parameter "extra_froms".(—¨ÁÕJ$a67bcecc-592b-4813-bfe7-fa745e9cbbf7
+˜python:S3776ü/"TRefactor this function to reduce its Cognitive Complexity from 37 to the 15 allowed.(üÇÂíıÿÿÿÿJ$fefb62c3-13be-4711-a881-215c317d38ac
+wpython:S1172™1"3Remove the unused function parameter "delete_stmt".(ÕÌ§ÊúÿÿÿÿJ$28dbbf47-4318-4fdc-a90c-74afa3054270
+wpython:S1172™1"3Remove the unused function parameter "extra_froms".(ÕÌ§ÊúÿÿÿÿJ$4ee88895-9927-4ba2-8e75-ca7f09a10fc2
+“python:S37761"TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(š€ø»J$e758dbe2-5cfc-440d-9a45-af93d37d9a40
+xpython:S1135×1"4Complete the task associated to this "TODO" comment.(µˆ–ÁøÿÿÿÿJ$61206afb-097c-4518-88b5-0a430a2fee30
+npython:S11722"*Remove the unused function parameter "kw".(ÒêÿûøÿÿÿÿJ$c40dc30b-80a5-47eb-9420-5d74bb0d7ac1
+npython:S1172 2"*Remove the unused function parameter "kw".(½¦¶ìüÿÿÿÿJ$aae9b74b-db0a-4567-a525-21cb032f57ed
+npython:S1172¥2"*Remove the unused function parameter "kw".(Ä§ºÛøÿÿÿÿJ$d80f3a72-7bba-4407-bf12-75e2685196ac
+tpython:S1172Ğ2"0Remove the unused function parameter "operator".(ÓÉ‘úÿÿÿÿJ$fea5d878-d1f9-4bb2-b54f-e49e56647e16
+¬python:S4144±6"hUpdate this function so that its implementation is not identical to visit_check_constraint on line 6949.(ËÆöªûÿÿÿÿJ$76afc1ee-4f1a-45f5-b0cb-420dc49197ce
+mpython:S1172¸3".Remove the unused function parameter "kwargs".(±ÃÇŠJ$21422e62-6f38-4781-a680-4f0b1a85bb37
+npython:S1172Ë3"*Remove the unused function parameter "kw".(™”€ğûÿÿÿÿJ$e4e7b741-00be-4720-b5bf-307be0d73d13
+npython:S1172Ñ3"*Remove the unused function parameter "kw".(¢ò¤ÿÿÿÿÿJ$7c8108b7-eefa-43a2-b1c5-c2cf30fb0b47
+ipython:S1172Ú3"*Remove the unused function parameter "kw".(ÆË€‘J$225e8aaf-9194-4a66-97ce-63db1cc084dd
+npython:S11724"*Remove the unused function parameter "kw".(£Ï¹ŒúÿÿÿÿJ$4154be27-0fe7-4e21-9c6f-59e2ad2e8752
+npython:S11724"*Remove the unused function parameter "kw".(Õ¦±«øÿÿÿÿJ$214150f2-22e3-4f97-9161-def49f6f5386
+npython:S1172Â4"*Remove the unused function parameter "kw".(î˜†ÆÿÿÿÿÿJ$792b1460-287e-4835-8ae3-b80593258375
+ipython:S1172È4"*Remove the unused function parameter "kw".(şùÄŠJ$7d927f3a-63be-4391-bda9-342a884868a9
+npython:S1172Ò4"*Remove the unused function parameter "kw".(Ş©¬»ÿÿÿÿÿJ$8dfcce8f-9cc4-453c-8ac1-31d69891ea06
+npython:S1172ñ4"*Remove the unused function parameter "kw".(µ·š±şÿÿÿÿJ$4245df0c-4718-4c79-9603-339202d8c136
+ipython:S11725"*Remove the unused function parameter "kw".(¦ƒÊJ$53785bab-57c4-47d5-95b1-aeb5d879fc80
+ipython:S1172”5"*Remove the unused function parameter "kw".(Šº÷èJ$99ce45b4-0acf-4f6d-80e7-64d87c063d68
+npython:S1172œ5"*Remove the unused function parameter "kw".(Œ®Û¢ûÿÿÿÿJ$8c7182a1-9376-4818-8eba-d2f2db7e53da
+npython:S1172¡5"*Remove the unused function parameter "kw".(ø¨™£ùÿÿÿÿJ$864be079-70e4-4797-8501-a90fab90a3f1
+ipython:S1172«5"*Remove the unused function parameter "kw".(‰Õ²ÛJ$ffc89ba5-340f-4587-8ac6-8f3ecf07b2b3
+npython:S1172Ê5"*Remove the unused function parameter "kw".(•¡¼”øÿÿÿÿJ$449d28ca-164a-4e29-a00a-3da3770288e6
+ipython:S1172×5"*Remove the unused function parameter "kw".(¸ëâÅJ$135b29d3-772a-44ea-ac8e-95907534be79
+ipython:S1172İ5"*Remove the unused function parameter "kw".(êÂó J$54a21200-eebc-480e-9e8b-29cdc4e881a4
+mpython:S1172ğ5".Remove the unused function parameter "kwargs".(éÂÅJ$2d197480-0d6c-45b7-bd90-62ba8c5e8423
+qpython:S1172‹6"-Remove the unused function parameter "table".(¯·öùÿÿÿÿJ$8520971f-3ced-4471-98e5-a6b49195cbbe
+qpython:S11726"-Remove the unused function parameter "table".(„§¿ÇúÿÿÿÿJ$d7ff1e84-a995-4410-a544-d45f49d88055
+npython:S1172Ÿ6"*Remove the unused function parameter "kw".(ÂâÏùÿÿÿÿJ$13540f02-9330-4580-8f8a-fb3e6eaf060b
+ipython:S1172¥6"*Remove the unused function parameter "kw".(É¿ÿ“J$8a58fe59-ab61-45ec-923a-36a03ce4d86d
+npython:S1172±6"*Remove the unused function parameter "kw".(ËÆöªûÿÿÿÿJ$a49f399d-8531-484f-8f97-35dc9080021b
+hpython:S1172½6"*Remove the unused function parameter "kw".(±€ítJ$fc0c259f-25a5-464a-adcd-7caf67bf3b3b
+ipython:S1172Ñ6"*Remove the unused function parameter "kw".(†ğ‚²J$d0e3bc18-42fb-427b-a4f2-fa26cfd151df
+vpython:S1172é6"2Remove the unused function parameter "constraint".(»åÄ‰şÿÿÿÿJ$a5f10978-f84d-41ff-a802-6abab29a486b
+npython:S1172ı6"*Remove the unused function parameter "kw".(ß©æ—øÿÿÿÿJ$eb6b7e10-29b9-41c7-acb4-afe105c60e18
+vpython:S1172ı6"2Remove the unused function parameter "constraint".(ß©æ—øÿÿÿÿJ$e4050b38-ea6e-4c16-a42b-2181219d98c7
+npython:S1172Ÿ7"*Remove the unused function parameter "kw".(ƒÈÏ“ûÿÿÿÿJ$bb813b01-8371-46d7-af45-8e3d941d4877
+npython:S1172©7"*Remove the unused function parameter "kw".(ñÁ§àøÿÿÿÿJ$c097f6cc-d661-4010-b00c-9f198391739c
+²python:S1845™8"nRename method "visit_uuid" to prevent any misunderstanding/clash with method "visit_UUID" defined on line 7178(‘ˆÁ³üÿÿÿÿJ$81cc721b-48e8-4a83-8b12-b0601b05b342
+²python:S1845¢8"tRename method "visit_boolean" to prevent any misunderstanding/clash with method "visit_BOOLEAN" defined on line 7190(Ã¬º6J$4735a9c9-b14b-4fde-a548-d250e2d7a239
+²python:S1845¥8"nRename method "visit_time" to prevent any misunderstanding/clash with method "visit_TIME" defined on line 7144(‘·î¢ûÿÿÿÿJ$eac4ca21-7fe2-4bc0-954f-4aa2c1eb48ea
+µpython:S1845¨8"vRename method "visit_datetime" to prevent any misunderstanding/clash with method "visit_DATETIME" defined on line 7138(ˆÆ‘‡J$3aecfc29-03fc-40a1-a9c5-6094e570b214
+­python:S1845«8"nRename method "visit_date" to prevent any misunderstanding/clash with method "visit_DATE" defined on line 7141(áßËùJ$75229d40-ffda-4d5b-85b7-0dc410670456
+³python:S1845´8"tRename method "visit_integer" to prevent any misunderstanding/clash with method "visit_INTEGER" defined on line 7126(¹¡©ŠJ$82d92b18-6e37-480a-b916-bd1edbd7292d
+²python:S1845·8"nRename method "visit_real" to prevent any misunderstanding/clash with method "visit_REAL" defined on line 7101(üé¡ÓûÿÿÿÿJ$02d6b1af-aed8-4428-8eba-2d6259077efa
+¯python:S1845º8"pRename method "visit_float" to prevent any misunderstanding/clash with method "visit_FLOAT" defined on line 7092(ğÆÌÈJ$f8bff99d-7100-4c01-80aa-7508fd1eda8d
+°python:S1845½8"rRename method "visit_double" to prevent any misunderstanding/clash with method "visit_DOUBLE" defined on line 7095(¡ËJ$44e38f82-0c23-4f69-925b-f213700a10d2
+¸python:S1845À8"tRename method "visit_numeric" to prevent any misunderstanding/clash with method "visit_NUMERIC" defined on line 7104(ğ Ä¹úÿÿÿÿJ$22ca46af-9a5b-4302-9dc8-07a860bb5cce
+²python:S1845É8"nRename method "visit_text" to prevent any misunderstanding/clash with method "visit_TEXT" defined on line 7175(¯²ÉúÿÿÿÿJ$5968eef9-0570-4b98-b793-f458d81d9193
+spython:S1135:"4Complete the task associated to this "TODO" comment.(ßˆöüJ$46d1a825-4870-498e-bb88-b4fd5b15193c

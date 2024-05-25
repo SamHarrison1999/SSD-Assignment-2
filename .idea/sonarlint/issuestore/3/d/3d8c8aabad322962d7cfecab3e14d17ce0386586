@@ -1,0 +1,20 @@
+
+¥python:S1192À"aDefine a constant instead of duplicating this literal "colorama.ansitowin32.winapi_test" 3 times.(„Ì±ıÿÿÿÿJ$03b10018-dc21-42b9-96e1-36c74486b431
+¡python:S1192¿"]Define a constant instead of duplicating this literal "colorama.ansitowin32.os.name" 3 times.(½ÜÇòøÿÿÿÿJ$5018810c-9afd-4d29-9f01-e556bd49a947
+python:S117"[Rename this local variable "mockStream" to match the regular expression ^[_a-z][a-z0-9_]*$.(Œş°ãıÿÿÿÿJ$f21a80e8-b5af-4967-b49c-bdb4ed7d2f5d
+`python:S5906""Consider using "assertIs" instead.(šÔºJ$b27ef91f-63ba-446a-984e-d53e0a487c24
+›python:S117"^Rename this local variable "mockConverter" to match the regular expression ^[_a-z][a-z0-9_]*$.(Îò‘ÌJ$8fb7b779-426e-45f5-bb2f-bf23a69dc013
+python:S117"[Rename this local variable "mockStream" to match the regular expression ^[_a-z][a-z0-9_]*$.(Œş°ãıÿÿÿÿJ$e508c91b-714b-4819-a629-cfefc2b61d08
+›python:S117#"^Rename this local variable "mockConverter" to match the regular expression ^[_a-z][a-z0-9_]*$.(Îò‘ÌJ$c90d0a54-7a0d-41eb-84c4-f26d1e0669af
+›python:S117,"^Rename this local variable "mockConverter" to match the regular expression ^[_a-z][a-z0-9_]*$.(Îò‘ÌJ$b75b9e8a-b96f-4509-b938-c43723ab1300
+python:S117*"[Rename this local variable "mockStream" to match the regular expression ^[_a-z][a-z0-9_]*$.(µĞÔáûÿÿÿÿJ$2210faf1-24c6-4552-a029-76f54a26e770
+ipython:S1481-"+Remove the unused local variable "excinfo".(°ŒõÀJ$300efe17-cf8f-447a-9964-449f19c8b7ea
+gpython:S59065"$Consider using "assertTrue" instead.(Í©ùĞüÿÿÿÿJ$e9810aa2-c6f8-4f90-ab0d-5e33189176fa
+gpython:S5906;"$Consider using "assertTrue" instead.(Í©ùĞüÿÿÿÿJ$d455ba9b-159c-4eb6-8937-a830bdaf72e6
+python:S117@"[Rename this local variable "mockStdout" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘š·¼úÿÿÿÿJ$1d9076b5-882b-45d9-8554-1f31be9ecdf8
+python:S117J"[Rename this local variable "mockStdout" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘š·¼úÿÿÿÿJ$f66983f6-1ce1-4287-b6a8-7a1762af68f9
+python:S117P"[Rename this local variable "mockStdout" to match the regular expression ^[_a-z][a-z0-9_]*$.(£Ä¿´øÿÿÿÿJ$ce8c6919-d4da-4063-b465-1b85e5a9dc4d
+python:S117U"[Rename this local variable "mockStdout" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘š·¼úÿÿÿÿJ$ea5387b7-7bb9-4d8e-81e0-ffc3df4274cc
+python:S117a"[Rename this local variable "mockStdout" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘š·¼úÿÿÿÿJ$07557c97-b34c-4221-81f2-fc6096efb64b
+python:S117é"[Rename this local variable "mockStdout" to match the regular expression ^[_a-z][a-z0-9_]*$.(‘š·¼úÿÿÿÿJ$e091940a-834f-488b-a495-46d9062b7515
+python:S117ˆ"_Rename this local variable "SetConsoleMode" to match the regular expression ^[_a-z][a-z0-9_]*$.(ß‘şŞJ$adc27081-e641-4bcf-9305-a39aa8032bfc

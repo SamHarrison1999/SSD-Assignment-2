@@ -1,0 +1,10 @@
+
+’python:S116P"PRename this field "QueueCls" to match the regular expression ^[_a-z][_a-z0-9]*$.(ãîÄçşÿÿÿÿJ$be40efd2-4f10-4d06-b3a2-196ba0fd84a8
+Zpython:S2772 "Remove this unneeded "pass".(’“¡?J$a12f8530-8110-4cf2-af2b-4ef498e8cc00
+“python:S3776ü"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(À¦¸áJ$d5316091-d42b-4344-a2f4-bdc94a364445
+xpython:S1135È"4Complete the task associated to this "TODO" comment.(è®¿øÿÿÿÿJ$994f7738-b8d2-485a-a8d5-2de61c1c9351
+python:S107×"LMethod "urlopen" has 15 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$b1e6a5c2-c872-48b9-872f-9c01a4ab597d
+“python:S3776Ö"TRefactor this function to reduce its Cognitive Complexity from 42 to the 15 allowed.(ƒÆ¹J$6200aa83-20d1-4d98-89ba-5e5a7ad1577d
+›python:S5713Œ"WRemove this redundant Exception class; it derives from another which is already caught.(ÆÄ¶ÙûÿÿÿÿJ$efc6877d-9ae4-4c78-a418-b079f5cab915
+python:S107Û"MMethod "__init__" has 21 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$3b43a120-8ec3-47de-b9a8-1e08b11f7697
+spython:S1135Í"4Complete the task associated to this "TODO" comment.(©üİáJ$edbcff40-bf48-4255-8230-dcc0d1b8542a

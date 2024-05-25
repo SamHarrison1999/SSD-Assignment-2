@@ -1,0 +1,17 @@
+
+­python:S1192"iDefine a constant instead of duplicating this literal "[progress.description]{task.description}" 4 times.(ÑßçÁıÿÿÿÿJ$c91de6da-b02c-4cd0-9032-2dae591ba8a4
+ˆpython:S1192s"JDefine a constant instead of duplicating this literal "bar.pulse" 6 times.(ïªï˜J$188845a6-21ca-440d-94f9-d6657d7bd543
+python:S1192«"QDefine a constant instead of duplicating this literal "progress.elapsed" 3 times.(¶÷òJ$46ec7c87-c5fb-4e78-b5b5-20693c186997
+Œpython:S1192p"IDefine a constant instead of duplicating this literal "bar.back" 6 times.(™…ûşÿÿÿÿÿJ$f7ac586a-42c1-456d-9f83-7fa8127614e8
+‹python:S1192q"MDefine a constant instead of duplicating this literal "bar.complete" 6 times.(îÑÀ¬J$15a34d9e-fa72-42e0-b824-c6e04f56adc1
+python:S1192r"MDefine a constant instead of duplicating this literal "bar.finished" 6 times.(¸¬ÎÃıÿÿÿÿJ$1a99eb2e-a68c-481a-a668-29733ab64662
+Špython:S1192ª"KDefine a constant instead of duplicating this literal "Reading..." 8 times.(ùø§J$d19733f6-fd97-4ece-b36a-f52371b1f9d8
+‰python:S107h"LFunction "track" has 15 parameters, which is greater than the 13 authorized.(âú¢J$06e03962-95b2-4c26-b42e-c9466abfa616
+‰python:S107é"KFunction "open" has 18 parameters, which is greater than the 13 authorized.(…¤œJ$75317fbd-c388-4a80-8b24-0ff112b91336
+Ÿpython:S1186è"[Add a nested comment explaining why this function is empty, or complete the implementation.(îÓÓùÿÿÿÿJ$d5d1b83d-3dfe-474b-9e4a-8ee905a8a958
+‰python:S107‚"KFunction "open" has 18 parameters, which is greater than the 13 authorized.(…¤œJ$1d5a969f-70c0-49fd-8be8-9c3adc73cf7f
+Ÿpython:S1186"[Add a nested comment explaining why this function is empty, or complete the implementation.(îÓÓùÿÿÿÿJ$61ed2111-d95a-466b-812b-6ecd40400426
+‰python:S107š"KFunction "open" has 18 parameters, which is greater than the 13 authorized.(…¤œJ$0faab4b2-6da6-4087-a013-db5b65d34866
+‰python:S3457ã	"EAdd replacement fields or use a normal string instead of an f-string.(Õ³ ôùÿÿÿÿJ$87ac41c1-35bc-4cc1-b807-4b581a85df83
+python:S1186ï	"YAdd a nested comment explaining why this method is empty, or complete the implementation.(îÓÓùÿÿÿÿJ$87cea027-7098-4de0-b88a-020e6310b9b7
+python:S1186ÿ	"YAdd a nested comment explaining why this method is empty, or complete the implementation.(îÓÓùÿÿÿÿJ$3d8c90c6-c9ab-498e-b439-ce8960936a43

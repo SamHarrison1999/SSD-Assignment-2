@@ -1,0 +1,14 @@
+
+†python:S1192P"HDefine a constant instead of duplicating this literal r"[\n\t]" 4 times.(ÜŒŠèJ$1bbd6c59-5815-403c-b500-65fe0585610a
+spython:S1066­"/Merge this if statement with the enclosing one.(š¡†ÅşÿÿÿÿJ$66ada54f-2446-4011-b534-e1bc6c73c1fb
+œpython:S1186"YAdd a nested comment explaining why this method is empty, or complete the implementation.(µ¥÷’ûÿÿÿÿJ$176be08d-9d65-43d6-bcce-5f3b155eca15
+{python:S1172O"8Remove the unused function parameter "execute_observed".(±Î£ÍùÿÿÿÿJ$e93fee9c-61ae-4fcc-9e53-9077ae25b005
+{python:S1172S"8Remove the unused function parameter "execute_observed".(„Ü·¡şÿÿÿÿJ$cf3b54d3-51da-4721-8e6a-d94e262d7518
+apython:S125b"Remove this commented out code.(ÏŒ‘ŠÿÿÿÿÿJ$8b69c73b-7e59-4b53-aaad-32445edc651a
+˜python:S3776¢"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(µ¥÷’ûÿÿÿÿJ$0477523f-1ca5-4c64-a235-6bdbe908e62a
+wpython:S1172á"8Remove the unused function parameter "execute_observed".(©®öJ$ac9818ed-d82a-48ee-8d5a-42c233d62262
+|python:S1481"=Replace the unused local variable "received_params" with "_".(‹æ¥ÒJ$a8ed2fe4-5dec-482c-a3e9-515a3053389d
+xpython:S1135”"4Complete the task associated to this "TODO" comment.(“ôæ®üÿÿÿÿJ$5522d656-6d9a-4918-8b4b-c910b28bb2ff
+npython:S5869¨"*Remove duplicates in this character class.(îªÄÖúÿÿÿÿJ$1b3cc098-81eb-40a4-b966-61e471debc61
+mpython:S1172µ")Remove the unused function parameter "m".(çË‘ıÿÿÿÿJ$f4db25fc-c133-42fb-b8cf-2c30b15fa82b
+ipython:S5869¸"*Remove duplicates in this character class.(ŸòìüJ$ae72b26a-818e-48fa-9a3b-89de2a393624

@@ -1,0 +1,24 @@
+
+python:S1192¨"ZDefine a constant instead of duplicating this literal "This Connection is closed" 3 times.(¦“¡ÅıÿÿÿÿJ$266833c7-605d-47b0-a537-eb1c01dfdd64
+|python:S5754Ì"8Catch a more specific exception or reraise the exception(ê¥Ğ…úÿÿÿÿJ$21d7d203-60a8-4adf-9356-0e0eea4ba604
+|python:S5754ú"8Catch a more specific exception or reraise the exception(ê¥Ğ…úÿÿÿÿJ$1e8d9e3b-0f24-4bad-985f-4c0cb0c1dd50
+|python:S5754Ô"8Catch a more specific exception or reraise the exception(ê¥Ğ…úÿÿÿÿJ$01e0045e-6772-4959-8710-f7f694e51c44
+|python:S5754è"8Catch a more specific exception or reraise the exception(ê¥Ğ…úÿÿÿÿJ$9a953ed2-220b-46f9-818a-df573a8e8171
+|python:S5754ù"8Catch a more specific exception or reraise the exception(ê¥Ğ…úÿÿÿÿJ$a7601bed-99e0-4439-ac24-1bcb62004c81
+|python:S5754œ	"8Catch a more specific exception or reraise the exception(ê¥Ğ…úÿÿÿÿJ$be76098e-9411-4bd7-afe9-15f78966c8fc
+|python:S5754¨	"8Catch a more specific exception or reraise the exception(ê¥Ğ…úÿÿÿÿJ$e9acba83-72e3-4a0d-b303-bce270aa40a1
+|python:S5754µ	"8Catch a more specific exception or reraise the exception(ê¥Ğ…úÿÿÿÿJ$64c26131-7ed2-4448-af23-6aad1027b291
+|python:S5754¿	"8Catch a more specific exception or reraise the exception(ê¥Ğ…úÿÿÿÿJ$5cd124fb-6dec-40f9-bfca-66d0b50e26eb
+|python:S5754Æ"8Catch a more specific exception or reraise the exception(ê¥Ğ…úÿÿÿÿJ$8786e453-e37b-46dd-86c0-57ff8b8f7b48
+|python:S5754œ"8Catch a more specific exception or reraise the exception(ê¥Ğ…úÿÿÿÿJ$12832c48-a23c-4c84-96d2-43c2331fe962
+˜python:S3776º"TRefactor this function to reduce its Cognitive Complexity from 56 to the 15 allowed.(º£ÿÿÿÿÿJ$eef15371-5446-44e1-901b-e90ebed7f7b7
+|python:S5754Í"8Catch a more specific exception or reraise the exception(ê¥Ğ…úÿÿÿÿJ$84c0f1d1-034e-4309-a77a-50933ad9ccc7
+|python:S5754Á"8Catch a more specific exception or reraise the exception(ê¥Ğ…úÿÿÿÿJ$d86e2e7b-97d2-47fc-bab8-d8c4fe8a75ef
+“python:S3776È"TRefactor this function to reduce its Cognitive Complexity from 47 to the 15 allowed.(É­çõJ$2d1851ca-b333-4e65-9546-3e3cd86c21dc
+|python:S5754ÿ"8Catch a more specific exception or reraise the exception(ê¥Ğ…úÿÿÿÿJ$388d0702-191e-4507-aa27-5bdb7a24ec4b
+|python:S5754Ë"8Catch a more specific exception or reraise the exception(ê¥Ğ…úÿÿÿÿJ$652b95e5-8ee1-4df5-a4f4-ff08d4ed158d
+|python:S5754ê"8Catch a more specific exception or reraise the exception(ê¥Ğ…úÿÿÿÿJ$bf46698a-9412-400e-a1bb-bd15596cb5f5
+|python:S5754•"8Catch a more specific exception or reraise the exception(ê¥Ğ…úÿÿÿÿJ$c701104c-c098-4a9c-b21e-b842ceb7e48c
+“python:S3776¯"TRefactor this function to reduce its Cognitive Complexity from 44 to the 15 allowed.(´éñÿJ$bef4942b-ba90-47ab-af70-7a7ac9984979
+˜python:S3776Á"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(Şå‹»ıÿÿÿÿJ$e81d6e37-70a8-4d31-8164-3dfbf984d3d8
+“secrets:S6698Ó"SMake sure this PostgreSQL database password gets changed and removed from the code.(—„‘€J$789e64b6-dd7b-4e00-92ff-99203708683a

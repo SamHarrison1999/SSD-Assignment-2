@@ -1,0 +1,7 @@
+
+python:S107ˆ"MMethod "__init__" has 14 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$88cb2c7b-fad9-4284-8f3d-cad62a42d7bb
+‘python:S107¯"NMethod "from_path" has 15 parameters, which is greater than the 13 authorized.(ÎÉ½ĞÿÿÿÿÿJ$fe00a849-6adb-4fe8-ae48-5d939e9f40d4
+˜python:S3776Ä"TRefactor this function to reduce its Cognitive Complexity from 53 to the 15 allowed.(¡•‚ÎşÿÿÿÿJ$dcd609c0-ec15-4218-bd96-e92a7cb31ad8
+œpython:S117Ä"YRename this local variable "_Segment" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷˜ûÿÿÿÿJ$e5b5755f-5c8b-4ceb-b8d0-21fc41053162
+“python:S3776õ"TRefactor this function to reduce its Cognitive Complexity from 52 to the 15 allowed.(’µ¿åJ$9083e70a-cf29-4232-943b-173f6297f131
+ˆpython:S3358€"IExtract this nested conditional expression into an independent statement.(½ôÖJ$717decf7-e8fa-4486-9c99-7c2d6607865f

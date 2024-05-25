@@ -1,0 +1,28 @@
+
+’python:S1192´"SDefine a constant instead of duplicating this literal "(await auto_await(" 4 times.(ÚéëîJ$d03c68d2-ea22-4b94-ac67-153a8c3bfd3d
+…python:S1192”"FDefine a constant instead of duplicating this literal "else:" 3 times.(Ø•æJ$9793175c-d2a0-4c7b-9d26-fa0408d9a8b9
+†python:S1192©"GDefine a constant instead of duplicating this literal "yield " 4 times.(¹ß¦¤J$fbaee1d7-441c-41fe-b88f-4f489738650e
+spython:S1066½"/Merge this if statement with the enclosing one.(îÜ™ÒıÿÿÿÿJ$6e9840f2-d5d5-4ee1-8b2f-dfb144c97128
+“python:S3776á"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(†ŸÇıJ$b849f9a0-fe7d-4bd0-b08c-d821185357d3
+gpython:S108Ì")Either remove or fill this block of code.(ã‘Û¾J$11a6143b-4a03-4c84-be20-3ffbde6720cd
+˜python:S3776æ"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(€Ş¿êûÿÿÿÿJ$14ac8e13-24fb-4ea2-8d9b-530a14c3f967
+lpython:S1172¹"-Remove the unused function parameter "frame".(¿”¶J$74ed2b35-e6d0-4408-b17f-a2844b458562
+“python:S3776"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(ÊéøJ$c89be396-e48d-4b69-9b57-296fa82167a7
+opython:S5806”"+Rename this variable; it shadows a builtin.(ÎéÔüÿÿÿÿJ$5ae5403d-1754-4086-8666-7026b89837cf
+dpython:S6659œ" Use `not` and `startswith` here.(µ™üÿÿÿÿJ$8606beee-515a-4548-80c1-309e2e9c6d3e
+“python:S3776½"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(ñà¬ÖJ$1905f658-902a-444d-8796-0a267f89af46
+“python:S3776Ö"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(æİÜJ$55e99cbd-cf2a-41b9-bc6c-adf45d8dbdd4
+“python:S3776ˆ	"TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(ˆ¡“ìJ$0fd192aa-d8f4-41aa-b22d-b3da55292b51
+kpython:S1172°",Remove the unused function parameter "node".(·ªÒöJ$c01b73b8-db4c-4326-9e79-cbb88fca4d8b
+lpython:S1172À"-Remove the unused function parameter "frame".(·ªÒöJ$f40a9ce1-a49a-442f-887e-5a15af430afa
+kpython:S1172À",Remove the unused function parameter "node".(·ªÒöJ$aeb4e293-acf9-4528-85da-41cb816bbff0
+˜python:S3776Ê"TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(­ŒüãúÿÿÿÿJ$0abfb8d3-dfec-4e9d-90a4-d0b0bddcddff
+qpython:S1172İ"-Remove the unused function parameter "frame".(™ÇßøÿÿÿÿJ$5375636c-294c-446e-8557-44d4ccdbee29
+lpython:S1172â"-Remove the unused function parameter "frame".(¿Â‚ŠJ$0afb6a78-cb36-4fff-8d32-dbaf60777e93
+lpython:S1172æ"-Remove the unused function parameter "frame".(à¨¿¦J$885f4134-1a38-4ad6-bfc6-f4728e91876c
+qpython:S1172é"-Remove the unused function parameter "frame".(ƒ¤ëîùÿÿÿÿJ$c887c294-b4e9-4094-bedd-97e84ff97d4a
+ppython:S1172í",Remove the unused function parameter "node".(›çÈ“úÿÿÿÿJ$a9dbcde4-3321-4a92-95c3-d8af2fd1d7af
+qpython:S1172í"-Remove the unused function parameter "frame".(›çÈ“úÿÿÿÿJ$e284806f-0edd-4a36-94ac-3b70964e5cf6
+kpython:S1172ò",Remove the unused function parameter "node".(Â£óÇJ$0cb87b17-7b9f-4fc6-b634-d18beba48b55
+qpython:S1172ö"-Remove the unused function parameter "frame".(–ûÕøÿÿÿÿJ$5ba3cf16-6de4-487f-b94e-3d43894d203a
+lpython:S1172ù"-Remove the unused function parameter "frame".(±ÕJ$2948604d-584f-4e74-b9b5-d3dbcda22726

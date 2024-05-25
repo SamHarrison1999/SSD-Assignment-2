@@ -1,0 +1,4 @@
+
+Љpython:S1542М"KRename function "onMsg" to match the regular expression ^[a-z_][a-z0-9_]*$.(ИМЫХJ$0fd41744-de11-40fa-b6fb-118d9612cef6
+Џpython:S1542Р"KRename function "onErr" to match the regular expression ^[a-z_][a-z0-9_]*$.(ФясГъяяяяJ$aa9e0f8c-d657-47bf-a1b5-844a2bd71140
+“python:S3776н"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ЛХЊ­J$ed6bf0af-7349-4a03-ad6a-3463a1b42fc3

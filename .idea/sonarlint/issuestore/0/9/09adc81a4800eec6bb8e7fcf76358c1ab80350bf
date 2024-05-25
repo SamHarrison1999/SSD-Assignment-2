@@ -1,0 +1,5 @@
+
+python:S107H"MMethod "__init__" has 14 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$882f7668-090f-4b1d-9574-544de17084ea
+—python:S3776G"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ú„ÚüùÿÿÿÿJ$40a89b76-36ea-472f-a6ea-a2e1ed978a14
+‹python:S1134ò"LTake the required action to fix the issue indicated by this "FIXME" comment.(Ë™ËÆJ$be8b280e-e8c4-4955-877a-06c73fc5b298
+jpython:S5806"+Rename this variable; it shadows a builtin.(³‡¼´J$9d09f583-ad63-403a-9a6b-a06e95e09a13

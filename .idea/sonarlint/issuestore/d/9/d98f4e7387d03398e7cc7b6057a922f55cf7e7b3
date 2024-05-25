@@ -1,0 +1,15 @@
+
+µpython:S101'"sRename class "AsyncAdapt_asyncmy_cursor" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ÅŒŒ›øÿÿÿÿJ$a5f6bcc9-8a2d-4904-8475-f9a3e949451a
+qpython:S1135("4Complete the task associated to this "TODO" comment.(Ë¢dJ$bcabbadc-41cd-410d-b24a-243dc93a0cb4
+—python:S1186v"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ƒ‘ÉÔJ$aa4e2690-7e4e-4773-80ee-a34892344919
+¹python:S101‘"vRename class "AsyncAdapt_asyncmy_ss_cursor" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(±¹ ±ûÿÿÿÿJ$31fb281d-b7ad-4e0c-9608-3fadd831d932
+rpython:S1135’"4Complete the task associated to this "TODO" comment.(Ë¢dJ$8d987943-538a-479e-83f3-61ebe1dfbc49
+µpython:S101±"wRename class "AsyncAdapt_asyncmy_connection" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(¥ªÑ¡J$57245bd3-bdce-41aa-a337-2e45f3589dec
+rpython:S1135²"4Complete the task associated to this "TODO" comment.(Ë¢dJ$c82c6656-61ed-4e5b-b4f4-2e4f3180b607
+½python:S101è"Rename class "AsyncAdaptFallback_asyncmy_connection" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(äùªªJ$52009e1a-dfcd-403a-a660-911e807cb52b
+‘python:S1542î"MRename function "_Binary" to match the regular expression ^[a-z_][a-z0-9_]*$.(•½³¾şÿÿÿÿJ$a107f66f-5e9c-4b5b-9d93-987e8932f8eb
+§python:S1845"cRename field "Binary" to prevent any misunderstanding/clash with field "BINARY" defined on line 267(ûª®ûÿÿÿÿJ$59bb5193-2d90-49ca-8585-9583c8a02b52
+‘python:S116"NRename this field "Binary" to match the regular expression ^[_a-z][_a-z0-9]*$.(ûª®ûÿÿÿÿJ$b82bea42-64b1-4fa9-a8f9-1682f063cea1
+°python:S101ó"rRename class "AsyncAdapt_asyncmy_dbapi" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ç–Î¤J$d645a768-e8d5-4a9d-8255-fe2403e7594e
+±python:S101 "nRename class "MySQLDialect_asyncmy" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(•Ë¤„üÿÿÿÿJ$93b2db37-f738-4ad5-ae1d-c7d2f36c8eac
+Îpython:S2638º"‰Add missing parameters _translate_args. This method overrides sqlalchemy.dialects.mysql.pymysql.MySQLDialect_pymysql.create_connect_args.(©Á•üÿÿÿÿJ$9c5c49ee-be9c-4f81-bc67-daa74d115364

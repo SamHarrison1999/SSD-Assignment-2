@@ -1,0 +1,13 @@
+
+‘python:S1192O"SDefine a constant instead of duplicating this literal "ColumnElement[Any]" 3 times.(¼£ĞÿJ$d99ebb2a-90e0-4bc2-8623-7d3982f3f85d
+špython:S1192•"VDefine a constant instead of duplicating this literal "SQLCoreOperations[_T]" 3 times.(ğ²ûÿÿÿÿJ$26564ee3-f210-4235-a093-5abc067a572f
+–python:S1192"RDefine a constant instead of duplicating this literal "ColumnElement[_T]" 3 times.(«ÖµÿûÿÿÿÿJ$e0a7e982-3d0c-41c5-b33e-5c5b6e43675a
+python:S1542ˆ"NRename function "Nullable" to match the regular expression ^[a-z_][a-z0-9_]*$.(°¥ØåJ$ac919986-3a37-4981-ad8e-ff1e768a659e
+python:S1542"NRename function "Nullable" to match the regular expression ^[a-z_][a-z0-9_]*$.(°¥ØåJ$5d78a7ec-67fa-4f0b-b0d0-4dbdee9c192b
+’python:S1542”"NRename function "Nullable" to match the regular expression ^[a-z_][a-z0-9_]*$.(Ÿ¢è›úÿÿÿÿJ$72bb91ad-95cc-47e2-9f2e-c8e0f758fb3f
+python:S1542—"NRename function "Nullable" to match the regular expression ^[a-z_][a-z0-9_]*$.(°¥ØåJ$3501979b-8f4d-486a-a6fc-7ca87356df07
+python:S1542ª"QRename function "NotNullable" to match the regular expression ^[a-z_][a-z0-9_]*$.(…œJ$2e161c69-af00-43dc-a136-bacebb37d790
+python:S1542°"QRename function "NotNullable" to match the regular expression ^[a-z_][a-z0-9_]*$.(…œJ$75dca082-ebc6-4c66-a894-c01d3f33b4b7
+•python:S1542¶"QRename function "NotNullable" to match the regular expression ^[a-z_][a-z0-9_]*$.(„ø›ıÿÿÿÿJ$7ba5f994-cd16-4ec0-87bb-66c067a049ca
+python:S1542º"QRename function "NotNullable" to match the regular expression ^[a-z_][a-z0-9_]*$.(èÍ‘ÃJ$0da3158b-3c02-4fb4-8bc0-06759713e2c3
+python:S1542½"QRename function "NotNullable" to match the regular expression ^[a-z_][a-z0-9_]*$.(…œJ$ba36158a-4af5-4329-9b1a-6f66eeab52d7

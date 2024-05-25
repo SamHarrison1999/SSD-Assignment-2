@@ -1,0 +1,7 @@
+
+¹python:S101c"wRename class "MySQLExecutionContext_mysqldb" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(Üƒ¿óùÿÿÿÿJ$d598a7e6-fd69-421f-bf5c-cc0eedf02400
+±python:S101g"oRename class "MySQLCompiler_mysqldb" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(¼§ÒîÿÿÿÿÿJ$6e90512f-016c-402d-985d-44e4419d7eec
+«python:S101k"nRename class "MySQLDialect_mysqldb" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ÁÍJ$0066d3ac-1a77-45bd-ad13-ad4df44e5ccc
+wpython:S1172"8Remove the unused function parameter "dbapi_connection".(á€»ÖJ$6fc2ff06-1bc0-4a90-9f83-f1e115bab537
+’secrets:S6697."NMake sure this MySQL database password gets changed and removed from the code.(¥”­ÚùÿÿÿÿJ$0c30ecd4-efea-4394-ab62-a534c7c826cf
+secrets:S6697>"NMake sure this MySQL database password gets changed and removed from the code.(‰ÏÔéJ$8d22dd04-ca49-4bdb-bf5c-0e77dc582d4e

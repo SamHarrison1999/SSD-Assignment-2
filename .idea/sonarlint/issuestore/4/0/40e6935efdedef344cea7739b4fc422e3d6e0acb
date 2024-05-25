@@ -1,0 +1,24 @@
+
+˜python:S117Í"ZRename this local variable "cx_Oracle" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÅæØıJ$4460fec0-6f72-427d-8901-9dd36065a035
+˜python:S117÷"ZRename this local variable "cx_Oracle" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÅæØıJ$f831a222-2ef6-470d-8703-a779d22e1355
+“python:S3776ö"TRefactor this function to reduce its Cognitive Complexity from 33 to the 15 allowed.(ÛğJ$309ba58b-11eb-4595-b694-3bb630bbad72
+–python:S3923ü"RRemove this if statement or edit its code blocks so that they're not all the same.(Ÿ»ÛˆşÿÿÿÿJ$2d4b9905-f050-4dfc-b9d2-58a10ab329d7
+«python:S101²"mRename class "_OracleBINARY_FLOAT" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(®µ J$5045c69d-c7a2-46da-89f1-1d766045cf05
+¬python:S101¶"nRename class "_OracleBINARY_DOUBLE" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(äìœıJ$0f70c373-8430-496f-8675-289c3ae562ae
+xpython:S1135Õ"4Complete the task associated to this "TODO" comment.(Ì·¸ªùÿÿÿÿJ$83090eb3-336d-4c4f-8670-e3e2c1df98f2
+µpython:S101¶"rRename class "OracleCompiler_cx_oracle" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(Ï³˜ŠÿÿÿÿÿJ$c517242f-124f-4ac6-b19a-498561bc9df8
+xpython:S1135å"4Complete the task associated to this "TODO" comment.(«Ù¡˜ÿÿÿÿÿJ$81dbac53-0a69-4ad0-a894-1d9ec9cf5687
+¸python:S101ı"zRename class "OracleExecutionContext_cx_oracle" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(‚ “J$c0bb04df-0cd4-411e-8478-335d738edc1e
+python:S117–"ZRename this local variable "cx_Oracle" to match the regular expression ^[_a-z][a-z0-9_]*$.(ó¦‡üÿÿÿÿJ$3c70e83b-d508-4e80-82de-1b19265d4400
+’python:S3776€"TRefactor this function to reduce its Cognitive Complexity from 36 to the 15 allowed.(ÙñákJ$2706db77-8e05-4be4-9197-b251265cbe90
+¯python:S101Ì"qRename class "OracleDialect_cx_oracle" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(µáíJ$cf58a84c-0033-4f40-b94a-0c72b55a8dff
+]python:S125»"Remove this commented out code.(ùœü‰J$cae7d381-dc26-4da6-877e-c2f4d1cb0e9b
+špython:S117ª	"WRename this parameter "defaultType" to match the regular expression ^[_a-z][a-z0-9_]*$.(¥öƒçıÿÿÿÿJ$a4652b30-b6f4-4e02-a16c-b20a5254e684
+˜python:S117Ó	"ZRename this local variable "cx_Oracle" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÅæØıJ$8263e0d7-9a61-4914-afc1-dea4d5e6df75
+˜python:S3776Ì	"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ğÖ‘£ùÿÿÿÿJ$01c907ac-aca7-41a8-a53e-68c45d8c2a0c
+˜python:S3776¨
+"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(©Á•üÿÿÿÿJ$4923282b-e850-4175-bf4d-f1b12bc1afac
+xpython:S1135ƒ"4Complete the task associated to this "TODO" comment.(‹ä§şÿÿÿÿJ$ac83486d-cbed-4111-af2f-a73aee0353f5
+xpython:S1135Œ"4Complete the task associated to this "TODO" comment.(°¾¹ ÿÿÿÿÿJ$44431f27-b11b-46b9-a3de-933ba0e12984
+xpython:S1135­"4Complete the task associated to this "TODO" comment.(“ÖØÕúÿÿÿÿJ$da33aa7e-e03a-4779-9946-dc036cdf1884
+xpython:S1135¼"4Complete the task associated to this "TODO" comment.(“ÖØÕúÿÿÿÿJ$a21a8659-f832-47d7-b0fb-0ad248178ad7

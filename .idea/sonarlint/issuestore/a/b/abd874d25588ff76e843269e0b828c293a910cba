@@ -1,0 +1,13 @@
+
+®python:S1845­"oRename method "visit_FLOAT" to prevent any misunderstanding/clash with method "visit_float" defined on line 643(ÕôôÀJ$9016cc85-8ff4-43a3-8563-b6cefcc07b87
+•python:S4487¡"VRemove this unread private attribute '__wheres' or refactor the code to use its value.(…âÊ–J$07c1abef-4a53-4d80-b7fc-0094f7804727
+“python:S3776ð"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(‹¼ÄËJ$205dc117-fda3-49aa-9cd2-6ee3636ab4dd
+“python:S3776‚"TRefactor this function to reduce its Cognitive Complexity from 81 to the 15 allowed.(¶ ÒìJ$331cd55a-75b7-4af1-b3d9-5c517e19924c
+–python:S3923Ó"RRemove this if statement or edit its code blocks so that they're not all the same.(¬ˆ¼ÄûÿÿÿÿJ$da10f5fe-6335-4aa3-9ff4-de6699d6c70d
+{python:S5754â"<Specify an exception class to catch or reraise the exception(ˆÊÉ·J$fa8aed90-1f77-413d-b796-6e9130ff0e7b
+{python:S5754—"<Specify an exception class to catch or reraise the exception(ˆÊÉ·J$291c66ef-4048-4b6c-bdaf-064fcbcd718c
+˜python:S3776¤"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(“°øÅúÿÿÿÿJ$b0d2c3c0-bb20-4f81-b4f8-0f332ca83367
+“python:S3776 "TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(Ë¹ý¤J$afcce280-a04e-4b55-a5bb-f87ec0e968a9
+˜python:S3776Ñ"TRefactor this function to reduce its Cognitive Complexity from 41 to the 15 allowed.(æ¦ŒÄüÿÿÿÿJ$fdc8a444-f6c9-43d4-a5bb-0feeeef10434
+“python:S3776Ñ"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(‰´Ï¸J$8c715c78-2486-43d8-bbe0-acec2553d6d6
+“python:S3776¾"TRefactor this function to reduce its Cognitive Complexity from 47 to the 15 allowed.(­™¾·J$9d5202ea-4e2f-42f5-b9d5-2df247051911

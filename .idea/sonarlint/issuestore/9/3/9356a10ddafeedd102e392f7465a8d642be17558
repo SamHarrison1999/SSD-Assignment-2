@@ -1,0 +1,13 @@
+
+ipython:S1172Ä"*Remove the unused function parameter "kw".(ûáÂJ$cae908d5-f319-4e5b-8e02-6ebc7365abf0
+˜python:S1186Ç"YAdd a nested comment explaining why this method is empty, or complete the implementation.(üËÄJ$6257b5f8-163d-4a06-ac56-947fbbfacdc2
+xpython:S1135È"4Complete the task associated to this "TODO" comment.(ô—Ë²ıÿÿÿÿJ$b5aea6ad-4848-47ee-a04e-0d75c228578e
+xpython:S1135Ì"4Complete the task associated to this "TODO" comment.(ñİ°ºıÿÿÿÿJ$f6348e05-1ce1-422e-8657-6903ce9f5f4a
+rpython:S1135Ô"4Complete the task associated to this "TODO" comment.(ö¨—?J$9e1db947-4f56-451f-ba99-07864167ede6
+ipython:S1172ä"*Remove the unused function parameter "kw".(ŠşƒJ$5fc0cc7f-af6b-418e-b6b1-a02b99237283
+™python:S107€	"VMethod "execution_options" has 18 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$cbadfe52-9994-4735-a8e0-0dd196250d6e
+ypython:S2836æ"5Add a "break" statement or remove this "else" clause.(³£œ‰øÿÿÿÿJ$9af204a7-35f1-4e8c-8bce-e6525de089d1
+˜python:S3776’"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(Û‚µîıÿÿÿÿJ$6dfc1d9c-e393-4960-ba45-1980fbb4277e
+xpython:S1135³"4Complete the task associated to this "TODO" comment.(ô—Ë²ıÿÿÿÿJ$9544ac2c-fe8c-4602-bfa9-7e9799a90970
+˜python:S3776é"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(ÅÅ–ÂøÿÿÿÿJ$4b06d270-b7fb-4260-aca7-e9718c29b016
+ypython:S2836ï"5Add a "break" statement or remove this "else" clause.(³£œ‰øÿÿÿÿJ$a4fc15fa-51c9-4b26-8cc8-e3b48026883b

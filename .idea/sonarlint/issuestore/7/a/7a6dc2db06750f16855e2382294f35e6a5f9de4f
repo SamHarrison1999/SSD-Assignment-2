@@ -1,0 +1,28 @@
+
+˜python:S3776Ü"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(ËÃ¥şÿÿÿÿJ$cd6ba8c5-105a-4a82-9261-5708898dd5dd
+python:S1226Ü"JIntroduce a new variable or use its initial value before reassigning 'fn'.(ËÃ¥şÿÿÿÿJ$5269b2cf-1d89-4c11-b48a-74410c1fd807
+xpython:S1135ü"4Complete the task associated to this "TODO" comment.(àÀ°œıÿÿÿÿJ$bc202899-6c6f-4fe1-8828-e9f9e4084752
+xpython:S1135á"4Complete the task associated to this "TODO" comment.(äˆĞ’øÿÿÿÿJ$36ec655c-827b-43fa-824c-dfeda746f39c
+spython:S1135ğ"4Complete the task associated to this "TODO" comment.(Ãæ™ºJ$eb768a34-5acf-4d5b-b78d-b5c9154ba316
+—python:S4144´"XUpdate this function so that its implementation is not identical to __add__ on line 687.(Ë¶Œ¶J$9bc9d466-dbf7-48dd-a184-90f439edac16
+xpython:S1135ì"4Complete the task associated to this "TODO" comment.(¶•ÛıÿÿÿÿJ$7ad4fec1-7151-49fa-92d2-78ea2ee584f7
+ppython:S1172Ş",Remove the unused function parameter "opts".(×¯ÕšøÿÿÿÿJ$ff0bdb63-cab7-48ab-9f17-ff69fb02d836
+xpython:S1135‰"4Complete the task associated to this "TODO" comment.(¢ùæ˜şÿÿÿÿJ$ee424608-d05d-41dd-8961-ad2170490dd4
+kpython:S1172Ÿ",Remove the unused function parameter "name".(öƒ–üJ$fd2d559f-7b9c-4235-a816-84d53a62511e
+npython:S1172º"/Remove the unused function parameter "closure".(«Á€¾J$f5280c40-06dd-4fe9-baaa-1ff7739c7ac6
+npython:S1172Â"/Remove the unused function parameter "closure".(«Á€¾J$afdcdda4-8b7e-4865-a9bd-1caf89ed6e10
+qpython:S1172Ç"2Remove the unused function parameter "bindparams".(«Á€¾J$e5a228b5-50fb-4d47-9ce7-76740aecebf7
+opython:S1172Ç"0Remove the unused function parameter "anon_map".(«Á€¾J$0259392b-05fa-4647-840c-e6159e0b5356
+npython:S1172Ç"/Remove the unused function parameter "closure".(«Á€¾J$594e839d-7910-4ba6-938e-aca0cb6f8eb1
+“python:S3776Ì"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(·Æ«¶J$9bb2e168-39bd-48bc-9a40-cf6ff183852b
+kpython:S1172Ü",Remove the unused function parameter "opts".(«Á€¾J$27f682be-4561-4327-8d6a-e9b2c9f0baf4
+qpython:S1172é"2Remove the unused function parameter "bindparams".(«Á€¾J$4ce2233f-d454-40fd-af67-26a5f9639195
+opython:S1172é"0Remove the unused function parameter "anon_map".(«Á€¾J$3817d1e9-cf1d-434e-a5a2-3c8d9cb566c9
+kpython:S1172é",Remove the unused function parameter "opts".(«Á€¾J$79ce0993-be62-4763-812e-edec87c906c5
+kpython:S1172î",Remove the unused function parameter "opts".(«Á€¾J$4f53a00b-b5b4-434f-ba68-ed6cb4f58259
+python:S1854	"IRemove this assignment to local variable 'bind'; the value is never used.(æ„ÇüıÿÿÿÿJ$1cfaed86-8626-4236-a4dd-9f12399c5c8c
+spython:S1135±
+"4Complete the task associated to this "TODO" comment.(É¡ì¸J$fdfd8d8b-b779-4bcb-ba72-58423f989f79
+npython:S1172Û
+"*Remove the unused function parameter "kw".(îßé¹ÿÿÿÿÿJ$1dab6bb5-996d-4402-96f8-dabf65adabd1
+spython:S1135‹"4Complete the task associated to this "TODO" comment.(ÄûâåJ$b2e33a8d-cd21-433b-b20b-73d149e56d08

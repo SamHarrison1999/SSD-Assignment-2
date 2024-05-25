@@ -1,0 +1,11 @@
+
+spython:S1066¹"/Merge this if statement with the enclosing one.(¿ÙåùÿÿÿÿJ$163a609b-d55b-4278-80df-0f9860bd9876
+npython:S1066…"/Merge this if statement with the enclosing one.(µÔñ£J$c0001da5-6d04-4fed-98d7-0a121c1eaf84
+python:S107»"MMethod "__init__" has 26 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$8166c268-ab42-4651-879f-3a42170c0a3f
+“python:S3776…"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(‚ôÌ€J$86a30205-c99c-40c6-8327-c6b80ace4b20
+˜python:S3776Æ"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(©¡èŞıÿÿÿÿJ$d66ba53f-e1b1-405b-9e76-8819dd95e6bb
+œpython:S117¦"YRename this local variable "_Padding" to match the regular expression ^[_a-z][a-z0-9_]*$.(Òš¢ÖøÿÿÿÿJ$6969dff8-65d3-452c-9f07-734f42b87ac1
+˜python:S3776ì"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.(”×ŞıÿÿÿÿJ$0b1dcbc3-74bf-4b5c-84e3-63fc3c356a07
+œpython:S117‚"YRename this local variable "_Segment" to match the regular expression ^[_a-z][a-z0-9_]*$.(÷˜ûÿÿÿÿJ$fc611c1a-5965-480a-ac99-44098afe0986
+˜python:S3776å"TRefactor this function to reduce its Cognitive Complexity from 97 to the 15 allowed.(Ù‚ñœøÿÿÿÿJ$4dc4693e-72eb-460f-899d-b7f79889b6af
+ˆpython:S3358å"IExtract this nested conditional expression into an independent statement.(ØÌËˆJ$7e24e43b-5389-4850-84f2-571b2bf0ca2d

@@ -1,0 +1,23 @@
+
+python:S5644·"JFix this code; "StrategizedProperty" does not have a "__getitem__" method.(ÆÔÖùıÿÿÿÿJ$c00d6bde-7677-466e-9ff0-5301369ba539
+python:S107ï"MMethod "__init__" has 36 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$6c0133ed-6371-4d85-b418-1bb73e02da7e
+˜python:S3776ÿ"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(¥şßöûÿÿÿÿJ$93b98e5c-e9a0-4a25-bebc-1cb2fbaee92b
+˜python:S3776“	"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(÷ÑÏ‹úÿÿÿÿJ$d1f8d11c-369f-4033-ac56-cc2a9c56b773
+“python:S3776Û
+"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(Õõ‚¥J$35f4030e-ed01-4032-b6f4-cc5d77383e0a
+˜python:S3776Õ"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(‘ôğœùÿÿÿÿJ$15a864eb-b842-4f23-b4a2-f661bad11611
+bpython:S125İ"Remove this commented out code.(‡›Ù“şÿÿÿÿJ$39d6e16b-ed65-4fe4-9ffb-309fa0e1c041
+Œpython:S1854Ó"MRemove this assignment to local variable 'argument'; the value is never used.(ß®¹÷J$e7549cf4-23ff-43c7-b39d-a4f1444610e2
+“python:S3776Ç"TRefactor this function to reduce its Cognitive Complexity from 38 to the 15 allowed.( é›«J$c1cbdb42-43a5-444e-b58e-920918a606a8
+˜python:S3776‡"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(€ñ–ŠøÿÿÿÿJ$2e4e909a-8c0e-486f-8216-bb5c3a7e3490
+“python:S3776î"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(óéüŸJ$9cbcea3c-3fd9-44d0-80b0-810636111c78
+python:S107â"MMethod "__init__" has 16 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$1fb0d72c-1506-42ac-9d01-788247b81548
+˜python:S3776Î"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(¾÷íÙüÿÿÿÿJ$40cc3c0e-bab1-4919-8fb5-62087cbc2a72
+spython:S1135Ô"4Complete the task associated to this "TODO" comment.(ÄûâåJ$878b3c69-fdfc-4ffd-bc70-bdaafd19d9af
+ypython:S2836ß"5Add a "break" statement or remove this "else" clause.(³£œ‰øÿÿÿÿJ$042050b6-0169-491e-8ab9-2ebb77f9979d
+“python:S3776†"TRefactor this function to reduce its Cognitive Complexity from 32 to the 15 allowed.(¹ÖÀ‡J$bc8a1bbb-d86b-40b0-ae55-0f5760ab45a1
+“python:S3776”"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(¢€µàJ$d839406f-e587-4d89-a2b1-b4e420b31f3f
+˜python:S3776ñ"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(çÓ©­ùÿÿÿÿJ$347e4b45-3ba9-4801-b14b-a8571535c4f1
+˜python:S3776¬"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(È» şÿÿÿÿJ$9330ef39-9a16-4bea-8739-5a6c2629e060
+’python:S3776¯"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(ëõıRJ$af046bd0-b63f-42b0-97ac-3c8b4eed25ba
+˜python:S3776º"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(Ù’ıÿÿÿÿJ$f46ba6ae-ba9b-49c8-be57-1721d23678d4

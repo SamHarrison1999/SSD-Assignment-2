@@ -1,0 +1,7 @@
+
+ python:S6537"]Consider replacing this octal escape sequence with a Unicode or hexadecimal sequence instead.(þÊùéúÿÿÿÿJ$e0f2c87f-d0df-4c70-935e-bc60e5f0b6f0
+˜python:S3776õ"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(šè¢øùÿÿÿÿJ$42ba3f16-6c10-4bce-8939-85918b9b513a
+rpython:S1172Ñ".Remove the unused function parameter "delete".(Ð¦ã½üÿÿÿÿJ$5d1d42a0-9f69-49f4-b9f8-51215cb481dd
+tpython:S1172²"0Remove the unused function parameter "encoding".(Š˜À‘úÿÿÿÿJ$ba8e5af7-d42d-4e66-b52e-fe50f996da91
+rpython:S1172²".Remove the unused function parameter "errors".(Š˜À‘úÿÿÿÿJ$70bba39b-bd98-416a-8aff-0eaa41a65969
+mpython:S1172²")Remove the unused function parameter "f".(Š˜À‘úÿÿÿÿJ$cb723a5f-47c3-402d-9e96-02e7aca60378

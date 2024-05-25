@@ -1,0 +1,41 @@
+
+›python:S1192ã"WDefine a constant instead of duplicating this literal 'invalid constraint: %s' 3 times.(¡º§´üÿÿÿÿJ$0a32171b-1e99-4d47-aee5-20af01846c26
+–python:S1192ê"WDefine a constant instead of duplicating this literal "Invalid specification " 3 times.(›Í²¼J$788e56ad-1f79-4b32-b3bc-60460ac6b108
+—python:S37768"TRefactor this function to reduce its Cognitive Complexity from 46 to the 15 allowed.(šåËûÿÿÿÿÿJ$8526f793-31dc-43f3-bc07-f00fb63c6a97
+™python:S3776“"URefactor this function to reduce its Cognitive Complexity from 100 to the 15 allowed.(ÄØÇÏşÿÿÿÿJ$59007e9e-6b71-41ed-b297-54734da46a07
+\python:S125’"Remove this commented out code.(Ùñş}J$a506ea2d-f117-4146-be87-b79bd0bce57b
+spython:S1135"4Complete the task associated to this "TODO" comment.(ö÷©J$26ede3af-c0fe-48d4-9e17-3032f71fec2a
+]python:S125Ë"Remove this commented out code.(Ãâ¨J$1ac0bfcc-7c07-45ee-8028-75502efd0bb9
+\python:S125Ó"Remove this commented out code.(ˆ¹ÅJ$8870fe62-35e2-42e6-bd45-4a0c5e7ff042
+npython:S1481Ô"/Replace the unused local variable "f" with "_".(îÊÅáJ$347b8188-69b2-4029-bdb8-90cb5332c1fd
+]python:S125ñ"Remove this commented out code.(å¨âJ$e1f1dc34-28b2-4151-8b4e-729b507f94e2
+“python:S3776õ"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(‚ŠêşJ$8a9742f2-e06c-4bb8-a994-246fe140ed7b
+“python:S5843ß"TSimplify this regular expression to reduce its complexity from 38 to the 20 allowed.(©¿J$0c635dae-1a55-4209-b347-2994d976dba6
+“python:S3776å"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(¼•’J$93bea274-c103-49f5-a7fd-047896e2abfe
+“python:S3776˜"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÿƒÎ£J$d6209770-a367-460a-9fd7-40b9b271c8c7
+]python:S125Á"Remove this commented out code.(×ŞÃJ$a3e45a4d-7e0d-4b5d-abb2-8e1b89804c94
+“python:S3776Ù"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ÃÅÒJ$4403be8b-a564-46e3-b048-6ce65ce91033
+˜python:S3776™	"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(âñ˜¸şÿÿÿÿJ$2aa8f4bb-6f94-4bd5-84f4-70a1164c8ac7
+“python:S3776á	"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(’ÑĞºJ$9ed0e8b0-a7bb-4e8e-89d9-3443e5bdae6e
+opython:S5806ï	"+Rename this variable; it shadows a builtin.(ƒ€ŞüÿÿÿÿJ$6a515479-4a5a-4371-9643-a83a47384a25
+Špython:S100õ
+"GRename method "ETA" to match the regular expression ^[a-z_][a-z0-9_]*$.(ÿ‚øÄıÿÿÿÿJ$a47f95d8-d4d5-4279-ac4c-8f0cffd84a6f
+]python:S125ù
+"Remove this commented out code.(àØ£©J$bca69ca0-55dc-4bdd-8ffc-31984bfdf7d2
+]python:S125"Remove this commented out code.(àØ£©J$61cc52ee-241f-4511-bdc7-fef513f495b5
+˜python:S5850š"TGroup parts of the regex together to make the intended operator precedence explicit.(¼ÆçöøÿÿÿÿJ$f31e2549-e0e9-4797-b35b-e294d0ae109e
+˜python:S3776¨"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(Ü²Ó€ÿÿÿÿÿJ$c1529bc3-00ae-40a7-8ba5-1f9f25ae2428
+opython:S5806¬"+Rename this variable; it shadows a builtin.(“şĞ›ÿÿÿÿÿJ$85b4957e-6759-4551-9588-91b11c57eaa8
+ppython:S4423Ø",Change this code to use a stronger protocol.(ı¾€íûÿÿÿÿJ$d5b409ff-35f7-4fc3-980d-19267e2a766f
+ppython:S1481«"2Replace the unused local variable "x509" with "_".(£ÒFJ$c1d1d600-6677-4895-8712-9bc6a6734385
+\python:S125Í"Remove this commented out code.(ãÃ³J$7109411b-afca-4096-9a11-d629c32b61bd
+“python:S3776²"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(µ³È»J$a22aebed-40ff-48fe-9397-0ecc0a3138f1
+‘python:S1854Á"MRemove this assignment to local variable '_servers'; the value is never used.(ÙíÂ¡øÿÿÿÿJ$c9faab70-45c4-45cd-bec9-c8fcc878f2ae
+˜python:S3776®"TRefactor this function to reduce its Cognitive Complexity from 41 to the 15 allowed.(ÀŸ£ÈøÿÿÿÿJ$a586d15a-b602-4ae5-96b4-3782c2ae32c3
+]python:S125ë"Remove this commented out code.(àØ£©J$916b3c29-9d41-43b1-84d3-4ec2755a93f5
+˜python:S3776ˆ"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(¯Õ¶şÿÿÿÿJ$7098eb93-a974-4205-9387-cfcc4e0877d4
+Tpython:S6659·"Use `startswith` here.(›ƒøJJ$8cdb7ed9-b217-42a2-847a-34dcb291bb3d
+Zpython:S6659½"Use `startswith` here.(êáĞ½ıÿÿÿÿJ$c3f7c9f8-f96b-4a61-99f5-552d180e12d4
+Zpython:S6659Ç"Use `startswith` here.(›Õ©ÕûÿÿÿÿJ$070044ef-7766-46d3-9537-62bef5f0e512
+Zpython:S6659Ê"Use `startswith` here.(†€¼¸ùÿÿÿÿJ$36d9e430-851b-4e76-a679-e01cb5cd964f
+Tpython:S6659Ğ"Use `startswith` here.(‚üíJ$ba277c7e-d083-4ea2-bf1d-a46f63815ce3

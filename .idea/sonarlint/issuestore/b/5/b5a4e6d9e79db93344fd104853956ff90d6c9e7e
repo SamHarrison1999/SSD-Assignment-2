@@ -1,0 +1,15 @@
+
+|python:S5709$">Derive this class from "Exception" instead of "BaseException".(Ô…ƒJ$a1c6faac-5502-453d-9019-977e287847dc
+xpython:S1135ó"4Complete the task associated to this "TODO" comment.(Ê˜Ë³şÿÿÿÿJ$ba7a7925-a2a5-4666-9131-d329927f9371
+Ïpython:S2638Ä"Change this method signature to accept the same arguments as the method it overrides. This method overrides http.client.HTTPConnection.request.(ìÙºJ$198970e3-711d-4432-b91a-e043e4bd5d58
+“python:S3776Ä"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(ìÙºJ$90b2c26f-14c3-47b9-a3a3-f5e9a288171c
+python:S107‚"MMethod "__init__" has 22 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$45e8b96c-0533-4337-b15e-c6d616f84ec6
+¨python:S107İ"jFunction "_ssl_wrap_socket_and_match_hostname" has 16 parameters, which is greater than the 13 authorized.(Ì’ŸÆJ$4e9b2b58-2146-49f7-9cf0-967fddcbc0e5
+˜python:S3776Ü"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(˜åµÈûÿÿÿÿJ$c87d513e-f99d-4627-a9c2-afd685eec8c9
+zpython:S930ù"<Remove this unexpected named argument 'ssl_minimum_version'.(î ïJ$96bf3700-4d9a-4548-a245-8b56ae700b12
+zpython:S930ú"<Remove this unexpected named argument 'ssl_maximum_version'.(Ñï”³J$6dc91d15-9da8-4979-99be-9b24df6f9120
+xpython:S930ª"5Remove this unexpected named argument 'key_password'.(£Æ¹ùúÿÿÿÿJ$dd92710c-7abc-4087-a7d4-31f8f84bb2d5
+wpython:S930¬"4Remove this unexpected named argument 'ca_cert_dir'.(„¹¤ñüÿÿÿÿJ$c4930a5b-39ae-4ea5-9892-fac0ad09967e
+spython:S930­"5Remove this unexpected named argument 'ca_cert_data'.(¹˜Û»J$48f48b18-0775-4e7a-b2a7-c898c38b4913
+vpython:S930°"3Remove this unexpected named argument 'tls_in_tls'.(íÒ®ÈùÿÿÿÿJ$75e3db4c-2adc-4359-88cb-c472c508627c
+’python:S930æ"ORemove 1 unexpected arguments; 'match_hostname' expects 2 positional arguments.(ôùÆşÿÿÿÿJ$16a4388d-531b-4769-ae80-079bc81a65c8

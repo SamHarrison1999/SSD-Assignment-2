@@ -1,0 +1,9 @@
+
+†python:S1192y"HDefine a constant instead of duplicating this literal ':action' 4 times.(ŠİîJ$3533a977-f8f2-4717-a562-1f119ef7e2fd
+rpython:S1481."4Replace the unused local variable "netloc" with "_".(‡ĞŞĞJ$64d3c8e1-14f3-4fb6-8a68-a50d39f03e7e
+ppython:S1481."2Replace the unused local variable "path" with "_".(‡ĞŞĞJ$17e89970-00d9-48ba-a1e5-290b7f355b43
+xpython:S1481á"4Replace the unused local variable "stderr" with "_".(ÉÓñ³ûÿÿÿÿJ$8cc6acdd-6a73-46ec-95d4-5a950c307965
+xpython:S1481á"4Replace the unused local variable "stdout" with "_".(ÉÓñ³ûÿÿÿÿJ$0bc4424e-4f4a-4bdc-b873-0fe2f25441f8
+spython:S1481è"4Replace the unused local variable "stderr" with "_".(«¨İàJ$0a3cb7b1-03e0-4c37-a888-bf600c9fe841
+spython:S1481è"4Replace the unused local variable "stdout" with "_".(«¨İàJ$8f880080-ccaa-4105-b439-e24362a2529f
+“python:S3776í"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(Å¹É±J$a0a43628-3d3b-4af9-8123-358286c45745

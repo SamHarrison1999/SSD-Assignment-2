@@ -1,0 +1,14 @@
+
+python:S107§"MMethod "__init__" has 22 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$3e4ef4c0-c72e-44d3-a1e3-50b085c05613
+python:S107ƒ"LMethod "overlay" has 22 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$f9f0cf03-4a9a-43fb-85a8-665695d19824
+“python:S3776ï"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(‡ÇûÛJ$195a93f9-c459-48dc-a650-79924b29feed
+tpython:S3403‘"0Remove this "is" check; it will always be False.(¥ó¡àùÿÿÿÿJ$d4ad5271-f6f3-4043-9462-1c96b2b703e5
+tpython:S3403˜"0Remove this "is" check; it will always be False.(¤¼¨²ıÿÿÿÿJ$a2edd60d-2033-4e3a-b203-0782356902a6
+opython:S3403 "0Remove this "is" check; it will always be False.(ÿúÜŸJ$f146420e-5619-42ab-a2a0-209a500e5863
+špython:S1186Í"[Add a nested comment explaining why this function is empty, or complete the implementation.(ùØèåJ$87de2efb-2285-465b-8b8c-5c6be35b9909
+python:S112«">Replace this generic exception class with a more specific one.(Î»ûüÿÿÿÿJ$f3b64de2-6d7f-4f6c-8a96-e47d042096c7
+python:S107	"LMethod "__new__" has 19 parameters, which is greater than the 13 authorized.(ÎÉ½ĞÿÿÿÿÿJ$63231eb5-a3f8-4777-939c-8a956bade42c
+®python:S5864Ã
+"oReplace this expression; Previous type checks suggest that it has type "AsyncIterator[str]" and isn't iterable.(ô‹½ûJ$0ecd398a-7817-4273-b76b-d2c3c0d4e95c
+opython:S3862Ã
+"0Replace this expression with an iterable object.(ô‹½ûJ$03a8d661-2bd0-4808-9afc-c7da8fdd9006

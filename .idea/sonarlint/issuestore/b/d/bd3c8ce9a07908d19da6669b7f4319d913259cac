@@ -1,0 +1,6 @@
+
+­python:S101c"pRename class "OracleDialect_oracledb" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(γέΪ•J$e0e988ad-707b-4388-a9cf-e97049c5d76b
+²python:S101"tRename class "AsyncAdapt_oracledb_cursor" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(υ„ϊJ$e337a1c8-bab6-4eda-b2b0-9d85ccb972d9
+¶python:S101Φ"xRename class "AsyncAdapt_oracledb_connection" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(“ΚΨ‰J$dc54e4ac-1e07-4738-a25d-4753f6719d75
+Δpython:S101ÿ"€Rename class "AsyncAdaptFallback_oracledb_connection" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(¤α¨ΚόÿÿÿÿJ$1d496d09-a86a-47ac-9bcf-068604265f69
+Έpython:S101"uRename class "OracleDialectAsync_oracledb" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ρ¤ΠÿÿÿÿÿJ$39cebc20-89d0-4e8c-99f7-0d6d96094592

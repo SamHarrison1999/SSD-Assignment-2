@@ -1,0 +1,10 @@
+
+œpython:S117ˆ"_Rename this local variable "psycopg2_Range" to match the regular expression ^[_a-z][a-z0-9_]*$.(ª±HJ$06b4f185-7aa2-4e0a-8b0d-77413535de5d
+¸python:S101´"uRename class "PGExecutionContext_psycopg2" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ÉœµªşÿÿÿÿJ$c43a1ed0-df95-45ea-a07f-53fd4349e898
+ºpython:S101Ì"wRename class "PGIdentifierPreparer_psycopg2" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ô•˜ŸùÿÿÿÿJ$628e1f96-72fb-4e84-9f64-c8a34b220a59
+ªpython:S101Û"lRename class "PGDialect_psycopg2" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(çãJ$fc501f21-8f41-4883-a4a9-1ec813143cbd
+’secrets:S6698?"SMake sure this PostgreSQL database password gets changed and removed from the code.(‘‚ÁüJ$a4704172-8c96-4647-b919-91debf25e610
+—secrets:S6698X"SMake sure this PostgreSQL database password gets changed and removed from the code.(øŠ˜ÔùÿÿÿÿJ$accb5d86-7d4c-4442-8258-b40aca37624e
+“secrets:S6698Š"SMake sure this PostgreSQL database password gets changed and removed from the code.(Æğ˜J$e14d0422-2d8b-4f42-bfee-257032a62d00
+“secrets:S6698¹"SMake sure this PostgreSQL database password gets changed and removed from the code.(Æğ˜J$5c967a64-90df-4817-8499-34234ac3f959
+“secrets:S6698Ú"SMake sure this PostgreSQL database password gets changed and removed from the code.(ä³ƒJ$d12a2c07-4c5c-4df7-9a0c-420376d3fa0f

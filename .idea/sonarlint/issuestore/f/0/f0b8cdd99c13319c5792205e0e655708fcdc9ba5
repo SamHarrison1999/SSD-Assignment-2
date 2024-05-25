@@ -1,0 +1,9 @@
+
+£python:S5890+"`Replace the type hint "Namespace" with "Optional[Namespace]" or don't assign "None" to "options"(ø¶ÚúÿÿÿÿJ$ae17f358-0cec-4bb5-af6e-29ffaac723d5
+npython:S1172:"+Remove the unused function parameter "arg".(¨†ªàşÿÿÿÿJ$af78a79f-37b0-4262-9d65-69f09e98e29e
+mpython:S1172:"*Remove the unused function parameter "kw".(¨†ªàşÿÿÿÿJ$d29b15ec-4b6e-41b0-9747-a31eba2f1280
+npython:S1172D"0Remove the unused function parameter "arg_sets".(ö›¹J$40e09a1e-f1b6-4ad3-acee-8dedf6e97cf1
+hpython:S1172D"*Remove the unused function parameter "kw".(ö›¹J$14b3c561-a231-468c-9a10-be503f4dfde4
+upython:S1172G"2Remove the unused function parameter "parameters".(Òë÷ÓùÿÿÿÿJ$1bf58e69-5385-4bb3-9fc8-1cd65ef5b99d
+hpython:S1172J"*Remove the unused function parameter "kw".(„×ŒïJ$89abc8dd-9078-44f3-b692-8f9f676a4944
+ipython:S1172J"+Remove the unused function parameter "arg".(„×ŒïJ$ea481eb7-96e9-4dc9-9500-090ad635bb8e

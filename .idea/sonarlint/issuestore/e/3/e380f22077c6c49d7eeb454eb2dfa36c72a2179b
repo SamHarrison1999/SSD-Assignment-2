@@ -1,0 +1,8 @@
+
+python:S1186­"YAdd a nested comment explaining why this method is empty, or complete the implementation.(Áû¹ÇûÿÿÿÿJ$f9563662-329c-4c17-9cf7-8da680a941c7
+–python:S5713¬"WRemove this redundant Exception class; it derives from another which is already caught.(˜Ğ¯æJ$120d99f1-acbc-453c-b211-5af16cf5f5b2
+“python:S3776¡"TRefactor this function to reduce its Cognitive Complexity from 19 to the 15 allowed.(µç§ËJ$fd0020e7-961c-4fcc-8f36-91542061a251
+“python:S3776„"TRefactor this function to reduce its Cognitive Complexity from 49 to the 15 allowed.(êı÷ãJ$3f9a5aaa-b8f3-4a94-af02-352bfadccc89
+“python:S3776ÿ"TRefactor this function to reduce its Cognitive Complexity from 49 to the 15 allowed.(×“ƒÿJ$612c1677-e8e3-41c6-961a-9e9a0d2be752
+“python:S3776Ó"TRefactor this function to reduce its Cognitive Complexity from 51 to the 15 allowed.(í‡êòJ$bd6b43c3-eb21-46f4-a462-118688ec0865
+˜python:S3776³	"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ÅÒ‘ãüÿÿÿÿJ$0b57c9e0-7e8a-460e-a9ba-020eb771cfe9

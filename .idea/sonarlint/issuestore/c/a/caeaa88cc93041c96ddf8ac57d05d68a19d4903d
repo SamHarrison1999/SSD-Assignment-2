@@ -1,0 +1,9 @@
+
+¦python:S1192ç"bDefine a constant instead of duplicating this literal "Read timed out. (read timeout=%s)" 4 times.(°ĞÀøùÿÿÿÿJ$2857dd77-1eac-48ca-93a6-4dd690b37b22
+python:S116Q"PRename this field "QueueCls" to match the regular expression ^[_a-z][_a-z0-9]*$.(Şä†óJ$76eb71ac-3e94-4bbb-9254-8f6eb4ba5f55
+Zpython:S2772Ÿ"Remove this unneeded "pass".(’“¡?J$d75ee33d-401d-4463-96b4-9691f99d3e75
+“python:S3776û"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(À¦¸áJ$5e0d5e56-534b-4a4c-a8f8-91657e83f1b3
+|python:S5754Ï"8Catch a more specific exception or reraise the exception(ê¥Ğ…úÿÿÿÿJ$4ee0b386-4bd9-4020-91e9-5ad1d477ce2c
+xpython:S1135‰"4Complete the task associated to this "TODO" comment.(è®¿øÿÿÿÿJ$7549ce3d-6f39-4cb6-bc1c-41368535bd1c
+“python:S3776–"TRefactor this function to reduce its Cognitive Complexity from 41 to the 15 allowed.(ÂÈ¢ÛJ$dacf7c34-fb80-42f3-a7e3-5adfa53c99f4
+python:S107£"MMethod "__init__" has 20 parameters, which is greater than the 13 authorized.( ĞàşüÿÿÿÿJ$bd83ba6b-f171-4c56-9a6e-421ba810f19d

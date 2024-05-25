@@ -1,0 +1,7 @@
+
+³python:S101#"vRename class "MySQLCompiler_mysqlconnector" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ùë‘ßJ$04f936da-d114-4fc8-9666-12da53d20269
+Ãpython:S101,"€Rename class "MySQLIdentifierPreparer_mysqlconnector" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(¸…§ŸùÿÿÿÿJ$16d0717d-dfc7-4cac-a7e5-ffb3961b40c3
+—python:S11862"YAdd a nested comment explaining why this method is empty, or complete the implementation.(Ğ½ßßJ$d7abd49a-1521-4ace-b562-ca5074debec1
+²python:S101A"uRename class "MySQLDialect_mysqlconnector" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(£Ù¾J$aec61d94-edf6-4f6d-8c91-dbf4369feda3
+spython:S1172"/Remove the unused function parameter "charset".(–¶ğÔÿÿÿÿÿJ$9177c1db-87f8-4822-b664-2e63b772ff4e
+spython:S1172 "/Remove the unused function parameter "charset".(æõ¹ÃúÿÿÿÿJ$80b633b6-633d-4b91-a3ef-52501e52c3f7

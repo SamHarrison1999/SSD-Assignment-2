@@ -1,0 +1,33 @@
+
+¢python:S101'"fRename class "CERT_CONTEXT" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ôÜèUJ$6da8b6f8-d600-4683-b134-165c061c054e
+­python:S1015"kRename class "CERT_ENHKEY_USAGE" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ƒ¬¹şÿÿÿÿJ$a71e2677-0860-4d24-9865-ab138bd14a09
+¬python:S101?"jRename class "CERT_USAGE_MATCH" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ÁµğùÿÿÿÿJ$a6fb723a-efeb-4e88-a256-4da90a99ef20
+¦python:S101F"iRename class "CERT_CHAIN_PARA" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ÛèÙJ$f359c5f0-629d-432a-8846-0e51a9354bcd
+python:S5644U">Fix this code; "pointer" does not have a "__getitem__" method.(ø˜¦üÿÿÿÿJ$7073137d-9385-4ab4-9bb2-10cc38991737
+¨python:S101Z"kRename class "CERT_TRUST_STATUS" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(°±‚¦J$174142db-4584-480f-8583-8f282f2cd413
+©python:S101a"lRename class "CERT_CHAIN_ELEMENT" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ğÇ‹J$7791ea53-769c-4473-939e-1fde35b8f548
+¨python:S101p"kRename class "CERT_SIMPLE_CHAIN" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(Öî’õJ$4daa5bf2-a812-4e78-8604-5b9aeb45e548
+®python:S101"lRename class "CERT_CHAIN_CONTEXT" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(êä†€üÿÿÿÿJ$aaef2088-443e-4080-bdf3-cac203442fe9
+¸python:S101"zRename class "SSL_EXTRA_CERT_CHAIN_POLICY_PARA" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ıãšàJ$9af64961-9f5e-4a57-8cbd-db9a69fb2881
+³python:S101™"pRename class "CERT_CHAIN_POLICY_PARA" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(·˜ƒªıÿÿÿÿJ$e575592f-cece-4565-949c-85b48fcdb8df
+µpython:S101¤"rRename class "CERT_CHAIN_POLICY_STATUS" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ºèŸüÿÿÿÿJ$ea088eb4-e62c-4212-83d0-418ba46c7602
+°python:S101±"rRename class "CERT_CHAIN_ENGINE_CONFIG" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ëÎ±J$ace70c66-4dee-4a0e-9fc1-82c222f8a5c3
+ªpython:S117É"gRename this local variable "hIntermediateCertStore" to match the regular expression ^[_a-z][a-z0-9_]*$.(ìÒ÷ÎşÿÿÿÿJ$11ce57dc-7685-4dc6-8203-2452f150405c
+ python:S117È"]Rename this local variable "pCertContext" to match the regular expression ^[_a-z][a-z0-9_]*$.(¸‚‡öıÿÿÿÿJ$28503c80-edd9-4706-b209-b5bc8cf52708
+python:S117å"[Rename this local variable "pChainPara" to match the regular expression ^[_a-z][a-z0-9_]*$.(Î¾¬ÉúÿÿÿÿJ$b26e1dc4-1a8f-42e9-aa89-0b23f36aa0db
+–python:S117–"XRename this parameter "hChainEngine" to match the regular expression ^[_a-z][a-z0-9_]*$.(ù›ÑJ$0f76feda-b90e-4b89-ab46-8fc7b62432cd
+¥python:S117—"bRename this parameter "hIntermediateCertStore" to match the regular expression ^[_a-z][a-z0-9_]*$.(äÎİûÿÿÿÿJ$1c51051c-1642-46c1-b07a-c4a4b2fe92e7
+¡python:S117«"^Rename this local variable "pChainContext" to match the regular expression ^[_a-z][a-z0-9_]*$.(¢†¨ÕúÿÿÿÿJ$897f6509-1c15-4338-862e-938b32bc2095
+™python:S117™"VRename this parameter "pChainPara" to match the regular expression ^[_a-z][a-z0-9_]*$.(ûĞ´ÛÿÿÿÿÿJ$28f5e275-0261-43e4-a185-7a5be224d8c2
+Ÿpython:S117˜"\Rename this parameter "pPeerCertContext" to match the regular expression ^[_a-z][a-z0-9_]*$.(ßµûşÿÿÿÿJ$d75f10d3-41f0-4311-ad01-08031c9bdd3d
+Ÿpython:S117Á"\Rename this local variable "pPolicyPara" to match the regular expression ^[_a-z][a-z0-9_]*$.(õ‘ÃºüÿÿÿÿJ$84b1a0e2-30ef-47d5-a8dc-3f31f1b9b09e
+¡python:S117Ä"^Rename this local variable "pPolicyStatus" to match the regular expression ^[_a-z][a-z0-9_]*$.( ñÊ—şÿÿÿÿJ$8b060ef6-5ca0-4510-8f15-5884582a24c1
+python:S117"_Rename this local variable "ppChainContext" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÄŒêõJ$0e88bd57-5a94-4375-941e-8446f2e488a0
+python:S5655×"@Change this argument; Function "sizeof" expects a different type(ŞÏæêJ$c29bf01d-96cb-4eb6-8fa1-dcafb7b031c8
+ python:S117õ"]Rename this local variable "hChainEngine" to match the regular expression ^[_a-z][a-z0-9_]*$.(¼ŞôúÿÿÿÿJ$c614a25b-4bca-4dda-9a29-9605f6d72fdb
+¥python:S117ï"bRename this parameter "hIntermediateCertStore" to match the regular expression ^[_a-z][a-z0-9_]*$.(äÎİûÿÿÿÿJ$f3a45e1e-adb8-441a-98d5-fe2bbfc6e412
+python:S117ö"_Rename this local variable "hRootCertStore" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÇÈÜüJ$61fb8309-92ed-48db-b012-d39c2a98f566
+™python:S117ñ"VRename this parameter "pChainPara" to match the regular expression ^[_a-z][a-z0-9_]*$.(ûĞ´ÛÿÿÿÿÿJ$ead676bc-8ce3-44a3-a321-0bb4020622b0
+–python:S117ˆ"XRename this local variable "pConfig" to match the regular expression ^[_a-z][a-z0-9_]*$.(Â¼°´J$6e4d3838-6ea0-428f-9f2d-4b378f7b2ede
+Ÿpython:S117ğ"\Rename this parameter "pPeerCertContext" to match the regular expression ^[_a-z][a-z0-9_]*$.(ßµûşÿÿÿÿJ$c37ef756-11c8-4f02-9e21-a6157ae5d382
+¡python:S117‰"^Rename this local variable "phChainEngine" to match the regular expression ^[_a-z][a-z0-9_]*$.(üÛËŠûÿÿÿÿJ$3dec99ee-2382-4fb7-a228-10beb20c932d

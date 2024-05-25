@@ -1,0 +1,8 @@
+
+ipython:S5806h"+Rename this variable; it shadows a builtin.(ƒª×•J$a3f36d26-d063-48ff-a442-371e93c6d873
+‚python:S5720ˆ">Rename "__self" to "self" or add the missing "self" parameter.(Ù»«§ûÿÿÿÿJ$6be89467-294a-4205-b526-c5c3218b69d8
+tpython:S3403ž"0Remove this "is" check; it will always be False.(¥ó¡àùÿÿÿÿJ$4e371bef-e35d-40fb-9d6b-771404c3a705
+tpython:S3403¦"0Remove this "is" check; it will always be False.(¤¼¨²ýÿÿÿÿJ$673d2816-a78f-4d74-89d4-cdac5e88e59a
+opython:S3403¨"0Remove this "is" check; it will always be False.(ÿúÜŸJ$3ecca879-bd63-4f7f-9e5d-bf23027a2f9e
+’python:S3776¶"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(‹ÿî9J$6ceec6a2-24ff-45c3-911c-c3569892178f
+Upython:S6659Ý"Use `startswith` here.(¹¹øÑJ$9bc2ba61-c0f7-4012-b8af-15b493cd7702

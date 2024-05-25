@@ -1,0 +1,7 @@
+
+spython:S1172Â"/Remove the unused function parameter "dialect".(ã ÉÂşÿÿÿÿJ$9cf289a3-2cc0-4307-8c43-49c0e514325e
+bpython:S125­"Remove this commented out code.(‡“ŞøÿÿÿÿJ$f3265b37-6409-4bf0-bfad-2dc1cc983d08
+xpython:S1135æ"4Complete the task associated to this "TODO" comment.(±”ˆÂøÿÿÿÿJ$1e2720e6-e8ae-4f4a-9dec-f075216edf63
+Ÿpython:S117ù"\Rename this local variable "DBAPIBinary" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÈËºâşÿÿÿÿJ$ccbb6d68-e99a-440d-abc1-8fbc48a7dad5
+­python:S101…"jRename class "DOUBLE_PRECISION" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(¤“ÆúÿÿÿÿJ$b1c2b46f-2539-48e3-8b03-af553884a2aa
+“python:S3776•"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ÛçÑöJ$531a3184-cf29-4192-8ac8-544273b45522

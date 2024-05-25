@@ -1,0 +1,18 @@
+
+spython:S1066Â"/Merge this if statement with the enclosing one.(ßŞñäøÿÿÿÿJ$47936761-cad0-4979-ae5d-3c40a0c777fe
+xpython:S1135Š"4Complete the task associated to this "TODO" comment.(´²Ú°úÿÿÿÿJ$416db967-232b-49e2-a3f0-973e573a9397
+ypython:S2836Û"5Add a "break" statement or remove this "else" clause.(³£œ‰øÿÿÿÿJ$0bdf0dcc-a5db-4519-bf13-327e2a8da62a
+python:S1186¶"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ú‹–¤ûÿÿÿÿJ$31b26a20-13bd-4d4d-b75f-edc3919dfb7a
+˜python:S3776ü"TRefactor this function to reduce its Cognitive Complexity from 45 to the 15 allowed.(øŸ‡ˆùÿÿÿÿJ$d8851fd1-ed89-4e5a-90fc-3d3707f5f05b
+´python:S2638"pAdd missing parameters context. This method overrides sqlalchemy.engine.interfaces.Dialect.do_execute_no_params.(ºØ×üÿÿÿÿJ$2b7f8bed-73b9-43af-b4f0-222919b2b0a5
+“python:S3776"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(ÓÑÕÎJ$14bf70d5-3b6e-4295-9507-f8d2e1f0a292
+“python:S3776ı	"TRefactor this function to reduce its Cognitive Complexity from 67 to the 15 allowed.(Ÿ†…ôJ$3c40a58d-78b4-4836-b986-4b7bdcf2be49
+python:S1186Ò"YAdd a nested comment explaining why this method is empty, or complete the implementation.(Ò¿ËùùÿÿÿÿJ$379caa8c-008d-4d3a-b37f-3a72d1dba3fb
+˜python:S1186Ú"YAdd a nested comment explaining why this method is empty, or complete the implementation.(Ôğ³ÚJ$dd425995-ae47-49e6-8b66-e9cbcaf7374c
+spython:S1172İ"/Remove the unused function parameter "colname".(‰ÔÙåşÿÿÿÿJ$7369201e-0180-4be8-b567-a35917c427ae
+˜python:S1186ú"YAdd a nested comment explaining why this method is empty, or complete the implementation.(ÉÃãÇJ$ead12b45-e0fd-4375-aa4c-68e50e0a429d
+˜python:S3776Ô"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(Œö€ûÿÿÿÿJ$434110b4-9365-4846-8c3e-19ecde5ed1b2
+mpython:S1172Ú".Remove the unused function parameter "result".(ÅË¯“J$1dade324-22ee-41cb-b020-a2a49e8cc2af
+˜python:S3776ì"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(÷‹øÿÿÿÿJ$21991881-df84-4487-9809-f451476e50fc
+mpython:S1172å".Remove the unused function parameter "column".(”èJ$1a49949d-1ff4-42c5-b047-acae89f8afee
+˜python:S3776õ"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(í‡ó½ûÿÿÿÿJ$da5d8d75-3367-423b-bb7c-f45fb955b618

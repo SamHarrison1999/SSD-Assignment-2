@@ -1,0 +1,32 @@
+
+—python:S3776r"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(Îö™ÿÿÿÿÿJ$673fa57c-50dc-4b2f-b0ac-93d5a370dabf
+kpython:S1172Õ",Remove the unused function parameter "stmt".(¾€„°J$78f8064e-5491-49bb-862d-b5e059f83b30
+opython:S1172Õ"0Remove the unused function parameter "compiler".(¾€„°J$6e1010ae-4a04-4e7c-90ff-9b9c3aa56307
+“python:S3776Ô"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(·É÷ÄJ$39aae91c-087d-48e4-ba23-e6e269b53f1c
+tpython:S1172”"0Remove the unused function parameter "toplevel".(ğÑá¼øÿÿÿÿJ$fa1ac813-bb7d-4060-a312-403f411f8098
+ypython:S1172"5Remove the unused function parameter "compile_state".(£ì°ŠúÿÿÿÿJ$f48cd956-543b-4bd5-aaa9-74f99b252d4f
+“python:S3776Ï"TRefactor this function to reduce its Cognitive Complexity from 45 to the 15 allowed.(ÆåáÃJ$d278ed85-824e-450c-9e23-6ccce3e97b89
+spython:S1135ˆ"4Complete the task associated to this "TODO" comment.(÷¹ù‚J$7878bfda-a6da-40fa-9a97-6577c6e93d7b
+spython:S1135¤"4Complete the task associated to this "TODO" comment.(÷¹ù‚J$1ae901a1-18ba-4979-9489-20556a206284
+bpython:S125‰"Remove this commented out code.(½Ñ·¦şÿÿÿÿJ$5652a787-dc9e-478d-a3cd-17c79db64d22
+xpython:S1135ƒ"4Complete the task associated to this "TODO" comment.(ÿƒà˜úÿÿÿÿJ$fc5b109b-ba37-4fb5-bc52-5ce828c69b10
+ypython:S1172›"5Remove the unused function parameter "check_columns".(½Ñ†ÇıÿÿÿÿJ$9ed75b25-26eb-406b-bbab-97e8ee5ebb49
+npython:S1172"*Remove the unused function parameter "kw".(¦ÄÅğıÿÿÿÿJ$47497361-246d-48c1-85d7-ec2ef1f74dd6
+vpython:S1172—"2Remove the unused function parameter "parameters".(ĞÂ­²ÿÿÿÿÿJ$57c10251-0dd6-40fb-b9ec-e66d21897f23
+mpython:S1172œ".Remove the unused function parameter "values".(é“„˜J$da60f350-ecfa-498b-9c25-8753d578a913
+kpython:S1172³",Remove the unused function parameter "stmt".(®Ì­ÅJ$b1811e55-b487-4f86-89b8-0faadb8ad6bd
+›python:S107²"^Function "_append_param_parameter" has 14 parameters, which is greater than the 13 authorized.(½ÕŠ&J$44bb185f-1968-4f95-a63f-f5fdb9baa67e
+“python:S3776±"TRefactor this function to reduce its Cognitive Complexity from 42 to the 15 allowed.(Ø—ç›J$4680c0b3-f202-4223-8f04-6f2ff11dc94a
+ppython:S1172¯",Remove the unused function parameter "stmt".(À§Á•ÿÿÿÿÿJ$76b806d2-77d2-4d7c-949c-fa4472c9d05f
+“python:S3776®"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ìĞĞ‰J$b9b208b3-5208-4cc8-8876-02b7cfec2376
+kpython:S1172ç",Remove the unused function parameter "stmt".(¤ä¿×J$5ff96cab-a60e-4c90-b38d-e772412f909a
+“python:S3776	"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(Ø»¦üJ$b0ef7b34-0510-4b28-b178-302f9780c35a
+kpython:S1172Ã
+",Remove the unused function parameter "stmt".(®Ì­ÅJ$6e7fd0c0-17ed-403f-b51a-1e5b9f59fc58
+˜python:S3776Á
+"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(Ÿ¯÷¨úÿÿÿÿJ$642ed42d-1d20-46f9-8434-c73387b13730
+spython:S1135ã
+"4Complete the task associated to this "TODO" comment.(º€œ¯J$aaca840e-251c-43c1-96d0-6c7ff55d2812
+spython:S1135å"4Complete the task associated to this "TODO" comment.(À¿ç–J$1849023e-6b62-49b3-999f-bdb1f89eae35
+“python:S3776é"TRefactor this function to reduce its Cognitive Complexity from 27 to the 15 allowed.(ÏÄâ˜J$dc611eef-607d-47e7-a967-863b754b1baf
+spython:S1135Ü"4Complete the task associated to this "TODO" comment.(¦ƒºàJ$d2660790-c4e3-49f1-aacc-68ca1fad29c9

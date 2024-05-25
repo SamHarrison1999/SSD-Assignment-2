@@ -1,0 +1,12 @@
+
+Zpython:S2772"Remove this unneeded "pass".(ã‘Û¾J$7aca926d-db85-4a5e-a392-b03f2ab8577c
+ppython:S1172Y"-Remove the unused function parameter "thing".(úŠˆ–øÿÿÿÿJ$30c7f854-1d30-4a71-9294-1306757b28c0
+jpython:S1172b",Remove the unused function parameter "args".(‰ïˆ¦J$9ca6b548-c5c8-4605-baa4-8897e2cbdcec
+hpython:S1172b"*Remove the unused function parameter "kw".(‰ïˆ¦J$81f4f3d4-1df1-4841-90cd-5ef0db4a80e9
+hpython:S1172b"*Remove the unused function parameter "fn".(‰ïˆ¦J$0d459997-ef63-486b-896c-27ab97a75d6a
+gpython:S1172e"*Remove the unused function parameter "kw".(ó‹¶ J$1183a995-54e1-4b15-a9a2-e9f48d78e7d0
+ipython:S1172e",Remove the unused function parameter "args".(ó‹¶ J$033ca9f1-cb33-4789-ab2b-a217905ec2ed
+“python:S1542e"VRename function "AsyncAdaptedLock" to match the regular expression ^[a-z_][a-z0-9_]*$.(ó‹¶ J$f463e829-d612-4052-a5e0-0f1db90d4e93
+npython:S1172k"+Remove the unused function parameter "arg".(õÕ²üÿÿÿÿJ$4ce626f7-9c70-45fc-8d44-9cc6ec6f616d
+mpython:S1172k"*Remove the unused function parameter "fn".(õÕ²üÿÿÿÿJ$64770909-534c-4ae1-8ebc-e11808be0e0d
+mpython:S1172k"*Remove the unused function parameter "kw".(õÕ²üÿÿÿÿJ$3ecc233d-f369-48e5-8d94-38776fd142fe

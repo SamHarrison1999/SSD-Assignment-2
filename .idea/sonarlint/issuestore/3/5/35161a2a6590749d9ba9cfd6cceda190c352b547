@@ -1,0 +1,6 @@
+
+python:S1192Í"PDefine a constant instead of duplicating this literal "Pool recreating" 5 times.(î®£€J$b6712db6-8e22-4a88-a41b-12fd3c74c243
+xpython:S3516Ä"9Refactor this method to not always return the same value.(¢®È¨J$092752a2-2468-4d05-b263-877721da1a9c
+—python:S1186Ä"YAdd a nested comment explaining why this method is empty, or complete the implementation.(æã¥|J$65aa7b8f-6357-44b1-9be9-2494f71fb532
+rpython:S1172".Remove the unused function parameter "record".(àŞÜÍşÿÿÿÿJ$ec891df2-899d-43f2-8ff9-0a7e7b57feac
+python:S1186÷"YAdd a nested comment explaining why this method is empty, or complete the implementation.(àŞÜÍşÿÿÿÿJ$15f29671-823c-4fb0-afa4-5e2160840003

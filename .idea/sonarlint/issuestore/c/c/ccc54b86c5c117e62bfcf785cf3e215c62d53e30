@@ -1,0 +1,8 @@
+
+“python:S3776"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(ÿ·†êJ$ca514c26-f871-433a-afc1-41d6de89fd64
+tpython:S6397¦"5Replace this character class by the character itself.(©ñÕºJ$c149f125-7c4c-4c96-9192-cb7b81f2c761
+npython:S5869·"*Remove duplicates in this character class.(òèª¾üÿÿÿÿJ$9fd24b72-c919-4785-bda6-90af91118e8e
+python:S5361¼"@Replace this "re.sub()" call by a "str.replace()" function call.(åá”¥J$1677007c-2615-43c5-b77d-9106e0172621
+\python:S125Å"Remove this commented out code.(§Éò!J$5bb28269-f44d-4941-8f23-66c92def9a12
+˜python:S3776ö"TRefactor this function to reduce its Cognitive Complexity from 47 to the 15 allowed.(§ÖØùÿÿÿÿJ$e07e62fc-b581-4ddb-b719-f0a419df59bc
+gpython:S108")Either remove or fill this block of code.(ã‘Û¾J$331905f1-5d0c-4ca1-80ef-e54316fa775a

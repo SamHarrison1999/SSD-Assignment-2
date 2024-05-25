@@ -1,0 +1,6 @@
+
+Žpython:S1542U"PRename function "Serializer" to match the regular expression ^[a-z_][a-z0-9_]*$.(¢¬ˆ®J$e1d2d355-fe89-41fe-9568-bc474a721e13
+\python:S125Y"Remove this commented out code.(¥¶ò£J$4fd79529-33b0-46d4-9e5c-3509e1de4c3c
+•python:S1542~"RRename function "Deserializer" to match the regular expression ^[a-z_][a-z0-9_]*$.(·Ò´þûÿÿÿÿJ$ed222f0c-c4fa-4a53-9f8c-a686206dfda1
+—python:S3776~"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(·Ò´þûÿÿÿÿJ$6f260c9b-7ede-4523-9990-af2fa15d207e
+python:S112©">Replace this generic exception class with a more specific one.(Ç¨ÃµùÿÿÿÿJ$bc47daaf-1f23-4d52-ad6a-1a5c3e0a9e02

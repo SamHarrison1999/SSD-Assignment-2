@@ -1,0 +1,16 @@
+
+™python:S1192ª"UDefine a constant instead of duplicating this literal 'Fetch failed: %s: %s' 3 times.(ÍÅàúÿÿÿÿJ$7380e905-138f-46c3-b1f3-e658b81f4e01
+“python:S3776ê"TRefactor this function to reduce its Cognitive Complexity from 44 to the 15 allowed.(Ë‡âÄJ$8cf8d27f-be8b-47da-98ad-e7a552e5e0c3
+“python:S3776á"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(ıßóJ$398ad4c2-d0eb-42e9-8196-216d15bbf3a1
+[python:S2772…"Remove this unneeded "pass".(ºÓØüJ$ba1ff305-b79f-414d-a974-0de53d58827f
+bpython:S125ê"Remove this commented out code.(÷ƒœ–şÿÿÿÿJ$eb6be065-c122-43c8-965b-bfafde2a2c0d
+˜python:S5843™"TSimplify this regular expression to reduce its complexity from 57 to the 20 allowed.(ñ»¸¥øÿÿÿÿJ$45bca2d5-f818-45bc-b3c7-677adc3663b5
+gpython:S5603´"(Remove this unused function declaration.(’çâšJ$bda6aa2b-94e7-4d73-9210-664be72e0583
+opython:S1481ú"+Replace the unused loop index "i" with "_".(ı È£ûÿÿÿÿJ$0a23e2bd-d88b-4ffd-933b-c8aaea2aa710
+“python:S3776Ù"TRefactor this function to reduce its Cognitive Complexity from 28 to the 15 allowed.(—ÿÏáJ$f991732f-57c5-4baf-92a9-7ae58655ab1d
+˜python:S3776ú"TRefactor this function to reduce its Cognitive Complexity from 35 to the 15 allowed.(‹•²òşÿÿÿÿJ$ff77e11f-07d1-48ee-8b2d-10c9ed23964f
+rpython:S1172Ú".Remove the unused function parameter "parent".(´öĞ„úÿÿÿÿJ$3f5e9c80-3624-4a21-9592-7dda50018325
+spython:S1135£"4Complete the task associated to this "TODO" comment.(şŒ†·J$cda576ad-442f-4a86-93a1-e75ea3076359
+“python:S3776é"TRefactor this function to reduce its Cognitive Complexity from 49 to the 15 allowed.(ûÒÃáJ$8e307363-a4dc-420f-b84b-71aa823d8c7a
+“python:S3776«	"TRefactor this function to reduce its Cognitive Complexity from 65 to the 15 allowed.(‰”ºJ$1bcaca01-5e24-4b93-8302-65897d155864
+]python:S125ã	"Remove this commented out code.(àØ£©J$f1bc878b-d984-4cd2-a89e-d29bb2aacf82

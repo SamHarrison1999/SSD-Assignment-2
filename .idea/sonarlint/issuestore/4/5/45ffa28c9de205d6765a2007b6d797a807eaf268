@@ -1,0 +1,4 @@
+
+¹python:S101Y"|Rename class "_PGExecutionContext_common_psycopg" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(ô•¤öJ$dec253fe-d8a0-40df-b271-54ec98ec89ce
+µpython:S101d"sRename class "_PGDialect_common_psycopg" to match the regular expression ^_?([A-Z_][a-zA-Z0-9]*|[a-z_][a-z0-9_]*)$.(Ï¡êšúÿÿÿÿJ$20089a6f-01a2-4975-9a93-c73dcd41ca31
+wpython:S1172›"8Remove the unused function parameter "dbapi_connection".(á€»ÖJ$63301aea-d51e-449a-96cf-8a71a1b181c3

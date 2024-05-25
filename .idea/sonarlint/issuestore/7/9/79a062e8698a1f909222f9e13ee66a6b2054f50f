@@ -1,0 +1,17 @@
+
+™python:S1192×"ZDefine a constant instead of duplicating this literal "%s objects are unhashable" 3 times.(¸òéùJ$01aca187-a616-4f0a-b00e-422232f2a913
+špython:S107U"XFunction "association_proxy" has 15 parameters, which is greater than the 13 authorized.(œıĞ›şÿÿÿÿJ$64bf7e09-6716-4271-870e-9ef5b6de649a
+˜python:S3776÷"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ØÄ³¶üÿÿÿÿJ$deb6bbd2-f434-4cb5-9310-9d6783122314
+Œpython:S1764ó"MCorrect one of the identical sub-expressions on both sides of operator "and".(•ÕèÖJ$e9edd5c5-d1e8-45c4-9370-af65fae897a7
+˜python:S3776Ÿ"TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(ìµş©ùÿÿÿÿJ$37147843-95f2-4cb0-a685-b88f43ed9b93
+\python:S3626İ"Remove this redundant return.(ÙãŞŸJ$02e60977-d426-4bde-8dab-5f5a39083151
+python:S5712½"@Return "NotImplemented" instead of raising "NotImplementedError"(ÆŠé“J$46c26a0d-f718-4f16-ab31-431093513f3d
+xpython:S1135Å"4Complete the task associated to this "TODO" comment.(Âï†íùÿÿÿÿJ$9fe4661e-e144-4544-8edf-6dbfaf17fb83
+xpython:S1135¢"4Complete the task associated to this "TODO" comment.(ƒŞİûÿÿÿÿJ$7adb458b-df9f-4f59-8e7c-aec33ee36ae5
+¨python:S1871è"dEither merge this branch with the identical one on line "1766" or change one of the implementations.(¬÷«„úÿÿÿÿJ$6b5b99e2-4f68-47b4-899c-5490e67cbbd7
+\python:S3626œ"Remove this redundant return.(ÙãŞŸJ$cb6c533c-0fc2-4091-91e3-52a83a17f5b9
+¨python:S1871É"dEither merge this branch with the identical one on line "1863" or change one of the implementations.(û…‚ÿÿÿÿÿJ$3ca58bc7-9b9e-4e01-964b-bf997c1aa01b
+python:S5712Ò"@Return "NotImplemented" instead of raising "NotImplementedError"(ÆŠé“J$40f0e942-a368-4749-bf05-ffd82c4c22e2
+python:S5712í"@Return "NotImplemented" instead of raising "NotImplementedError"(ÆŠé“J$d2b07702-ff52-448f-be8d-9d9efc1e8601
+python:S5712…"@Return "NotImplemented" instead of raising "NotImplementedError"(ÆŠé“J$ef22d597-9119-479f-82cf-1a8dc1958558
+python:S5712£"@Return "NotImplemented" instead of raising "NotImplementedError"(ÆŠé“J$0afe3f59-82dd-4ff4-a60d-aefd063bf639

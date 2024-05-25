@@ -1,0 +1,43 @@
+
+¹python:S1192‰"zDefine a constant instead of duplicating this literal "Can't perform this operation for unregistered loader type" 3 times.(—İÑèJ$024dbb6d-fb43-4083-82a8-29ffc78281da
+python:S1192”"KDefine a constant instead of duplicating this literal '.dist-info' 3 times.(üÓ»¯úÿÿÿÿJ$b53a44b0-5571-49af-8b86-91e07babed24
+python:S1192”"JDefine a constant instead of duplicating this literal '.egg-info' 3 times.(üÓ»¯úÿÿÿÿJ$c9ec96fb-6656-4138-8ca5-6a57b9cbc1d2
+python:S1192Î
+"ODefine a constant instead of duplicating this literal '[^A-Za-z0-9.]+' 3 times.(äÆÖìJ$7a31601c-6821-47cc-a0de-454400d3229c
+ypython:S6353n";Use concise character class syntax '\d' instead of '[0-9]'.(ŸÉ™®J$d3c0ae3c-b493-429e-8ed1-986fa588025c
+ypython:S6353n";Use concise character class syntax '\d' instead of '[0-9]'.(ŸÉ™®J$c56f3e4e-3282-4e87-96e0-699f93fc649a
+ypython:S6353n";Use concise character class syntax '\d' instead of '[0-9]'.(ŸÉ™®J$9df7dafe-830f-4cdd-86a7-25198e269dd4
+jpython:S1172–"+Remove the unused function parameter "key".(»š„İJ$9c2372c4-853f-436c-ba70-e388dfa3bf9b
+jpython:S1172Ÿ"+Remove the unused function parameter "key".(ÎÉèñJ$06ff0661-eccf-42f9-8859-ca044c5b9f4e
+špython:S117ı"WRename this parameter "moduleOrReq" to match the regular expression ^[_a-z][a-z0-9_]*$.(ü¬³ ùÿÿÿÿJ$4f61e2cc-c98d-437c-b785-e938ad230b91
+python:S117Ğ"[Rename this local variable "provDarwin" to match the regular expression ^[_a-z][a-z0-9_]*$.(´€¹ùÿÿÿÿJ$6732b8c9-74c7-40ac-960f-6a95bcf5e3c5
+–python:S117É"XRename this local variable "provMac" to match the regular expression ^[_a-z][a-z0-9_]*$.(åÆJ$e4f89f80-c457-4083-b065-60e397c57bcb
+špython:S117Ç"WRename this local variable "reqMac" to match the regular expression ^[_a-z][a-z0-9_]*$.(ü§íúşÿÿÿÿJ$97f2720b-040c-4a22-85c3-c1e7ec268a87
+“python:S3776»"TRefactor this function to reduce its Cognitive Complexity from 20 to the 15 allowed.(©±…òJ$75d3308b-92e8-45dc-9349-e77f84b8261e
+“python:S3776°"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(äÆ†àJ$cd368b70-74ed-44ec-9c8c-ab89dcffa766
+tpython:S1172ƒ
+"0Remove the unused function parameter "filename".(‘Ÿ«ÊúÿÿÿÿJ$64f82b7f-5b68-457a-ab5f-68b062b35f10
+qpython:S1172¯
+"-Remove the unused function parameter "force".(ñØ”ûÿÿÿÿJ$8e545c73-f25a-4d17-a399-f94ff487a0b6
+qpython:S1172œ"-Remove the unused function parameter "extra".(…—İŞüÿÿÿÿJ$c026c433-4899-4bc8-820e-c762f522f0fa
+npython:S1172¶"/Remove the unused function parameter "manager".(€‚ÒÈJ$a3a8890d-906b-458f-84d9-f5c7f25e5918
+spython:S1172¼"/Remove the unused function parameter "manager".(“¿ò¼üÿÿÿÿJ$40bd95a8-809f-4016-a2f4-b2081fa75b07
+python:S1186¾"YAdd a nested comment explaining why this method is empty, or complete the implementation.(Áû¹ÇûÿÿÿÿJ$fe3ecc80-cc8e-42b9-a120-fcbf2c6bfb4d
+python:S1134«"LTake the required action to fix the issue indicated by this "FIXME" comment.(£Ë˜ÿÿÿÿÿJ$d104496a-fc35-465e-a482-f10a68840080
+qpython:S1481³"2Replace the unused local variable "size" with "_".(‡ı×ªJ$625eef3f-b8e2-403b-8f1b-7aa7de61a922
+†python:S5799·"GMerge these implicitly concatenated strings; or did you forget a comma?(ˆº®¡J$6893fb82-3ca4-4fcc-a7e1-1cab625eb9ab
+ˆpython:S3358Ä"IExtract this nested conditional expression into an independent statement.(¤Œ–ÿJ$343c0662-ff82-4bc6-8782-7d5c86032dc6
+‡python:S3358Æ"IExtract this nested conditional expression into an independent statement.(—öáYJ$217c3ff0-3fc4-4dd4-8f91-e649e9e7ee15
+špython:S117±"WRename this parameter "packageName" to match the regular expression ^[_a-z][a-z0-9_]*$.(’¥æÕüÿÿÿÿJ$89a8d023-e9c0-44c6-affb-ab4c71eae6b5
+špython:S117ø"WRename this parameter "packageName" to match the regular expression ^[_a-z][a-z0-9_]*$.(‹ù¡ÌúÿÿÿÿJ$cb70f588-a682-43ea-96b8-76f283b63d49
+•python:S117¯"WRename this parameter "packageName" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÑñúJ$2c45d026-a7e6-48c5-b6bd-e9e8abff9bb8
+•python:S117Ã"WRename this parameter "packageName" to match the regular expression ^[_a-z][a-z0-9_]*$.(š¸±ÎJ$89216b7d-154e-4199-83ae-a40b76963bcd
+•python:S117÷"WRename this parameter "packageName" to match the regular expression ^[_a-z][a-z0-9_]*$.(Õİ¹£J$bb385f88-3f35-46e7-8838-5cfb23522d27
+hpython:S1940ó")Use the opposite operator ("!=") instead.( È×J$ce566109-5816-43aa-89a1-97a860e9463e
+python:S1854Ì"NRemove this assignment to local variable 'new_extra'; the value is never used.(ÿ×øJ$860819d5-2232-4f97-b7af-ee94e9defb15
+‹python:S1134Ş"LTake the required action to fix the issue indicated by this "FIXME" comment.(ù†ŠéJ$2a008f06-ac2c-4c9a-aa91-185814394762
+\python:S3626¡"Remove this redundant return.(ÙãŞŸJ$d8defb4c-e524-44d7-880c-3bb2e1ccdf55
+˜python:S3776ß"TRefactor this function to reduce its Cognitive Complexity from 30 to the 15 allowed.(£ˆòŠşÿÿÿÿJ$5ad7ed23-0f63-422d-a191-1c142813568c
+spython:S1135Ä"4Complete the task associated to this "TODO" comment.(ÕŞ•ÊJ$5f56581a-a072-4164-81e2-0c73964200e6
+hpython:S1940Ò")Use the opposite operator ("!=") instead.( È×J$3b380ea7-67e6-4e09-97cf-19eba3833691
+¡python:S5717Ç"]Change this default value to "None" and initialize this parameter inside the function/method.(Ôö…–úÿÿÿÿJ$0ec40322-0f64-4dc6-b5a7-620a8f6a4081
