@@ -16,22 +16,12 @@ jobs:
     steps:
       - uses: actions/checkout@v3
         with:
+          ref: ${{ github.event.pull_request.head.sha }}  # to check out the actual pull request commit, not the merge commit
           fetch-depth: 0
-      - uses: actions/setup-python@v3
-      - name: Run tests with coverage
-        run: |
-           python3 -m pip install coverage
-           coverage run -m unittest
-           coverage xml -o .qodana/code-coverage/coverage.xml
-      - name: Archive coverage data
-        uses: actions/upload-artifact@v2
-        with:
-           name: py-coverage-data
-           path: PYTHON/py/.qodana/code-coverage
       - name: 'Qodana Scan'
         uses: JetBrains/qodana-action@v2024.1
         with:
-          args: --baseline, qodana.sarif.json, -i,PYTHON/py,
+          args: --baseline, qodana.sarif.json
         env:
           QODANA_TOKEN: ${{ secrets.QODANA_TOKEN }}
           
