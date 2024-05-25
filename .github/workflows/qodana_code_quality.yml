@@ -20,6 +20,7 @@ jobs:
       - uses: actions/setup-python@v3
       - name: Run tests with coverage
         run: |
+           python3 -m pip install coverage
            coverage run -m unittest
            coverage xml -o .qodana/code-coverage/coverage.xml
       - name: Archive coverage data
