@@ -1,9 +1,16 @@
+"""File for performing automated tests using playwright"""
+
 import re
 
 from playwright.sync_api import sync_playwright, Playwright, expect
 
 
 def test_place_order(playwright: Playwright):
+    """
+    Automated test for placing an order
+    :param playwright: Playwright instance
+    :return:
+    """
     chromium = playwright.chromium  # or "firefox" or "webkit".
     browser = chromium.launch(headless=False, slow_mo=500)
     page = browser.new_page()
@@ -32,6 +39,11 @@ def test_place_order(playwright: Playwright):
 
 
 def test_register(playwright: Playwright):
+    """
+    Automated test for creating a new user
+    :param playwright: Playwright instance
+    :return:
+    """
     chromium = playwright.chromium  # or "firefox" or "webkit".
     browser = chromium.launch(headless=False, slow_mo=500)
     page = browser.new_page()
@@ -60,6 +72,11 @@ def test_register(playwright: Playwright):
 
 
 def test_delete_user(playwright: Playwright):
+    """
+    Automated test deleting a user
+    :param playwright: Playwright instance
+    :return:
+    """
     chromium = playwright.chromium  # or "firefox" or "webkit".
     browser = chromium.launch(headless=False, slow_mo=500)
     page = browser.new_page()
@@ -88,6 +105,11 @@ def test_delete_user(playwright: Playwright):
 
 
 def test_changing_order_status(playwright: Playwright):
+    """
+    Automated test for updating the status of an order
+    :param playwright: Playwright instance
+    :return:
+    """
     chromium = playwright.chromium  # or "firefox" or "webkit".
     browser = chromium.launch(headless=False, slow_mo=500)
     page = browser.new_page()
@@ -168,6 +190,11 @@ def test_changing_order_status(playwright: Playwright):
 
 
 def test_edit_cart(playwright: Playwright):
+    """
+    Automated test for updating your cart
+    :param playwright: Playwright instance
+    :return:
+    """
     chromium = playwright.chromium  # or "firefox" or "webkit".
     browser = chromium.launch(headless=False, slow_mo=500)
     page = browser.new_page()
@@ -204,6 +231,11 @@ def test_edit_cart(playwright: Playwright):
 
 
 def test_error_page(playwright: Playwright):
+    """
+    Automated test for error pages
+    :param playwright: Playwright instance
+    :return:
+    """
     chromium = playwright.chromium  # or "firefox" or "webkit".
     browser = chromium.launch(headless=False, slow_mo=500)
     page = browser.new_page()
@@ -235,6 +267,11 @@ def test_error_page(playwright: Playwright):
 
 
 def test_change_password(playwright: Playwright):
+    """
+    Automated test for changing your password
+    :param playwright: Playwright instance
+    :return:
+    """
     chromium = playwright.chromium  # or "firefox" or "webkit".
     browser = chromium.launch(headless=False, slow_mo=500)
     page = browser.new_page()
