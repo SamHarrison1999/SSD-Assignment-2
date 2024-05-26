@@ -3,6 +3,7 @@ Init file for the application
 """
 # Import statements
 import os
+import logging
 from flask import Flask, render_template
 from flask_sqlalchemy import SQLAlchemy
 from flask_bcrypt import Bcrypt
@@ -11,6 +12,7 @@ from dotenv import load_dotenv
 
 # Configuration for the app
 app = Flask(__name__)
+app.logger.setLevel(logging.INFO)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///eCommerceWebsite.db'
 app.config['SECRET_KEY'] = os.getenv("SECRET_KEY")
 db = SQLAlchemy(app)
