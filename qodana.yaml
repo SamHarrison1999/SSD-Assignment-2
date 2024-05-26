@@ -34,3 +34,4 @@ failureConditions:
 exclude:
   - name: PyUnresolvedReferencesInspection
   - name: PyInterpreterInspection
+  - name: PyMethodMayBeStaticInspection
