@@ -28,6 +28,7 @@ class RegisterForm(FlaskForm):
         :param username_to_check: The user's username
         :return:
         """
+        # Check the username doesn't already exist
         user = Customer.query.filter_by(username=username_to_check.data).first()
         if user:
             raise ValidationError(
@@ -40,6 +41,7 @@ class RegisterForm(FlaskForm):
         :param email_to_check: The users email address
         :return:
         """
+        # Check if the email isn't already associated with another account
         email = (Customer.
                  query.
                  filter_by(email=email_to_check.data).first())
@@ -99,6 +101,7 @@ class OrderForm(FlaskForm):
     """
     Form used to place an order
     """
+    # Possible order statuses
     order_status = SelectField('Order Status', choices=[
         ('Pending', 'Pending'),
         ('Accepted', 'Accepted'),

@@ -44,6 +44,7 @@ class Customer(db.Model, UserMixin):
         :param password: The plain text password
         :return:
         """
+        # Applying hashing algorithm to the password
         self.password_hash = bcrypt.generate_password_hash(password).decode('utf-8')
 
     def verify_password(self, password):
@@ -52,6 +53,7 @@ class Customer(db.Model, UserMixin):
         :param password: The entered password
         :return: Boolean indicating if the entered password is correct
         """
+        # Verify the user's password
         return bcrypt.check_password_hash(self.password_hash, password)
 
     def __str__(self):
