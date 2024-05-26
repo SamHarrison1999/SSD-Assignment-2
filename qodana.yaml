@@ -35,3 +35,6 @@ exclude:
   - name: PyUnresolvedReferencesInspection
   - name: PyInterpreterInspection
   - name: PyMethodMayBeStaticInspection
+  - name: All
+    paths:
+      - docs
