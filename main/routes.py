@@ -969,7 +969,7 @@ def dictionary_attack():
         If successful, returns 302 status code
 
     Example request:
-        GET http://127.0.0.1:5000//attacker/dictionary-attack
+        GET http://127.0.0.1:5000/attacker/dictionary-attack
 
     How it works:
         It checks every password from the common password and if it finds a match alerts the attacker to the admins password
