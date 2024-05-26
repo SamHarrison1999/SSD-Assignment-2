@@ -3,9 +3,9 @@ Routes of the application
 """
 # Import statements
 import os
+
 from flask import render_template, redirect, url_for, flash, request, send_from_directory, jsonify
 from flask_login import login_user, logout_user, login_required, current_user
-from intasend import APIService
 from sqlalchemy.exc import SQLAlchemyError
 from werkzeug.utils import secure_filename
 
@@ -711,7 +711,7 @@ def place_order():
                 # Create order
                 new_order = Order()
                 new_order.quantity = item.quantity
-                new_order.price = item.product.price
+                new_order.price = total
                 new_order.status = 'Pending'
                 new_order.payment_id = 1
                 new_order.product_id = item.product_id
@@ -964,7 +964,7 @@ def dictionary_attack():
         GET http://127.0.0.1:5000/attacker/dictionary-attack
 
     How it works:
-        It checks every password from the common password and if it finds a match alerts the attacker to the admins password
+        It checks a list common password and if it finds a match alerts the attacker to the admins password
     """
     app.config['WTF_CSRF_ENABLED'] = False
     # Check the administrator's password is in the list of common passwords
