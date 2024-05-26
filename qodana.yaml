@@ -10,7 +10,8 @@ profile:
 
 #Enable inspections
 include:
- - name: PyVulnerableApiCode
+  - name: PyVulnerableApiCode
+  - name: PyMissingOrEmptyDocstringInspection
 
 #Disable inspections
 #exclude:
