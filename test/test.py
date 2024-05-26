@@ -1,3 +1,4 @@
+from flask_Captchaify import Captchaify
 from flask_testing import TestCase
 
 from main import db, app
@@ -27,6 +28,9 @@ class test(TestCase):
             email=email,
             password=password
         ), follow_redirects=True)
+
+    def dictionary_attack(self):
+        return self.client.get('/attacker/dictionary-attack', follow_redirects=True)
 
     def register(self, username, email, password, confirm_password):
         return self.client.post('/register', data=dict(
@@ -345,7 +349,7 @@ class test(TestCase):
         self.register("admin", "admin@admin.com", "123456", "123456")
         self.login("admin@admin.com", "123456")
         rv = self.delete_customer(1)
-        assert "account has been deleted successfully" in rv.data.decode('utf-8')
+        assert "The account" and "has been deleted" in rv.data.decode('utf-8')
 
     def test__access_denied_when_non_admin_attempts_to_delete_customer(self):
         self.register("test", "test@test.com", "123456", "123456")
@@ -453,6 +457,11 @@ class test(TestCase):
         rv = self.client.get("/search", follow_redirects=True)
         assert 'Search Page' in rv.data.decode('utf-8')
         assert rv.request.path == '/search'
+
+    def test_dictionary_attack(self):
+        self.register("admin", "admin@admin.com", "123456", "123456")
+        rv = self.dictionary_attack()
+        assert 'Password is 123456' in rv.data.decode('utf-8')
 
     def test_get_image(self):
         self.get_image('AppleWatch.jpg')

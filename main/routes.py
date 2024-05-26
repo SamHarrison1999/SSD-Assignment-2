@@ -1,3 +1,5 @@
+"""File for setting up the routes of the application"""
+import os
 from flask import render_template, redirect, url_for, flash, request, send_from_directory, jsonify
 from flask_login import login_user, logout_user, login_required, current_user
 from intasend import APIService
@@ -9,7 +11,7 @@ from main.models import Product, Customer, Cart, Order
 
 
 class CustomException(Exception):
-    pass
+    """Class for custom exceptions"""
 
 
 ACCESS_DENIED_HTML = 'access-denied.html'
@@ -22,12 +24,21 @@ with app.app_context():
 
 @app.route('/media/<path:filename>')
 def get_image(filename):
+    """
+    Function to load the images on the webpage
+    :param filename: The name of the file
+    :return: The image
+    """
     return send_from_directory('../media', filename)
 
 
 @app.route('/')
 @app.route('/home')
 def home_page():
+    """
+    Function for the home page of the application
+    :return: The home page
+    """
     items = Product.query.all()
     return render_template("home.html",
                            items=items,
@@ -37,6 +48,10 @@ def home_page():
 
 @app.route('/register', methods=['GET', 'POST'])
 def register_page():
+    """
+    Function for loading the register page and creating a new user
+    :return: The register page
+    """
     form = RegisterForm()
     if form.validate_on_submit():
         username = form.username.data
@@ -65,6 +80,10 @@ def register_page():
 
 @app.route('/login', methods=['GET', 'POST'])
 def login_page():
+    """
+    Function for loading the login page and logging in the user
+    :return: The login page
+    """
     form = LoginForm()
     if form.validate_on_submit():
         attempted_user = Customer.query.filter_by(email=form.email.data).first()
@@ -79,6 +98,10 @@ def login_page():
 @app.route('/logout')
 @login_required
 def logout_page():
+    """
+    Function for logging out the user
+    :return:
+    """
     logout_user()
     flash('You are now logged out', category='info')
     return redirect(url_for('home_page'))
@@ -87,6 +110,11 @@ def logout_page():
 @app.route('/profile/<int:customer_id>')
 @login_required
 def profile_page(customer_id):
+    """
+    Function for accessing the user's profile page
+    :param customer_id: the users id
+    :return: The user's profile page
+    """
     customer = Customer.query.get(customer_id)
     if current_user.id == customer_id:
         return render_template('profile.html', customer=customer)
@@ -96,6 +124,11 @@ def profile_page(customer_id):
 @app.route('/change_password/<int:customer_id>', methods=["GET", "POST"])
 @login_required
 def change_password_page(customer_id):
+    """
+    Function for changing the user's password
+    :param customer_id: The users id
+    :return: The change password page
+    """
     form = ChangePasswordForm()
     customer = Customer.query.get(customer_id)
     if form.validate_on_submit():
@@ -119,6 +152,10 @@ def change_password_page(customer_id):
 @app.route('/create_product', methods=['GET', 'POST'])
 @login_required
 def create_product():
+    """
+    Function for creating a new product
+    :return: The created product page
+    """
     if current_user.email == ADMIN_EMAIL:
         form = ShopItemsForm()
         if form.validate_on_submit():
@@ -151,6 +188,10 @@ def create_product():
 @app.route('/view-shop-items', methods=['GET', 'POST'])
 @login_required
 def shop_items():
+    """
+    Function for viewing shop items
+    :return: The shop items being displayed on the page
+    """
     if current_user.email == ADMIN_EMAIL:
         items = Product.query.order_by(Product.date_added).all()
         return render_template('shop_items.html', items=items)
@@ -160,6 +201,11 @@ def shop_items():
 @app.route('/update-item/<int:product_id>', methods=['GET', 'POST'])
 @login_required
 def update_item(product_id):
+    """
+    Function for updating a product
+    :param product_id: The id of the product
+    :return: The update item page
+    """
     if current_user.email == ADMIN_EMAIL:
         form = ShopItemsForm()
         item_to_update = Product.query.get(product_id)
@@ -196,6 +242,11 @@ def update_item(product_id):
 @app.route('/delete-item/<int:product_id>', methods=['GET', 'DELETE'])
 @login_required
 def delete_item(product_id):
+    """
+    Function to remove an item from the website
+    :param product_id: The product id
+    :return: A page containg an updated list of all items for sale
+    """
     if current_user.email == ADMIN_EMAIL:
         item_to_delete = Product.query.get(product_id)
         db.session.delete(item_to_delete)
@@ -208,6 +259,11 @@ def delete_item(product_id):
 @app.route('/add-to-cart/<int:product_id>', methods=['GET', 'POST'])
 @login_required
 def add_to_cart(product_id):
+    """
+    Function for adding a item to the cart
+    :param product_id: The id of the item
+    :return:
+    """
     item_to_add = Product.query.get(product_id)
     item_exists = Cart.query.filter_by(product_id=product_id, customer_id=current_user.id).first()
     if item_exists:
@@ -228,6 +284,10 @@ def add_to_cart(product_id):
 @app.route('/increase-quantity', methods=['GET'])
 @login_required
 def increase_quantity():
+    """
+    Function for increasing the quantity of a product in your cart
+    :return: The updated cart
+    """
     cart_id = request.args.get('cart_id')
     cart_item = Cart.query.get(cart_id)
     cart_item.quantity += 1
@@ -246,6 +306,10 @@ def increase_quantity():
 @app.route('/decrease-quantity', methods=['GET'])
 @login_required
 def decrease_quantity():
+    """
+    Function for decreasing the quantity of a product in your cart
+    :return: The updated cart
+    """
     cart_id = request.args.get('cart_id')
     cart_item = Cart.query.get(cart_id)
     cart_item.quantity -= 1
@@ -264,6 +328,10 @@ def decrease_quantity():
 @app.route('/remove-from-cart', methods=['GET'])
 @login_required
 def remove_from_cart():
+    """
+    Function for removing an item from your cart
+    :return: The updated cart
+    """
     cart_id = request.args.get('cart_id')
     cart_item = Cart.query.get(cart_id)
     db.session.delete(cart_item)
@@ -282,6 +350,10 @@ def remove_from_cart():
 @app.route('/cart')
 @login_required
 def show_cart():
+    """
+    Function for showing your cart
+    :return: The cart page showing all items in your cart
+    """
     cart = Cart.query.filter_by(customer_id=current_user.id).all()
     amount = 0
     for item in cart:
@@ -292,6 +364,10 @@ def show_cart():
 @app.route('/place-order')
 @login_required
 def place_order():
+    """
+    Function for placing an order
+    :return: The orders page after placing your order
+    """
     customer_cart = Cart.query.filter_by(customer_id=current_user.id)
     if customer_cart:
         try:
@@ -331,12 +407,20 @@ def place_order():
 @app.route('/orders')
 @login_required
 def my_orders():
+    """
+    Function for displaying a customer's order history
+    :return: The customers order history
+    """
     orders = Order.query.filter_by(customer_id=current_user.id).all()
     return render_template('orders.html', orders=orders)
 
 
 @app.route('/search', methods=['GET', 'POST'])
 def search():
+    """
+    Function for searching for a product by its name
+    :return: The items matching the search criteria
+    """
     if request.method == 'POST':
         search_query = request.form.get('search')
         items = Product.query.filter(Product.name.ilike(f'%{search_query}%')).all()
@@ -350,6 +434,10 @@ def search():
 @app.route('/view-orders')
 @login_required
 def order_view():
+    """
+    Function for managing orders
+    :return: The manage orders page
+    """
     if current_user.email == ADMIN_EMAIL:
         orders = Order.query.all()
         return render_template('view_orders.html', orders=orders)
@@ -359,6 +447,11 @@ def order_view():
 @app.route('/update-order/<int:order_id>', methods=['GET', 'POST'])
 @login_required
 def update_order(order_id):
+    """
+    Function for updating the order status
+    :param order_id: The id of the order
+    :return: The updated order status
+    """
     if current_user.email == ADMIN_EMAIL:
         form = OrderForm()
 
@@ -379,6 +472,10 @@ def update_order(order_id):
 @app.route('/customers')
 @login_required
 def display_customers():
+    """
+    Function for managing customers
+    :return: A page containing customer data
+    """
     if current_user.email == ADMIN_EMAIL:
         customers = Customer.query.all()
         return render_template('customers.html', customers=customers)
@@ -388,6 +485,11 @@ def display_customers():
 @app.route('/customers/<int:customer_id>', methods=['GET', 'DELETE'])
 @login_required
 def delete_customer(customer_id):
+    """
+    Function for deleting a user
+    :param customer_id: The users id
+    :return: A page contain an updated list of users
+    """
     if current_user.email == ADMIN_EMAIL:
         account_to_delete = Customer.query.get(customer_id)
         print(account_to_delete)
@@ -398,3 +500,30 @@ def delete_customer(customer_id):
             category='success')
         return redirect(url_for('display_customers'))
     return render_template(ACCESS_DENIED_HTML)
+
+
+def common_passwords():
+    """
+    Function for reading the common passwords for the common passwords file
+    :return: A list of common passwords
+    """
+    script_dir = os.path.dirname(__file__)
+    script_dir.replace("\\", '/')
+    with open(f'{script_dir}/common_passwords.txt', 'r', encoding="utf-8") as f:
+        most_common_passwords = f.read().split('\n')
+    return most_common_passwords
+
+
+@app.route('/attacker/dictionary-attack', methods=['GET', 'POST'])
+def dictionary_attack():
+    """
+    Function for performing a diction attack
+    :return: The password of the user if found
+    """
+    app.config['WTF_CSRF_ENABLED'] = False
+    for password in common_passwords():
+        attempted_user = Customer.query.filter_by(email='admin@admin.com').first()
+        if attempted_user and attempted_user.verify_password(password=password):
+            flash(f"Password is {password}'", category='success')
+            login_user(attempted_user)
+            return redirect(url_for('home_page'))

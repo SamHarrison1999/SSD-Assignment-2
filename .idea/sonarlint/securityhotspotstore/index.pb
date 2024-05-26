@@ -10147,3 +10147,7 @@ Q.idea/sonarlint/securityhotspotstore/9/f/9fdf2a36ec40c35d7ec9b0a1b6c574b5c2d223
 .env,3\c\3c84dcdc6bbe3d7817c49dcdc327b926fea1808a
 @
 requirements.txt,1\9\19359a61ae2446b51b549167b014da2fcf265768
+H
+main/10k-most-common.txt,a\1\a1a702a275877dc39253df58f3e2b50d2bc75ce2
+I
+main/common_passwords.txt,9\b\9ba90ff84e337fa26fb4d5a362dee1e80530a116

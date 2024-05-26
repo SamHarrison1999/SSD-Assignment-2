@@ -1,3 +1,3 @@
 
-tpython:S4502"1Make sure disabling CSRF protection is safe here.(«…‡ÿûÿÿÿÿJ$0a4e95c4-de45-47f7-a040-670d58830d68
-python:S2068	"J"SECRET_KEY" detected here, review this potentially hard-coded credential.(Ô›¿ÕùÿÿÿÿJ$418ad714-2807-4266-b9af-e0302bfdaef4
+{python:S4502"1Make sure disabling CSRF protection is safe here.(«…‡ÿûÿÿÿÿ8Èµ‘‘û1J$e779ae7c-7118-44b4-94a0-d16e952dc2a9
+”python:S2068	"J"SECRET_KEY" detected here, review this potentially hard-coded credential.(ñã€¶ÿÿÿÿÿ8Èµ‘‘û1J$ec33332d-2b7f-4aaa-bee4-735149ec65fe
