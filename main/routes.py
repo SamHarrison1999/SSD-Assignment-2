@@ -1,4 +1,6 @@
-"""File for setting up the routes of the application"""
+"""
+Routes of the application
+"""
 # Import statements
 import os
 from flask import render_template, redirect, url_for, flash, request, send_from_directory, jsonify
@@ -44,10 +46,18 @@ def get_image(filename):
 @app.route('/home')
 def home_page():
     """
-    Function for the home page of the application
-    :return: The home page
+    Home Api
+
+    Description:
+        This loads the home page for the application showing all the available products
+
+    Response:
+        If successful, returns 200 status code
+
+    Example request:
+        GET http://127.0.0.1:5000/
+
     """
-    # Display all items on the home page
     items = Product.query.all()
     return render_template("home.html",
                            items=items,
@@ -58,8 +68,38 @@ def home_page():
 @app.route('/register', methods=['GET', 'POST'])
 def register_page():
     """
-    Function for loading the register page and creating a new user
-    :return: The register page
+    Register Api
+
+    Description:
+        This loads the register page for the application
+
+    Response:
+        If successful, returns 302 status code
+
+    Example request:
+        POST http://127.0.0.1:5000/register
+
+    Request Body:
+        csrf_token: IjBlOTcwMzZiYWZjNGY5MjUwZWYyM2I4NzY2NGVmMjFlNzZjM2FhOTIi.ZlOQgA.SAXfqP3Ja7yjE3bG1V3azh4r5oU
+
+        username: admin
+
+        email: admin@admin.com
+
+        password: 123456
+
+        confirm_password: 123456
+
+        submit: Create Account
+
+    How it works:
+        First the register page is loaded
+
+        Then the user inputs credentials and submits the form
+
+        Then if the registration is successful you are redirected to the home page
+
+        Otherwise the user is alert there has been an error creating the account
     """
     form = RegisterForm()
     # If the validation checks have passed
@@ -99,8 +139,34 @@ def register_page():
 @app.route('/login', methods=['GET', 'POST'])
 def login_page():
     """
-    Function for loading the login page and logging in the user
-    :return: The login page
+    Login Api
+
+    Description:
+        Loads the login page for the application and logs in the user
+
+    Response:
+        If successful, returns 302 status code
+
+    Example request:
+        POST http://127.0.0.1:5000/login
+
+    Request Body:
+        csrf_token: IjBlOTcwMzZiYWZjNGY5MjUwZWYyM2I4NzY2NGVmMjFlNzZjM2FhOTIi.ZlOQgA.SAXfqP3Ja7yjE3bG1V3azh4r5oU
+
+        email: admin@admin.com
+
+        password: 123456
+
+        submit: Login
+
+    How it works:
+        First the login page is loaded
+
+        Then the user inputs credentials and submits the form
+
+        Then if the login is successful you are redirected to the home page
+
+        Otherwise the user is alert there has been an error logging into the account
     """
     form = LoginForm()
     # If the validation checks have passed
@@ -123,8 +189,17 @@ def login_page():
 @login_required
 def logout_page():
     """
-    Function for logging out the user
-    :return:
+    Logout Api
+
+    Description:
+        This logs the user out
+
+    Response:
+        If successful, returns 302 status code
+
+    Example request:
+        GET http://127.0.0.1:5000/logout
+
     """
     # Logout the user
     logout_user()
@@ -138,9 +213,20 @@ def logout_page():
 @login_required
 def profile_page(customer_id):
     """
-    Function for accessing the user's profile page
-    :param customer_id: the users id
-    :return: The user's profile page
+    Profile Api
+
+    Description:
+        This loads the user's profile page
+
+    Parameters:
+        customer_id: The users id
+
+    Response:
+        If successful, returns 200 status code
+
+    Example request:
+        GET http://127.0.0.1:5000/profile/1
+
     """
     # Verify the customer and display their profile page
     customer = Customer.query.get(customer_id)
@@ -154,9 +240,39 @@ def profile_page(customer_id):
 @login_required
 def change_password_page(customer_id):
     """
-    Function for changing the user's password
-    :param customer_id: The users id
-    :return: The change password page
+    Change Password Api
+
+    Description:
+        Updates the user's password
+
+    Parameters:
+        customer_id: The users id
+
+    Response:
+        If successful, returns 302 status code
+
+    Example request:
+        POST http://127.0.0.1:5000/change_password/1
+
+    Request Body:
+        csrf_token: IjBlOTcwMzZiYWZjNGY5MjUwZWYyM2I4NzY2NGVmMjFlNzZjM2FhOTIi.ZlOQgA.SAXfqP3Ja7yjE3bG1V3azh4r5oU
+
+        current_password: 123456
+
+        new_password: 12345678
+
+        confirm_password: 12345678
+
+        submit: Update password
+
+    How it works:
+        First the change password page is loaded
+
+        Then the user inputs their current password and the password they want to change it to and submits the form
+
+        Then if the validation checks pass the password is updated, and they are redirected to the profile page
+
+        Otherwise the user is alert there has been an error updating their password
     """
     form = ChangePasswordForm()
     customer = Customer.query.get(customer_id)
@@ -193,8 +309,40 @@ def change_password_page(customer_id):
 @login_required
 def create_product():
     """
-    Function for creating a new product
-    :return: The created product page
+        Create product API
+
+        Description:
+            Adds a new product to the list of available products
+
+        Response:
+            If successful, returns 200 status code
+
+        Example request:
+            POST http://127.0.0.1:5000/create_product
+
+        Request Body:
+            csrf_token: IjBlOTcwMzZiYWZjNGY5MjUwZWYyM2I4NzY2NGVmMjFlNzZjM2FhOTIi.ZlOQgA.SAXfqP3Ja7yjE3bG1V3azh4r5oU
+
+            product_name: Apple Watch Ultra
+
+            price: 800
+
+            quantity: 1
+
+            description: Apple Watch
+
+            product_image: AppleWatch.jpg
+
+            add_product: Add Product
+
+        How it works:
+            First the add product page is loaded
+
+            Then the user inputs the values and submits the form
+
+            Then if the validation checks pass the product is created
+
+            Otherwise the user is alert there has been an error updating their password
     """
     # Verifies the user is the administrator
     if current_user.email == ADMIN_EMAIL:
@@ -239,8 +387,17 @@ def create_product():
 @login_required
 def shop_items():
     """
-    Function for viewing shop items
-    :return: The shop items being displayed on the page
+    Shop Items Api
+
+    Description:
+        This loads the shop items page for the application allowing administrators to manage shop items
+
+    Response:
+        If successful, returns 200 status code
+
+    Example request:
+        GET http://127.0.0.1:5000/view-shop-items
+
     """
     # Verify the user is an administrator
     if current_user.email == ADMIN_EMAIL:
@@ -255,9 +412,25 @@ def shop_items():
 @login_required
 def update_item(product_id):
     """
-    Function for updating a product
-    :param product_id: The id of the product
-    :return: The update item page
+    Update Items Api
+
+    Description:
+        This loads the update items page for the application allowing administrators to update an item
+
+    Parameters:
+        product_id: The id of the product
+
+    Response:
+        If successful, returns 302 status code
+
+    Example request:
+        POST http://127.0.0.1:5000/update-item/1
+
+    How it works:
+        First the update item page is loaded
+        Then the user inputs the values and submits the form
+        Then if the validation checks pass the product is update
+        Otherwise the user is alert there has been an error updating the product
     """
     # Check the user is an administrator
     if current_user.email == ADMIN_EMAIL:
@@ -306,9 +479,20 @@ def update_item(product_id):
 @login_required
 def delete_item(product_id):
     """
-    Function to remove an item from the website
-    :param product_id: The product id
-    :return: A page containg an updated list of all items for sale
+    Delete Item Api
+
+    Description:
+        This removes an item from the website
+
+    Parameters:
+        product_id: The id of the product
+
+    Response:
+        If successful, returns 200 status code
+
+    Example request:
+        DELETE http://127.0.0.1:5000/delete-item/1
+
     """
     # Verify the user is the administrator
     if current_user.email == ADMIN_EMAIL:
@@ -328,9 +512,19 @@ def delete_item(product_id):
 @login_required
 def add_to_cart(product_id):
     """
-    Function for adding a item to the cart
-    :param product_id: The id of the item
-    :return:
+    Add to cart Api
+
+    Description:
+        This adds an item to the cart
+
+    Parameters:
+        product_id: The id of the product
+
+    Response:
+        If successful, returns 302 status code
+
+    Example request:
+        GET http://127.0.0.1:5000/add-to-cart/1
     """
     # Get the product
     item_to_add = Product.query.get(product_id)
@@ -360,8 +554,19 @@ def add_to_cart(product_id):
 @login_required
 def increase_quantity():
     """
-    Function for increasing the quantity of a product in your cart
-    :return: The updated cart
+    Increase quantity Api
+
+    Description:
+        This increases the quantity of a product in your cart
+
+    Response:
+        If successful, returns 200 status code
+
+    Example request:
+        GET http://127.0.0.1:5000/increase-quantity?cart_id=1
+
+    How it works:
+        When the plus button is clicked the quantity is increased
     """
     # Get the cart for the user and increase the quantity of the item
     cart_id = request.args.get('cart_id')
@@ -385,8 +590,19 @@ def increase_quantity():
 @login_required
 def decrease_quantity():
     """
-    Function for decreasing the quantity of a product in your cart
-    :return: The updated cart
+    Decreased quantity Api
+
+    Description:
+        This decreases the quantity of a product in your cart
+
+    Response:
+        If successful, returns 200 status code
+
+    Example request:
+        GET http://127.0.0.1:5000/decrease-quantity?cart_id=1
+
+    How it works:
+        When the minus button is clicked, the quantity is decreased
     """
     # Get the cart for the user and increase the quantity of the item
     cart_id = request.args.get('cart_id')
@@ -410,8 +626,19 @@ def decrease_quantity():
 @login_required
 def remove_from_cart():
     """
-    Function for removing an item from your cart
-    :return: The updated cart
+    Remove from cart Api
+
+    Description:
+        This removing an item from your cart
+
+    Response:
+        If successful, returns 200 status code
+
+    Example request:
+        GET http://127.0.0.1:5000/remove-from-cart?cart_id=1
+
+    How it works:
+        When the remove button is clicked, the item is removed from your cart
     """
     # Get the cart for the user and remove the item from the cart
     cart_id = request.args.get('cart_id')
@@ -435,8 +662,16 @@ def remove_from_cart():
 @login_required
 def show_cart():
     """
-    Function for showing your cart
-    :return: The cart page showing all items in your cart
+    Show cart Api
+
+    Description:
+        This shows the items in your cart
+
+    Response:
+        If successful, returns 200 status code
+
+    Example request:
+        GET http://127.0.0.1:5000/cart
     """
     # Get the items in the cart
     cart = Cart.query.filter_by(customer_id=current_user.id).all()
@@ -452,8 +687,16 @@ def show_cart():
 @login_required
 def place_order():
     """
-    Function for placing an order
-    :return: The orders page after placing your order
+    Place order Api
+
+    Description:
+        This places an order
+
+    Response:
+        If successful, returns 200 status code
+
+    Example request:
+        GET http://127.0.0.1:5000/place-order
     """
     # Get the items in the cart
     customer_cart = Cart.query.filter_by(customer_id=current_user.id)
@@ -507,8 +750,16 @@ def place_order():
 @login_required
 def my_orders():
     """
-    Function for displaying a customer's order history
-    :return: The customers order history
+    Order history Api
+
+    Description:
+        This shows a users order history
+
+    Response:
+        If successful, returns 200 status code
+
+    Example request:
+        GET http://127.0.0.1:5000/orders
     """
     # Get the users order history
     orders = Order.query.filter_by(customer_id=current_user.id).all()
@@ -519,8 +770,27 @@ def my_orders():
 @app.route('/search', methods=['GET', 'POST'])
 def search():
     """
-    Function for searching for a product by its name
-    :return: The items matching the search criteria
+    Search Api
+
+    Description:
+        Loads the search pages and returns items matching the search criteria
+
+    Response:
+        If successful, returns 200 status code
+
+    Example request:
+        POST http://127.0.0.1:5000/search
+
+    Request Body:
+        search: Apple Watch
+        search_btn:
+
+    How it works:
+        First the search page is loaded
+
+        Then the user inputs the search term and clicks the search_btn
+
+        Then the search results are displayed
     """
     if request.method == 'POST':
         # Get the search query from the form
@@ -539,8 +809,17 @@ def search():
 @login_required
 def order_view():
     """
-    Function for managing orders
-    :return: The manage orders page
+    Manage orders Api
+
+    Description:
+        This loads the manage orders page
+
+    Response:
+            If successful, returns 200 status code
+
+    Example request:
+        GET http://127.0.0.1:5000/view-orders
+
     """
     # Verify the user is the administrator
     if current_user.email == ADMIN_EMAIL:
@@ -555,9 +834,31 @@ def order_view():
 @login_required
 def update_order(order_id):
     """
-    Function for updating the order status
-    :param order_id: The id of the order
-    :return: The updated order status
+    Update order status Api
+
+    Description:
+        This updates the status of an order
+
+    Parameters:
+        order_id: The id of the order
+
+    Response:
+        If successful, returns 302 status code
+
+    Example request:
+        POST http://127.0.0.1:5000/update-order/1
+
+    Request Body:
+        status: "Delivered"
+
+    How it works:
+        First the update order page is loaded
+
+        Then the user fills out and submits the form
+
+        Then if the update is successful you are redirected to the manage order page
+
+        Otherwise the user is alert there has been an error updating an order
     """
     # Verify the user is an administrator
     if current_user.email == ADMIN_EMAIL:
@@ -587,8 +888,17 @@ def update_order(order_id):
 @login_required
 def display_customers():
     """
-    Function for managing customers
-    :return: A page containing customer data
+    Manage users Api
+
+    Description:
+        This loads the manage users page
+
+    Response:
+            If successful, returns 200 status code
+
+    Example request:
+        GET http://127.0.0.1:5000/customers
+
     """
     # Verify the user is an administrator
     if current_user.email == ADMIN_EMAIL:
@@ -603,9 +913,20 @@ def display_customers():
 @login_required
 def delete_customer(customer_id):
     """
-    Function for deleting a user
-    :param customer_id: The users id
-    :return: A page contain an updated list of users
+    Delete user Api
+
+    Description:
+        This deletes a user from the website
+
+    Parameters:
+        customer_id: The id of the user
+
+    Response:
+        If successful, returns 200 status code
+
+    Example request:
+        DELETE http://127.0.0.1:5000/customers/1
+
     """
     # Verify the user is an administrator
     if current_user.email == ADMIN_EMAIL:
@@ -639,8 +960,19 @@ def common_passwords():
 @app.route('/attacker/dictionary-attack', methods=['GET', 'POST'])
 def dictionary_attack():
     """
-    Function for performing a diction attack
-    :return: The password of the user if found
+    Dictionary attack Api
+
+    Description:
+        This performs a dictionary attack on the administrator
+
+    Response:
+        If successful, returns 302 status code
+
+    Example request:
+        GET http://127.0.0.1:5000//attacker/dictionary-attack
+
+    How it works:
+        It checks every password from the common password and if it finds a match alerts the attacker to the admins password
     """
     app.config['WTF_CSRF_ENABLED'] = False
     # Check the administrator's password is in the list of common passwords

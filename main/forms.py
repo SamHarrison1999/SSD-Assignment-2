@@ -1,4 +1,6 @@
-"""File containing forms used in the application"""
+"""
+File containing forms used in the application
+"""
 from flask_wtf import FlaskForm
 from flask_wtf.file import FileField, FileRequired
 from wtforms import (StringField,

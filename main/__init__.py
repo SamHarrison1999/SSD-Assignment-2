@@ -1,4 +1,6 @@
-"""Init file for the application"""
+"""
+Init file for the application
+"""
 # Import statements
 import os
 from flask import Flask, render_template

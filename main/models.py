@@ -1,4 +1,6 @@
-"""Class for tables in the database"""
+"""
+Class for tables in the database
+"""
 
 import datetime
 from flask_login import UserMixin

@@ -1,0 +1,541 @@
+<!DOCTYPE html>
+
+<html lang="en" data-content_root="./">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <title>My Ecommerce Application APIs &#8212; SSD Assignment 2  documentation</title>
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=d1102ebc" />
+    <link rel="stylesheet" type="text/css" href="_static/alabaster.css?v=12dfc556" />
+    <script src="_static/documentation_options.js?v=5929fcd5"></script>
+    <script src="_static/doctools.js?v=9a2dae69"></script>
+    <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="prev" title="Welcome to SSD Assignment 2’s documentation!" href="index.html" />
+   
+  <link rel="stylesheet" href="_static/custom.css" type="text/css" />
+  
+
+  
+  
+
+  </head><body>
+  
+
+    <div class="document">
+      <div class="documentwrapper">
+        <div class="bodywrapper">
+          
+
+          <div class="body" role="main">
+            
+  <section id="module-main.routes">
+<span id="my-ecommerce-application-apis"></span><h1>My Ecommerce Application APIs<a class="headerlink" href="#module-main.routes" title="Link to this heading">¶</a></h1>
+<p>Routes of the application</p>
+<dl class="py function">
+<dt class="sig sig-object py" id="main.routes.home_page">
+<span class="sig-prename descclassname"><span class="pre">main.routes.</span></span><span class="sig-name descname"><span class="pre">home_page</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#main.routes.home_page" title="Link to this definition">¶</a></dt>
+<dd><p>Home Api</p>
+<dl class="simple">
+<dt>Description:</dt><dd><p>This loads the home page for the application showing all the available products</p>
+</dd>
+<dt>Response:</dt><dd><p>If successful, returns 200 status code</p>
+</dd>
+<dt>Example request:</dt><dd><p>GET <a class="reference external" href="http://127.0.0.1:5000/">http://127.0.0.1:5000/</a></p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="main.routes.register_page">
+<span class="sig-prename descclassname"><span class="pre">main.routes.</span></span><span class="sig-name descname"><span class="pre">register_page</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#main.routes.register_page" title="Link to this definition">¶</a></dt>
+<dd><p>Register Api</p>
+<dl>
+<dt>Description:</dt><dd><p>This loads the register page for the application</p>
+</dd>
+<dt>Response:</dt><dd><p>If successful, returns 302 status code</p>
+</dd>
+<dt>Example request:</dt><dd><p>POST <a class="reference external" href="http://127.0.0.1:5000/register">http://127.0.0.1:5000/register</a></p>
+</dd>
+<dt>Request Body:</dt><dd><p>csrf_token: IjBlOTcwMzZiYWZjNGY5MjUwZWYyM2I4NzY2NGVmMjFlNzZjM2FhOTIi.ZlOQgA.SAXfqP3Ja7yjE3bG1V3azh4r5oU</p>
+<p>username: admin</p>
+<p>email: <a class="reference external" href="mailto:admin&#37;&#52;&#48;admin&#46;com">admin<span>&#64;</span>admin<span>&#46;</span>com</a></p>
+<p>password: 123456</p>
+<p>confirm_password: 123456</p>
+<p>submit: Create Account</p>
+</dd>
+<dt>How it works:</dt><dd><p>First the register page is loaded</p>
+<p>Then the user inputs credentials and submits the form</p>
+<p>Then if the registration is successful you are redirected to the home page</p>
+<p>Otherwise the user is alert there has been an error creating the account</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="main.routes.login_page">
+<span class="sig-prename descclassname"><span class="pre">main.routes.</span></span><span class="sig-name descname"><span class="pre">login_page</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#main.routes.login_page" title="Link to this definition">¶</a></dt>
+<dd><p>Login Api</p>
+<dl>
+<dt>Description:</dt><dd><p>Loads the login page for the application and logs in the user</p>
+</dd>
+<dt>Response:</dt><dd><p>If successful, returns 302 status code</p>
+</dd>
+<dt>Example request:</dt><dd><p>POST <a class="reference external" href="http://127.0.0.1:5000/login">http://127.0.0.1:5000/login</a></p>
+</dd>
+<dt>Request Body:</dt><dd><p>csrf_token: IjBlOTcwMzZiYWZjNGY5MjUwZWYyM2I4NzY2NGVmMjFlNzZjM2FhOTIi.ZlOQgA.SAXfqP3Ja7yjE3bG1V3azh4r5oU</p>
+<p>email: <a class="reference external" href="mailto:admin&#37;&#52;&#48;admin&#46;com">admin<span>&#64;</span>admin<span>&#46;</span>com</a></p>
+<p>password: 123456</p>
+<p>submit: Login</p>
+</dd>
+<dt>How it works:</dt><dd><p>First the login page is loaded</p>
+<p>Then the user inputs credentials and submits the form</p>
+<p>Then if the login is successful you are redirected to the home page</p>
+<p>Otherwise the user is alert there has been an error logging into the account</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="main.routes.logout_page">
+<span class="sig-prename descclassname"><span class="pre">main.routes.</span></span><span class="sig-name descname"><span class="pre">logout_page</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#main.routes.logout_page" title="Link to this definition">¶</a></dt>
+<dd><p>Logout Api</p>
+<dl class="simple">
+<dt>Description:</dt><dd><p>This logs the user out</p>
+</dd>
+<dt>Response:</dt><dd><p>If successful, returns 302 status code</p>
+</dd>
+<dt>Example request:</dt><dd><p>GET <a class="reference external" href="http://127.0.0.1:5000/logout">http://127.0.0.1:5000/logout</a></p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="main.routes.profile_page">
+<span class="sig-prename descclassname"><span class="pre">main.routes.</span></span><span class="sig-name descname"><span class="pre">profile_page</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">customer_id</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#main.routes.profile_page" title="Link to this definition">¶</a></dt>
+<dd><p>Profile Api</p>
+<dl class="simple">
+<dt>Description:</dt><dd><p>This loads the user’s profile page</p>
+</dd>
+<dt>Parameters:</dt><dd><p>customer_id: The users id</p>
+</dd>
+<dt>Response:</dt><dd><p>If successful, returns 200 status code</p>
+</dd>
+<dt>Example request:</dt><dd><p>GET <a class="reference external" href="http://127.0.0.1:5000/profile/1">http://127.0.0.1:5000/profile/1</a></p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="main.routes.change_password_page">
+<span class="sig-prename descclassname"><span class="pre">main.routes.</span></span><span class="sig-name descname"><span class="pre">change_password_page</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">customer_id</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#main.routes.change_password_page" title="Link to this definition">¶</a></dt>
+<dd><p>Change Password Api</p>
+<dl>
+<dt>Description:</dt><dd><p>Updates the user’s password</p>
+</dd>
+<dt>Parameters:</dt><dd><p>customer_id: The users id</p>
+</dd>
+<dt>Response:</dt><dd><p>If successful, returns 302 status code</p>
+</dd>
+<dt>Example request:</dt><dd><p>POST <a class="reference external" href="http://127.0.0.1:5000/change_password/1">http://127.0.0.1:5000/change_password/1</a></p>
+</dd>
+<dt>Request Body:</dt><dd><p>csrf_token: IjBlOTcwMzZiYWZjNGY5MjUwZWYyM2I4NzY2NGVmMjFlNzZjM2FhOTIi.ZlOQgA.SAXfqP3Ja7yjE3bG1V3azh4r5oU</p>
+<p>current_password: 123456</p>
+<p>new_password: 12345678</p>
+<p>confirm_password: 12345678</p>
+<p>submit: Update password</p>
+</dd>
+<dt>How it works:</dt><dd><p>First the change password page is loaded</p>
+<p>Then the user inputs their current password and the password they want to change it to and submits the form</p>
+<p>Then if the validation checks pass the password is updated, and they are redirected to the profile page</p>
+<p>Otherwise the user is alert there has been an error updating their password</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="main.routes.create_product">
+<span class="sig-prename descclassname"><span class="pre">main.routes.</span></span><span class="sig-name descname"><span class="pre">create_product</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#main.routes.create_product" title="Link to this definition">¶</a></dt>
+<dd><p>Create product API</p>
+<dl>
+<dt>Description:</dt><dd><p>Adds a new product to the list of available products</p>
+</dd>
+<dt>Response:</dt><dd><p>If successful, returns 200 status code</p>
+</dd>
+<dt>Example request:</dt><dd><p>POST <a class="reference external" href="http://127.0.0.1:5000/create_product">http://127.0.0.1:5000/create_product</a></p>
+</dd>
+<dt>Request Body:</dt><dd><p>csrf_token: IjBlOTcwMzZiYWZjNGY5MjUwZWYyM2I4NzY2NGVmMjFlNzZjM2FhOTIi.ZlOQgA.SAXfqP3Ja7yjE3bG1V3azh4r5oU</p>
+<p>product_name: Apple Watch Ultra</p>
+<p>price: 800</p>
+<p>quantity: 1</p>
+<p>description: Apple Watch</p>
+<p>product_image: AppleWatch.jpg</p>
+<p>add_product: Add Product</p>
+</dd>
+<dt>How it works:</dt><dd><p>First the add product page is loaded</p>
+<p>Then the user inputs the values and submits the form</p>
+<p>Then if the validation checks pass the product is created</p>
+<p>Otherwise the user is alert there has been an error updating their password</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="main.routes.shop_items">
+<span class="sig-prename descclassname"><span class="pre">main.routes.</span></span><span class="sig-name descname"><span class="pre">shop_items</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#main.routes.shop_items" title="Link to this definition">¶</a></dt>
+<dd><p>Shop Items Api</p>
+<dl class="simple">
+<dt>Description:</dt><dd><p>This loads the shop items page for the application allowing administrators to manage shop items</p>
+</dd>
+<dt>Response:</dt><dd><p>If successful, returns 200 status code</p>
+</dd>
+<dt>Example request:</dt><dd><p>GET <a class="reference external" href="http://127.0.0.1:5000/view-shop-items">http://127.0.0.1:5000/view-shop-items</a></p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="main.routes.update_item">
+<span class="sig-prename descclassname"><span class="pre">main.routes.</span></span><span class="sig-name descname"><span class="pre">update_item</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">product_id</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#main.routes.update_item" title="Link to this definition">¶</a></dt>
+<dd><p>Update Items Api</p>
+<dl class="simple">
+<dt>Description:</dt><dd><p>This loads the update items page for the application allowing administrators to update an item</p>
+</dd>
+<dt>Parameters:</dt><dd><p>product_id: The id of the product</p>
+</dd>
+<dt>Response:</dt><dd><p>If successful, returns 302 status code</p>
+</dd>
+<dt>Example request:</dt><dd><p>POST <a class="reference external" href="http://127.0.0.1:5000/update-item/1">http://127.0.0.1:5000/update-item/1</a></p>
+</dd>
+<dt>How it works:</dt><dd><p>First the update item page is loaded
+Then the user inputs the values and submits the form
+Then if the validation checks pass the product is update
+Otherwise the user is alert there has been an error updating the product</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="main.routes.delete_item">
+<span class="sig-prename descclassname"><span class="pre">main.routes.</span></span><span class="sig-name descname"><span class="pre">delete_item</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">product_id</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#main.routes.delete_item" title="Link to this definition">¶</a></dt>
+<dd><p>Delete Item Api</p>
+<dl class="simple">
+<dt>Description:</dt><dd><p>This removes an item from the website</p>
+</dd>
+<dt>Parameters:</dt><dd><p>product_id: The id of the product</p>
+</dd>
+<dt>Response:</dt><dd><p>If successful, returns 200 status code</p>
+</dd>
+<dt>Example request:</dt><dd><p>DELETE <a class="reference external" href="http://127.0.0.1:5000/delete-item/1">http://127.0.0.1:5000/delete-item/1</a></p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="main.routes.add_to_cart">
+<span class="sig-prename descclassname"><span class="pre">main.routes.</span></span><span class="sig-name descname"><span class="pre">add_to_cart</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">product_id</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#main.routes.add_to_cart" title="Link to this definition">¶</a></dt>
+<dd><p>Add to cart Api</p>
+<dl class="simple">
+<dt>Description:</dt><dd><p>This adds an item to the cart</p>
+</dd>
+<dt>Parameters:</dt><dd><p>product_id: The id of the product</p>
+</dd>
+<dt>Response:</dt><dd><p>If successful, returns 302 status code</p>
+</dd>
+<dt>Example request:</dt><dd><p>GET <a class="reference external" href="http://127.0.0.1:5000/add-to-cart/1">http://127.0.0.1:5000/add-to-cart/1</a></p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="main.routes.increase_quantity">
+<span class="sig-prename descclassname"><span class="pre">main.routes.</span></span><span class="sig-name descname"><span class="pre">increase_quantity</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#main.routes.increase_quantity" title="Link to this definition">¶</a></dt>
+<dd><p>Increase quantity Api</p>
+<dl class="simple">
+<dt>Description:</dt><dd><p>This increases the quantity of a product in your cart</p>
+</dd>
+<dt>Response:</dt><dd><p>If successful, returns 200 status code</p>
+</dd>
+<dt>Example request:</dt><dd><p>GET <a class="reference external" href="http://127.0.0.1:5000/increase-quantity?cart_id=1">http://127.0.0.1:5000/increase-quantity?cart_id=1</a></p>
+</dd>
+<dt>How it works:</dt><dd><p>When the plus button is clicked the quantity is increased</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="main.routes.decrease_quantity">
+<span class="sig-prename descclassname"><span class="pre">main.routes.</span></span><span class="sig-name descname"><span class="pre">decrease_quantity</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#main.routes.decrease_quantity" title="Link to this definition">¶</a></dt>
+<dd><p>Decreased quantity Api</p>
+<dl class="simple">
+<dt>Description:</dt><dd><p>This decreases the quantity of a product in your cart</p>
+</dd>
+<dt>Response:</dt><dd><p>If successful, returns 200 status code</p>
+</dd>
+<dt>Example request:</dt><dd><p>GET <a class="reference external" href="http://127.0.0.1:5000/decrease-quantity?cart_id=1">http://127.0.0.1:5000/decrease-quantity?cart_id=1</a></p>
+</dd>
+<dt>How it works:</dt><dd><p>When the minus button is clicked, the quantity is decreased</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="main.routes.remove_from_cart">
+<span class="sig-prename descclassname"><span class="pre">main.routes.</span></span><span class="sig-name descname"><span class="pre">remove_from_cart</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#main.routes.remove_from_cart" title="Link to this definition">¶</a></dt>
+<dd><p>Remove from cart Api</p>
+<dl class="simple">
+<dt>Description:</dt><dd><p>This removing an item from your cart</p>
+</dd>
+<dt>Response:</dt><dd><p>If successful, returns 200 status code</p>
+</dd>
+<dt>Example request:</dt><dd><p>GET <a class="reference external" href="http://127.0.0.1:5000/remove-from-cart?cart_id=1">http://127.0.0.1:5000/remove-from-cart?cart_id=1</a></p>
+</dd>
+<dt>How it works:</dt><dd><p>When the remove button is clicked, the item is removed from your cart</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="main.routes.show_cart">
+<span class="sig-prename descclassname"><span class="pre">main.routes.</span></span><span class="sig-name descname"><span class="pre">show_cart</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#main.routes.show_cart" title="Link to this definition">¶</a></dt>
+<dd><p>Show cart Api</p>
+<dl class="simple">
+<dt>Description:</dt><dd><p>This shows the items in your cart</p>
+</dd>
+<dt>Response:</dt><dd><p>If successful, returns 200 status code</p>
+</dd>
+<dt>Example request:</dt><dd><p>GET <a class="reference external" href="http://127.0.0.1:5000/cart">http://127.0.0.1:5000/cart</a></p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="main.routes.place_order">
+<span class="sig-prename descclassname"><span class="pre">main.routes.</span></span><span class="sig-name descname"><span class="pre">place_order</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#main.routes.place_order" title="Link to this definition">¶</a></dt>
+<dd><p>Place order Api</p>
+<dl class="simple">
+<dt>Description:</dt><dd><p>This places an order</p>
+</dd>
+<dt>Response:</dt><dd><p>If successful, returns 200 status code</p>
+</dd>
+<dt>Example request:</dt><dd><p>GET <a class="reference external" href="http://127.0.0.1:5000/place-order">http://127.0.0.1:5000/place-order</a></p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="main.routes.my_orders">
+<span class="sig-prename descclassname"><span class="pre">main.routes.</span></span><span class="sig-name descname"><span class="pre">my_orders</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#main.routes.my_orders" title="Link to this definition">¶</a></dt>
+<dd><p>Order history Api</p>
+<dl class="simple">
+<dt>Description:</dt><dd><p>This shows a users order history</p>
+</dd>
+<dt>Response:</dt><dd><p>If successful, returns 200 status code</p>
+</dd>
+<dt>Example request:</dt><dd><p>GET <a class="reference external" href="http://127.0.0.1:5000/orders">http://127.0.0.1:5000/orders</a></p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="main.routes.search">
+<span class="sig-prename descclassname"><span class="pre">main.routes.</span></span><span class="sig-name descname"><span class="pre">search</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#main.routes.search" title="Link to this definition">¶</a></dt>
+<dd><p>Search Api</p>
+<dl>
+<dt>Description:</dt><dd><p>Loads the search pages and returns items matching the search criteria</p>
+</dd>
+<dt>Response:</dt><dd><p>If successful, returns 200 status code</p>
+</dd>
+<dt>Example request:</dt><dd><p>POST <a class="reference external" href="http://127.0.0.1:5000/search">http://127.0.0.1:5000/search</a></p>
+</dd>
+<dt>Request Body:</dt><dd><p>search: Apple Watch
+search_btn:</p>
+</dd>
+<dt>How it works:</dt><dd><p>First the search page is loaded</p>
+<p>Then the user inputs the search term and clicks the search_btn</p>
+<p>Then the search results are displayed</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="main.routes.order_view">
+<span class="sig-prename descclassname"><span class="pre">main.routes.</span></span><span class="sig-name descname"><span class="pre">order_view</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#main.routes.order_view" title="Link to this definition">¶</a></dt>
+<dd><p>Manage orders Api</p>
+<dl class="simple">
+<dt>Description:</dt><dd><p>This loads the manage orders page</p>
+</dd>
+<dt>Response:</dt><dd><p>If successful, returns 200 status code</p>
+</dd>
+<dt>Example request:</dt><dd><p>GET <a class="reference external" href="http://127.0.0.1:5000/view-orders">http://127.0.0.1:5000/view-orders</a></p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="main.routes.update_order">
+<span class="sig-prename descclassname"><span class="pre">main.routes.</span></span><span class="sig-name descname"><span class="pre">update_order</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">order_id</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#main.routes.update_order" title="Link to this definition">¶</a></dt>
+<dd><p>Update order status Api</p>
+<dl>
+<dt>Description:</dt><dd><p>This updates the status of an order</p>
+</dd>
+<dt>Parameters:</dt><dd><p>order_id: The id of the order</p>
+</dd>
+<dt>Response:</dt><dd><p>If successful, returns 302 status code</p>
+</dd>
+<dt>Example request:</dt><dd><p>POST <a class="reference external" href="http://127.0.0.1:5000/update-order/1">http://127.0.0.1:5000/update-order/1</a></p>
+</dd>
+<dt>Request Body:</dt><dd><p>status: “Delivered”</p>
+</dd>
+<dt>How it works:</dt><dd><p>First the update order page is loaded</p>
+<p>Then the user fills out and submits the form</p>
+<p>Then if the update is successful you are redirected to the manage order page</p>
+<p>Otherwise the user is alert there has been an error updating an order</p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="main.routes.display_customers">
+<span class="sig-prename descclassname"><span class="pre">main.routes.</span></span><span class="sig-name descname"><span class="pre">display_customers</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#main.routes.display_customers" title="Link to this definition">¶</a></dt>
+<dd><p>Manage users Api</p>
+<dl class="simple">
+<dt>Description:</dt><dd><p>This loads the manage users page</p>
+</dd>
+<dt>Response:</dt><dd><p>If successful, returns 200 status code</p>
+</dd>
+<dt>Example request:</dt><dd><p>GET <a class="reference external" href="http://127.0.0.1:5000/customers">http://127.0.0.1:5000/customers</a></p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="main.routes.delete_customer">
+<span class="sig-prename descclassname"><span class="pre">main.routes.</span></span><span class="sig-name descname"><span class="pre">delete_customer</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">customer_id</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#main.routes.delete_customer" title="Link to this definition">¶</a></dt>
+<dd><p>Delete user Api</p>
+<dl class="simple">
+<dt>Description:</dt><dd><p>This deletes a user from the website</p>
+</dd>
+<dt>Parameters:</dt><dd><p>customer_id: The id of the user</p>
+</dd>
+<dt>Response:</dt><dd><p>If successful, returns 200 status code</p>
+</dd>
+<dt>Example request:</dt><dd><p>DELETE <a class="reference external" href="http://127.0.0.1:5000/customers/1">http://127.0.0.1:5000/customers/1</a></p>
+</dd>
+</dl>
+</dd></dl>
+
+<dl class="py function">
+<dt class="sig sig-object py" id="main.routes.dictionary_attack">
+<span class="sig-prename descclassname"><span class="pre">main.routes.</span></span><span class="sig-name descname"><span class="pre">dictionary_attack</span></span><span class="sig-paren">(</span><span class="sig-paren">)</span><a class="headerlink" href="#main.routes.dictionary_attack" title="Link to this definition">¶</a></dt>
+<dd><p>Dictionary attack Api</p>
+<dl class="simple">
+<dt>Description:</dt><dd><p>This performs a dictionary attack on the administrator</p>
+</dd>
+<dt>Response:</dt><dd><p>If successful, returns 302 status code</p>
+</dd>
+<dt>Example request:</dt><dd><p>GET <a class="reference external" href="http://127.0.0.1:5000//attacker/dictionary-attack">http://127.0.0.1:5000//attacker/dictionary-attack</a></p>
+</dd>
+<dt>How it works:</dt><dd><p>It checks every password from the common password and if it finds a match alerts the attacker to the admins password</p>
+</dd>
+</dl>
+</dd></dl>
+
+</section>
+
+
+          </div>
+          
+        </div>
+      </div>
+      <div class="sphinxsidebar" role="navigation" aria-label="main navigation">
+        <div class="sphinxsidebarwrapper">
+<h1 class="logo"><a href="index.html">SSD Assignment 2</a></h1>
+
+
+
+
+
+
+
+
+<h3>Navigation</h3>
+<p class="caption" role="heading"><span class="caption-text">Contents:</span></p>
+<ul class="current">
+<li class="toctree-l1 current"><a class="current reference internal" href="#">My Ecommerce Application APIs</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#main.routes.home_page"><code class="docutils literal notranslate"><span class="pre">home_page()</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#main.routes.register_page"><code class="docutils literal notranslate"><span class="pre">register_page()</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#main.routes.login_page"><code class="docutils literal notranslate"><span class="pre">login_page()</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#main.routes.logout_page"><code class="docutils literal notranslate"><span class="pre">logout_page()</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#main.routes.profile_page"><code class="docutils literal notranslate"><span class="pre">profile_page()</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#main.routes.change_password_page"><code class="docutils literal notranslate"><span class="pre">change_password_page()</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#main.routes.create_product"><code class="docutils literal notranslate"><span class="pre">create_product()</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#main.routes.shop_items"><code class="docutils literal notranslate"><span class="pre">shop_items()</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#main.routes.update_item"><code class="docutils literal notranslate"><span class="pre">update_item()</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#main.routes.delete_item"><code class="docutils literal notranslate"><span class="pre">delete_item()</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#main.routes.add_to_cart"><code class="docutils literal notranslate"><span class="pre">add_to_cart()</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#main.routes.increase_quantity"><code class="docutils literal notranslate"><span class="pre">increase_quantity()</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#main.routes.decrease_quantity"><code class="docutils literal notranslate"><span class="pre">decrease_quantity()</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#main.routes.remove_from_cart"><code class="docutils literal notranslate"><span class="pre">remove_from_cart()</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#main.routes.show_cart"><code class="docutils literal notranslate"><span class="pre">show_cart()</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#main.routes.place_order"><code class="docutils literal notranslate"><span class="pre">place_order()</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#main.routes.my_orders"><code class="docutils literal notranslate"><span class="pre">my_orders()</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#main.routes.search"><code class="docutils literal notranslate"><span class="pre">search()</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#main.routes.order_view"><code class="docutils literal notranslate"><span class="pre">order_view()</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#main.routes.update_order"><code class="docutils literal notranslate"><span class="pre">update_order()</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#main.routes.display_customers"><code class="docutils literal notranslate"><span class="pre">display_customers()</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#main.routes.delete_customer"><code class="docutils literal notranslate"><span class="pre">delete_customer()</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="#main.routes.dictionary_attack"><code class="docutils literal notranslate"><span class="pre">dictionary_attack()</span></code></a></li>
+</ul>
+</li>
+</ul>
+
+<div class="relations">
+<h3>Related Topics</h3>
+<ul>
+  <li><a href="index.html">Documentation overview</a><ul>
+      <li>Previous: <a href="index.html" title="previous chapter">Welcome to SSD Assignment 2’s documentation!</a></li>
+  </ul></li>
+</ul>
+</div>
+<search id="searchbox" style="display: none" role="search">
+  <h3 id="searchlabel">Quick search</h3>
+    <div class="searchformwrapper">
+    <form class="search" action="search.html" method="get">
+      <input type="text" name="q" aria-labelledby="searchlabel" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"/>
+      <input type="submit" value="Go" />
+    </form>
+    </div>
+</search>
+<script>document.getElementById('searchbox').style.display = "block"</script>
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+      <div class="clearer"></div>
+    </div>
+    <div class="footer">
+      &#169;2024, Samuel Harrison.
+      
+      |
+      Powered by <a href="https://www.sphinx-doc.org/">Sphinx 7.3.7</a>
+      &amp; <a href="https://alabaster.readthedocs.io">Alabaster 0.7.16</a>
+      
+      |
+      <a href="_sources/api.rst.txt"
+          rel="nofollow">Page source</a>
+    </div>
+
+    
+
+    
+  </body>
+</html>
