@@ -9825,3 +9825,5 @@ K
 docs/index.rst,d\0\d0153cac95479af9bfb99b746b633bc8255bb53a
 N
 docs/_build/html/genindex.html,b\5\b521dcdb371591578fec63d9c776b9417ddce5f5
+I
+docs/_build/html/api.html,b\e\bec2b3794f7a78ed6337482a9f6cd339c060b6ad

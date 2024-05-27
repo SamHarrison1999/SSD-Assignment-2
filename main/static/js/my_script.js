@@ -1,6 +1,6 @@
 $('.increase-quantity').click(function(){
     /**
-     * Increases the quantity of an item in your cart when the plus button click
+     * Increases the quantity of an item in your cart when the plus button is clicked
      */
 
     // Get the cart id and quantity
@@ -29,7 +29,7 @@ $('.increase-quantity').click(function(){
 
 $('.decrease-quantity').click(function(){
     /**
-     * Decrease the quantity of an item in your cart when the minus button clicked
+     * Decrease the quantity of an item in your cart when the minus button is clicked
      */
 
     // Get the cart id and quantity

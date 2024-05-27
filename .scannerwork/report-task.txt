@@ -1,0 +1,6 @@
+projectKey=SSD_Assignment_2
+serverUrl=http://localhost:9000
+serverVersion=10.5.1.90531
+dashboardUrl=http://localhost:9000/dashboard?id=SSD_Assignment_2
+ceTaskId=68d4c39f-52e4-435d-a637-2a0e86379c47
+ceTaskUrl=http://localhost:9000/api/ce/task?id=68d4c39f-52e4-435d-a637-2a0e86379c47
