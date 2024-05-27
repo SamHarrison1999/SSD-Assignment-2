@@ -1,4 +1,6 @@
 """Unit test for the application"""
+import os
+
 from flask_testing import TestCase
 
 from main import db, app
@@ -16,6 +18,7 @@ class test(TestCase):
         """
         app.config['TESTING'] = True
         app.config['WTF_CSRF_ENABLED'] = False
+        app.config['SECRET_KEY'] = os.getenv("SECRET_KEY")
         return app
 
     SQLALCHEMY_DATABASE_URI = "sqlite://"
@@ -332,6 +335,7 @@ class test(TestCase):
         customer.email = 'test1@gmail.com'
         customer.password = '123456'
         customer.confirm_password = '123456'
+        assert customer.__str__() == '1'
         with self.assertRaises(AttributeError):
             customer.password()
 
@@ -620,7 +624,7 @@ class test(TestCase):
         rv = self.delete_customer(1)
         assert "The account" and "has been deleted" in rv.data.decode('utf-8')
 
-    def test__access_denied_when_non_admin_attempts_to_delete_customer(self):
+    def test_access_denied_when_non_admin_attempts_to_delete_customer(self):
         """
         Testing access is denied if a non-admin user attempts to delete a customer
         :return:
@@ -707,20 +711,6 @@ class test(TestCase):
         rv = self.update_order(1, "Delivered")
         assert 'Order 1 Updated successfully' in rv.data.decode('utf-8')
 
-    def test_update_order_status_with_no_status(self):
-        """
-        Testing an error is raised if you attempt to update an order status to no status
-        :return:
-        """
-        self.register("admin", "admin@admin.com", "123456", "123456")
-        self.login("admin@admin.com", "123456")
-        self.create_product("Apple Watch Ultra", 10000, 799.99, "Apple Smart Watch", 'AppleWatch.jpg')
-        self.add_to_cart(1)
-        self.view_cart()
-        self.place_order()
-        rv = self.update_order(1, None)
-        assert 'Order 1 not updated' in rv.data.decode('utf-8')
-
     def test_access_denied_when_non_admin_tries_to_view_all_orders(self):
         """
         Testing access is denied if a non-admin user attempts to view all orders
@@ -778,6 +768,21 @@ class test(TestCase):
         rv = self.client.get("/search", follow_redirects=True)
         assert 'Search Page' in rv.data.decode('utf-8')
         assert rv.request.path == '/search'
+
+    def test_update_order_route(self):
+        """
+        Test the search route
+        :return:
+        """
+        self.register("admin", "admin@admin.com", "123456", "123456")
+        self.login("admin@admin.com", "123456")
+        self.create_product("Apple Watch Ultra", 10000, 799.99, "Apple Smart Watch", 'AppleWatch.jpg')
+        self.add_to_cart(1)
+        self.view_cart()
+        self.place_order()
+        rv = self.client.get(f'/update-order/1', follow_redirects=True)
+        assert 'Update Orders Page' in rv.data.decode('utf-8')
+        assert rv.request.path == '/update-order/1'
 
     def test_dictionary_attack(self):
         """

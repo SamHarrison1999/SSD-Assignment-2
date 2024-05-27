@@ -25,10 +25,7 @@ API_PUBLISHABLE_KEY = os.getenv("API_PUBLISHABLE_KEY")
 API_TOKEN = os.getenv("API_TOKEN")
 # Creating the tables if they don't exist
 with app.app_context():
-    try:
-        db.create_all()
-    except SQLAlchemyError:
-        print("Tables already exist")
+    db.create_all()
 
 
 @app.route('/media/<path:filename>')
@@ -868,8 +865,6 @@ def update_order(order_id):
             flash(f'Order {order_id} Updated successfully', category='success')
             # Redirect the user to the order view page
             return redirect(url_for('order_view'))
-        # Alert the user the order status couldn't be updated
-        flash(f'Order {order_id} not updated', category='danger')
         # Display the update order page
         return render_template('order_update.html', form=form)
     # Display the access denied page if the user is not an administrator
